@@ -5,6 +5,24 @@
 
 読む順番: `CLAUDE.md`（前提とノウハウ）→ `STATUS.md`（いまの状態）→ この文書。
 
+## 0. リポジトリは2つ（どちらもPrivate）
+
+| リポジトリ | 中身 |
+|---|---|
+| `kenjoy4141/UbicomicsClaudePJ` | 本体（生成・仕上げ・投稿の自動化） |
+| `kenjoy4141/manga_bubble` | 吹き出しツール（本体の `bubbles` 工程が呼ぶ） |
+
+**同じフォルダの下に並べて clone する**と、設定なしで見つかる:
+
+```
+C:\Users\<名前>\claude\
+  ├─ pixiv_booth_auto\   ← git clone https://github.com/kenjoy4141/UbicomicsClaudePJ.git pixiv_booth_auto
+  └─ manga_bubble\       ← git clone https://github.com/kenjoy4141/manga_bubble.git
+```
+
+別の場所に置いたときは `config/config.json` の `mangaBubbleDir` を書き換える。
+manga_bubble の `.env`（Anthropic APIキー）はリポジトリに入っていない。吹き出し工程では使わないので、なくても動く。
+
 ---
 
 ## 1. 渡すもの / 渡してはいけないもの
@@ -38,7 +56,7 @@
 | **チェックポイント** | `config/accounts.json` に書いてあるモデルを同じ名前で置く。無いと生成が止まる |
 | 画風LoRA `cnv3mdde878c738thn20` | `config.sd.allowedLoras` の許可リストにあるもの |
 | AutoMosaicTool_Pro | モザイク。既定は `C:\Users\7700\Downloads\AutoMosaicToolPro\...`。`tools/run-mosaic.ps1` の `-ToolDir` で変えられる |
-| manga_bubble（吹き出しツール） | 既定は `C:/Users/7700/claude/manga_bubble`。`config/config.json` の該当値を直す |
+| manga_bubble（吹き出しツール） | 別リポジトリ。上の「0.」のとおり本体と並べて clone する |
 | フォント | `NotoSerifJP-VF.ttf` / `NotoSansJP-VF.ttf`（Windows標準で入っていることが多い） |
 | Playwright のブラウザ | `npx playwright install chromium`。**Claude には実行させず本人がやる**（AppData配下はサンドボックス差分で失敗する） |
 

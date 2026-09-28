@@ -127,5 +127,7 @@
       "poolside"
     ],
     "_note": "Patreonは未成年を想起させる場所も判断材料にするため、学校系(infirmary/classroom/library)は使わない。"
-  }
+  },
+  "mangaBubbleDir": "C:/Users/7700/claude/manga_bubble",
+  "_mangaBubbleDirNote": "吹き出しツール（別リポジトリ kenjoy4141/manga_bubble）の場所。未設定ならこのプロジェクトと同じ階層の manga_bubble を使う"
 }

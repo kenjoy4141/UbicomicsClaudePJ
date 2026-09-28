@@ -17,7 +17,10 @@ const opt = (n, d = null) => {
   return i >= 0 && argv[i + 1] && !argv[i + 1].startsWith("--") ? argv[i + 1] : d;
 };
 
-const MB = opt("tool", "C:/Users/7700/claude/manga_bubble");
+// 吹き出しツール（別リポジトリ manga_bubble）の場所。
+// --tool > config.json の mangaBubbleDir > このプロジェクトと同じ階層の manga_bubble の順で探す
+const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, "config/config.json"), "utf8"));
+const MB = opt("tool", cfg.mangaBubbleDir ?? path.resolve(ROOT, "..", "manga_bubble"));
 const pages = opt("pages");
 const csv = opt("csv");
 const out = opt("out");
