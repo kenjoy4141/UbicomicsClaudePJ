@@ -1,0 +1,235 @@
+{
+  "_note": "English template. {{placeEn}} {{placeShortEn}} {{uniformEn}} {{itemEn}} {{taskEn}} {{visitorEn}} {{deskItemEn}} {{breakFoodEn}} come from the variant's words. Non-sexual intro lines only.",
+  "scenes": {
+    "診察": {
+      "early": [
+        [["doc", "Nice to meet you. I'm {{doc}}."], ["pat", "Nice to meet you."]],
+        [["doc", "{{pat}}, you came back."], ["pat", "...I did."]]
+      ],
+      "late": [
+        [["doc", "I kept the last slot of the day open for you."], ["pat", "Thank you."]],
+        [["doc", "The {{taskEn}} is already finished, you know."], ["pat", "Huh?"]]
+      ]
+    },
+    "前かがみで見つめる": {
+      "early": [
+        [["doc", "Let me see your face. Properly."], ["pat", "Y-you're too close..."]],
+        [["doc", "You're not sleeping, are you? Look at those dark circles."]]
+      ],
+      "late": [
+        [["doc", "...You won't meet my eyes today?"]],
+        [["doc", "Don't look away."], ["pat", "You first, {{doc}}."]]
+      ]
+    },
+    "正面": {
+      "early": [
+        [["doc", "You sit at a desk all day, don't you?"], ["pat", "You can tell?"]],
+        [["doc", "Your shoulders give it away."]]
+      ],
+      "late": [
+        [["doc", "Are you eating properly? I worry about you."]],
+        [["doc", "You can drop the formalities."], ["pat", "...{{doc}}."]]
+      ]
+    },
+    "正面（ささやきポーズ）": {
+      "early": [
+        [["doc", "Between us... today is special."]],
+        [["doc", "Keep it secret. I'd get in trouble."]],
+        [["doc", "I don't tell the other {{visitorEn}}s this, but..."]],
+        [["doc", "I'll keep the same time for you next week."], ["pat", "...Please."]]
+      ],
+      "late": [
+        [["doc", "Hey... can we talk after this?"]],
+        [["doc", "Are you free on your next day off?"], ["pat", "I'll make time."]],
+        [["doc", "I found a nice place nearby. Want to go?"]],
+        [["doc", "...Did you hear that?"], ["pat", "Every word."]]
+      ]
+    },
+    "正面エロ": {
+      "early": [
+        [["doc", "Nervous? You're all tensed up."]],
+        [["doc", "It's hard to do the {{taskEn}} when you stare like that."]]
+      ],
+      "late": [
+        [["doc", "Today I might be the nervous one."]],
+        [["doc", "I don't mind you looking, {{pat}}."]]
+      ]
+    },
+    "振り返り構図": {
+      "early": [
+        [["doc", "I'll go get the {{itemEn}}."]],
+        [["doc", "...What? Why are you staring?"], ["pat", "N-nothing."]]
+      ],
+      "late": [
+        [["doc", "Leaving already?"], ["pat", "...I'll stay a bit longer."]],
+        [["doc", "You were staring. I know."]]
+      ]
+    },
+    "聴診器": {
+      "early": [
+        [["doc", "The {{itemEn}}. Hold still for a moment."], ["pat", "Okay."]],
+        [["doc", "It's a little cold. Bear with it."]]
+      ],
+      "late": [
+        [["doc", "I already know what you like, {{pat}}."]],
+        [["doc", "Can I choose for you today?"]]
+      ]
+    },
+    "座って書いてる": {
+      "early": [
+        [["doc", "Give me a minute with the {{deskItemEn}}."]],
+        [["doc", "How often do you exercise per week?"], ["pat", "...Never."]]
+      ],
+      "late": [
+        [["doc", "There's more and more I can't write in the {{deskItemEn}}."]],
+        [["doc", "I always leave yours for last, {{pat}}."], ["pat", "Wait, really?"]]
+      ]
+    },
+    "見下ろし": {
+      "early": [
+        [["doc", "Come on, sit up straight."]],
+        [["doc", "{{visitorEn}}s who don't listen are a handful."]]
+      ],
+      "late": [
+        [["doc", "Don't look up at me like that."]],
+        [["doc", "I'm not letting you go today."]]
+      ]
+    },
+    "上着脱ぐ": {
+      "early": [
+        [["doc", "It's so hot... I'll take off the {{uniformEn}} for a bit."], ["pat", "...!"]],
+        [["doc", "Don't look, okay?"]]
+      ],
+      "late": [
+        [["doc", "Without the {{uniformEn}}, I'm just a woman."]],
+        [["doc", "No more {{taskEn}} today."]]
+      ]
+    },
+    "下着になる": {
+      "early": [
+        [["doc", "Hey! I'm still changing!"], ["pat", "S-sorry!"]],
+        [["doc", "This is the back of the {{placeShortEn}}, you know."]]
+      ],
+      "late": [
+        [["doc", "...You don't have to look away."]],
+        [["doc", "You're the only one I'd show this to."]]
+      ]
+    },
+    "下着になる　サイド": {
+      "early": [
+        [["doc", "At least knock first."]],
+        [["doc", "...Pretend you didn't see that."]]
+      ],
+      "late": [
+        [["doc", "I told you, no knocking needed today."]],
+        [["doc", "It's embarrassing, but I don't hate it."]]
+      ]
+    },
+    "座って見上げる": {
+      "early": [
+        [["doc", "When should I put you down for next time?"]],
+        [["doc", "Make sure you come back. Promise."]]
+      ],
+      "late": [
+        [["doc", "You can come even without a reason."]],
+        [["doc", "Hey... what do you think of me?"]]
+      ]
+    },
+    "寝転ぶ　半脱げ": {
+      "early": [
+        [["doc", "Just a quick break... it's been busy."]],
+        [["doc", "You caught me being sloppy."]]
+      ],
+      "late": [
+        [["doc", "Want to come over here?"], ["pat", "...Yeah."]],
+        [["doc", "I can't keep my guard up around you, {{pat}}."]]
+      ]
+    },
+    "寝転ぶ": {
+      "early": [
+        [["doc", "Mind if I close my eyes for a moment?"]],
+        [["doc", "I've been on my feet since morning..."]]
+      ],
+      "late": [
+        [["doc", "Will you stay until I wake up?"]],
+        [["doc", "Your voice calms me down, {{pat}}."]]
+      ]
+    },
+    "窓の外見てる": {
+      "early": [
+        [["doc", "I love the sky at this hour."]],
+        [["doc", "Are you getting enough rest?"], ["pat", "Look who's talking."]]
+      ],
+      "late": [
+        [["doc", "Want to meet somewhere outside the {{placeEn}}?"]],
+        [["doc", "Once this is over, you'll stop coming, won't you?"], ["pat", "I'll still come."]]
+      ]
+    },
+    "前かがみ": {
+      "early": [
+        [["doc", "Come on, relax."], ["pat", "I am relaxed..."]],
+        [["doc", "Wow, you're really tense here."]]
+      ],
+      "late": [
+        [["doc", "Maybe today it's my turn to be looked after."]],
+        [["doc", "Too close? I'm doing it on purpose."]]
+      ]
+    },
+    "脱ぎながら脇": {
+      "early": [
+        [["doc", "Hey, I'm still changing!"]],
+        [["doc", "...Forget what you just saw."]]
+      ],
+      "late": [
+        [["doc", "I told you to wait."], ["pat", "I couldn't."]],
+        [["doc", "Geez. You're hopeless."]]
+      ]
+    },
+    "膝枕": {
+      "early": [
+        [["doc", "You look pale. Lie down for a bit."], ["pat", "S-sorry..."]],
+        [["doc", "Here, rest your head."]]
+      ],
+      "late": [
+        [["doc", "Does this help you relax?"], ["pat", "...A lot."]],
+        [["doc", "Just for today. Special treatment."]]
+      ]
+    },
+    "お弁当食べてる": {
+      "early": [
+        [["doc", "Haven't had lunch? Here, {{breakFoodEn}}."], ["pat", "Are you sure?"]],
+        [["doc", "You're okay with sweet things?"]]
+      ],
+      "late": [
+        [["doc", "I brought some for you too, {{pat}}."]],
+        [["doc", "Want me to bring you some every day?"]]
+      ]
+    },
+    "主人公下着": {
+      "early": [
+        [["doc", "Shirt off, please. Let me see your back."], ["pat", "Okay..."]],
+        [["doc", "Oh, you're more toned than I thought."]]
+      ],
+      "late": [
+        [["doc", "...My heart's beating faster than before."]],
+        [["doc", "Today it's my turn to be shy."]]
+      ]
+    },
+    "伸び": {
+      "early": [
+        [["doc", "Mmm... that's it for the morning."]],
+        [["doc", "My shoulders... this job is harder than it looks."]]
+      ],
+      "late": [
+        [["doc", "Finally, just the two of us."]],
+        [["doc", "Day 30. Remember our promise?"], ["pat", "Of course."]]
+      ]
+    }
+  },
+  "fallback": {
+    "early": [[["doc", "How are you feeling today?"]]],
+    "late": [[["doc", "I'm glad you came."]]]
+  },
+  "finale": [["doc", "Day 30. Remember our promise?"], ["pat", "Of course I do."]],
+  "afterword": { "text": "And then, we had SO much sex." }
+}

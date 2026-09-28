@@ -1,0 +1,637 @@
+{
+  "_note": "秘密図書倶楽部。28歳の市立図書館の司書が、社会人の常連利用者（成人男性）を『会員制の集まり』に誘い、閉館後の館内で倶楽部活動と称して30日かけて言いなりにしていく。主導権は完全にヒロイン側。からかう・焦らす・言わせる・我慢させる。夏の設定（冷房の効かない閉架書庫・汗・扇風機・麦茶・蝉・夏期開館の延長）。内容は非性的。登場人物は全員成人。",
+  "imagesPerBeat": 4,
+  "_panels": "1ビート=4枚。2枚ずつを1ページにまとめた2コマのページを2枚（引き・寄り・角度・反応で4構図）",
+  "beats": [
+    {
+      "day": 1,
+      "scene": "勧誘",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), calm expression, faint amused smile,",
+      "poses": [
+        "wide shot of a quiet library reading room in summer, tall windows with white light outside, standing behind the lending counter holding a small printed card out, looking at viewer,",
+        "close up of the small card pinched between two fingers, only a handwritten club name and a number on it,",
+        "shot from between tall bookshelves, looking past rows of book spines toward her at the distant counter,",
+        "medium shot, resting both elbows on the counter and leaning forward slightly, chin lifted, watching for a reaction,"
+      ],
+      "lines": [
+        ["doc", "うちの図書館、　会員制の　集まりが　あるんです"],
+        ["pat", "そんなの　聞いた　ことないですけど"]
+      ],
+      "lines2": [
+        ["doc", "あなた、　向いてそう。　入りません？"],
+        ["pat", "……何を　する　会なんですか"]
+      ]
+    },
+    {
+      "day": 2,
+      "scene": "入会の条件",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), unreadable look, slight smile,",
+      "poses": [
+        "wide shot of the lending counter, holding up one finger, a stack of books beside her, looking at viewer,",
+        "extreme close up of a raised index finger in front of her glasses, lens catching the window light,",
+        "high angle from above the counter, looking down at the books and her upturned face,",
+        "medium shot, lowering the finger and tapping it twice on the counter top, waiting,"
+      ],
+      "lines": [
+        ["doc", "条件は　ひとつ。　わたしに　逆らわないこと"],
+        ["pat", "……冗談、　ですよね"]
+      ],
+      "lines2": [
+        ["doc", "さあ。　どっちだと　思います？"],
+        ["pat", "目が　笑って　ないんですけど"]
+      ]
+    },
+    {
+      "day": 3,
+      "scene": "夏期開館",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), businesslike look,",
+      "poses": [
+        "wide shot of the reading room in late afternoon, strong summer light through tall windows, pinning a notice about extended summer hours to a board,",
+        "close up of the pinned notice, the closing time written large, a fingertip still on the corner,",
+        "low angle from floor level looking up past the long tables toward her at the board,",
+        "medium shot, turning away from the board and looking straight at viewer, arms folded,"
+      ],
+      "lines": [
+        ["doc", "夏は　閉館が　一時間　延びるんです"],
+        ["pat", "知らなかったです"]
+      ],
+      "lines2": [
+        ["doc", "つまり、　一時間　長く　居られる"],
+        ["pat", "早く　帰れって　言ってたのは"]
+      ]
+    },
+    {
+      "day": 4,
+      "scene": "静かにしなさい",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), calm expression, finger to lips,",
+      "poses": [
+        "wide shot of a silent reading room, cicadas outside the open window, standing beside a long table with a finger raised to her lips toward viewer,",
+        "extreme close up of her lips and the fingertip pressed in front of them, glasses reflecting the ceiling light,",
+        "shot from across the reading table, empty chairs in the foreground, her standing beyond them,",
+        "medium shot, tilting her head and not lowering the finger, clearly enjoying herself,"
+      ],
+      "lines": [
+        ["doc", "しー。　声、　大きい"],
+        ["pat", "まだ　何も　言ってないです"]
+      ],
+      "lines2": [
+        ["doc", "息が　うるさいの。　止めてて"],
+        ["pat", "無茶　言わないで　ください"]
+      ]
+    },
+    {
+      "day": 5,
+      "scene": "麦茶",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), teasing smile,",
+      "poses": [
+        "wide shot of the staff corner behind the counter, a sweating glass pitcher of cold barley tea on the desk, pouring a cup without looking up,",
+        "close up of the cold glass held out, condensation running down the side and over her fingers,",
+        "high angle looking down at the desk, the pitcher, two cups and her hands from above,",
+        "medium shot, pulling the cup back a few centimetres just as it is reached for, smiling,"
+      ],
+      "lines": [
+        ["doc", "はい、　麦茶。　……飲んで　いいとは　言ってない"],
+        ["pat", "もう　口　つけました"]
+      ],
+      "lines2": [
+        ["doc", "勝手に　飲むんだ。　覚えて　おきます"],
+        ["pat", "記録　しないで　ください"]
+      ]
+    },
+    {
+      "day": 6,
+      "scene": "貸出履歴",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), amused look,",
+      "poses": [
+        "wide shot of the counter, sitting at the terminal with the lending record open, glancing sideways at viewer,",
+        "close up of a hand resting on an open lending ledger, a long column of dates under the palm,",
+        "over the shoulder view from behind her, the counter and the quiet summer library spread out in front,",
+        "medium shot, closing the ledger slowly and propping her chin on one hand, small knowing smile,"
+      ],
+      "lines": [
+        ["doc", "今月、　十一回。　暇なんですか"],
+        ["pat", "本を　読みに　来てます"]
+      ],
+      "lines2": [
+        ["doc", "ふうん。　本、　ね"],
+        ["pat", "……含み、　すごいですね"]
+      ]
+    },
+    {
+      "day": 7,
+      "scene": "扇風機",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), relaxed expression,",
+      "poses": [
+        "wide shot of the reading room corner, an old electric fan turning on a stand, standing in front of it with eyes closed,",
+        "close up of the fan grille and loose strands of hair lifting in the air stream,",
+        "side view in profile, the fan in the foreground, her standing beyond it, window light behind,",
+        "medium shot, stepping aside and turning the fan away from viewer with one finger, smiling,"
+      ],
+      "lines": [
+        ["doc", "この一台しか　ないんです"],
+        ["pat", "こっちにも　少し　ください"]
+      ],
+      "lines2": [
+        ["doc", "会員に　なってから　言って"],
+        ["pat", "そこで　使うんだ、　それ"]
+      ]
+    },
+    {
+      "day": 8,
+      "scene": "差し入れ",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), mischievous look,",
+      "poses": [
+        "wide shot of the staff corner behind the counter, a box of donuts open on the desk, turning toward viewer holding one up,",
+        "close up of the donut held out on a paper napkin in an open palm, just out of reach,",
+        "high angle looking down at the desk, donut box, paper cups and her hands from above,",
+        "medium shot, taking a bite herself instead, covering her mouth, eyes smiling at viewer,"
+      ],
+      "lines": [
+        ["doc", "もらいもの　です。　……手は　使わないで"],
+        ["pat", "どうやって　食べるんですか"]
+      ],
+      "lines2": [
+        ["doc", "考えて。　待ってます"],
+        ["pat", "結局　自分で　食べてますよね"]
+      ]
+    },
+    {
+      "day": 9,
+      "scene": "閉館の放送",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "poses": [
+        "wide shot of the reading room with half the lights already off, evening still bright outside, standing at the wall microphone,",
+        "close up of her mouth near the announcement microphone, one hand cupped lightly around it,",
+        "shot from the far end of the room over rows of empty chairs, a single lit figure at the microphone,",
+        "medium shot, lowering the microphone and pointing at the chair in front of her without a word,"
+      ],
+      "lines": [
+        ["doc", "まもなく　閉館です"],
+        ["pat", "じゃあ　出ますね"]
+      ],
+      "lines2": [
+        ["doc", "あなたは　座ってて。　まだ　帰さない"],
+        ["pat", "……放送、　今　なんて"]
+      ]
+    },
+    {
+      "day": 10,
+      "scene": "会員番号",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), satisfied smile,",
+      "poses": [
+        "wide shot of the counter after closing, writing on the small club card with the last daylight behind her,",
+        "close up of the card, a single digit and a name written on it in fountain pen,",
+        "view from behind the reserve shelf, her framed between stacked books in the foreground,",
+        "medium shot, sliding the card across the counter and holding one finger on it so it cannot be taken yet,"
+      ],
+      "lines": [
+        ["doc", "会員番号、　一番です"],
+        ["pat", "他に　誰も　いないってことでは"]
+      ],
+      "lines2": [
+        ["doc", "……気づくの、　遅い"],
+        ["pat", "最初から　僕だけ　ですか"]
+      ]
+    },
+    {
+      "day": 11,
+      "scene": "書庫は暑い",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "poses": [
+        "wide shot of a heavy door marked staff only, pushing it open and holding it for viewer, dim hot stacks beyond,",
+        "close up of a hand on the door handle, a ring of keys hanging from one finger,",
+        "shot from inside the dark closed stacks looking back at the bright doorway she stands in,",
+        "medium shot in the narrow stacks aisle, loosening her collar with two fingers and glancing back,"
+      ],
+      "lines": [
+        ["doc", "ここ、　冷房　入ってないので"],
+        ["pat", "……本当に　暑いですね"]
+      ],
+      "lines2": [
+        ["doc", "倶楽部活動は　ここ。　逃げても　いいですよ"],
+        ["pat", "逃がす　気　ないでしょう"]
+      ]
+    },
+    {
+      "day": 12,
+      "scene": "脚立の上から",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), looking down at viewer,",
+      "poses": [
+        "wide shot of the closed stacks aisle, standing high on a rolling ladder looking down over one shoulder,",
+        "close up of a hand gripping the ladder rail, the other hand pointing down at viewer,",
+        "low angle from the floor looking straight up the ladder, tall shelves towering on both sides,",
+        "medium shot from high on the ladder looking down the aisle, dim work lights below,"
+      ],
+      "lines": [
+        ["doc", "そこ、　動かないで　支えてて"],
+        ["pat", "ずっと　ですか"]
+      ],
+      "lines2": [
+        ["doc", "わたしが　降りるまで。　当たり前でしょう"],
+        ["pat", "降りる　気　あります？"]
+      ]
+    },
+    {
+      "day": 13,
+      "scene": "狭い通路",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), composed, close to viewer,",
+      "poses": [
+        "wide shot of a very narrow aisle between rolling stacks, squeezing past viewer sideways in the heat,",
+        "extreme close up of two shoulders almost touching in the dark, damp blouse fabric brushing a sleeve,",
+        "overhead view straight down the narrow aisle, two figures pressed close between the shelves,",
+        "medium shot, stopping halfway past and staying there, looking up without moving,"
+      ],
+      "lines": [
+        ["doc", "通ります。　動かないで"],
+        ["pat", "これ以上　下がれない　です"]
+      ],
+      "lines2": [
+        ["doc", "下がれとは　言ってない。　我慢して"],
+        ["pat", "……意地　悪すぎません？"]
+      ]
+    },
+    {
+      "day": 14,
+      "scene": "汗とうなじ",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), faint sweat on skin, teasing smile,",
+      "poses": [
+        "wide shot of the hot stacks, standing with her back to viewer pressing a cold barley tea can to the back of her neck,",
+        "close up of the nape of her neck under the low chignon, a bead of sweat running down, loose strands stuck to the skin,",
+        "backlit shot from the aisle end, her silhouette in the dust lit beam, shelves dark around her,",
+        "medium shot, turning around and catching where viewer was looking, one eyebrow raised,"
+      ],
+      "lines": [
+        ["doc", "……今、　どこ　見てました？"],
+        ["pat", "見てないです"]
+      ],
+      "lines2": [
+        ["doc", "見てたって　言うまで　帰しません"],
+        ["pat", "……見てました"]
+      ]
+    },
+    {
+      "day": 15,
+      "scene": "声を出さない",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), whispering, enjoying it,",
+      "poses": [
+        "wide shot of the dim closed stacks, leaning in close to whisper, both standing between the shelves,",
+        "extreme close up of her lips near an ear, a strand of hair loose and damp against her cheek,",
+        "shot through a gap in the shelf, the two of them framed by book spines on both sides,",
+        "medium shot, pulling back a little and smiling, very pleased with the reaction,"
+      ],
+      "lines": [
+        ["doc", "ここ、　響くので。　声、　出さないで"],
+        ["pat", "その距離で　言うの、　ずるいです"]
+      ],
+      "lines2": [
+        ["doc", "我慢して。　それも　活動の　うち"],
+        ["pat", "……耳が　熱いです"]
+      ]
+    },
+    {
+      "day": 16,
+      "scene": "音読させる",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), commanding, small smile,",
+      "poses": [
+        "wide shot of the stacks aisle, holding an open book out at arm's length toward viewer, one finger on a line,",
+        "close up of a fingertip pressed on a line of text in the open book,",
+        "side view from the far shelf, the open book held out in profile, dim work light above,",
+        "medium shot, closing the book on her own palm and shaking her head slowly, unimpressed,"
+      ],
+      "lines": [
+        ["doc", "ここ、　声に　出して　読んで"],
+        ["pat", "さっき　黙れって　言いましたよね"]
+      ],
+      "lines2": [
+        ["doc", "言うことが　変わるのも　会長の　特権です"],
+        ["pat", "会長、　自称ですよね"]
+      ]
+    },
+    {
+      "day": 17,
+      "scene": "あなたの棚",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), quiet smile,",
+      "poses": [
+        "wide shot of the reserve shelf deep in the stacks, one slot filled with a tall stack of books and a name tag,",
+        "close up of the handwritten name tag clipped to the shelf edge, a club number written beside it,",
+        "high angle looking down at the shelf and her hands squaring off the stack,",
+        "medium shot, stepping aside to show the whole shelf and counting on her fingers,"
+      ],
+      "lines": [
+        ["doc", "ここ、　あなたの　棚。　九冊　あります"],
+        ["pat", "多すぎ　ませんか"]
+      ],
+      "lines2": [
+        ["doc", "今週中。　読めなかったら　どうなるかは　その時"],
+        ["pat", "……今　教えて　ください"]
+      ]
+    },
+    {
+      "day": 18,
+      "scene": "灯りを落とす",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), unreadable look,",
+      "poses": [
+        "wide shot of the stacks going dark, one hand on the light switch panel, only a single lamp left at the aisle end,",
+        "close up of her fingers resting on the switch, not pressing it yet,",
+        "shot from behind her looking down the darkened aisle, her damp shoulders in the foreground,",
+        "medium shot, standing in the dark without turning the light back on, just looking at viewer,"
+      ],
+      "lines": [
+        ["doc", "消しますね。　……そこで　待ってて"],
+        ["pat", "何分　ですか"]
+      ],
+      "lines2": [
+        ["doc", "言ったら　待てるでしょう。　だから　言わない"],
+        ["pat", "そういうの、　本当に　ずるい"]
+      ]
+    },
+    {
+      "day": 19,
+      "scene": "閉館後の見回り",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "poses": [
+        "wide shot of the dark stacks after closing, walking between the shelves with a small flashlight,",
+        "close up of the flashlight beam crossing her fingers and a row of call number labels,",
+        "shot from the far end of the aisle looking at the single moving light in the dark,",
+        "medium shot, stopping and turning the beam straight onto viewer, holding it there,"
+      ],
+      "lines": [
+        ["doc", "見回り。　三歩　後ろを　歩いて"],
+        ["pat", "利用者なんですけど"]
+      ],
+      "lines2": [
+        ["doc", "閉館後は　会員。　立場、　忘れないで"],
+        ["pat", "……はい、　会長"]
+      ]
+    },
+    {
+      "day": 20,
+      "scene": "鍵を渡す",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), serious look,",
+      "poses": [
+        "wide shot of the staff door, dangling a key ring from one finger, the dark stacks behind her,",
+        "close up of the keys dropped into an open palm, her fingers closing it from above,",
+        "low angle from waist height, the keys held up against the ceiling lights,",
+        "medium shot, folding her arms and looking away, the back of her neck slightly red,"
+      ],
+      "lines": [
+        ["doc", "これ、　書庫の　鍵。　なくしたら　許さない"],
+        ["pat", "預けて　いいんですか"]
+      ],
+      "lines2": [
+        ["doc", "返すのは　わたしが　決めます"],
+        ["pat", "結局　全部　そっちが　決めますよね"]
+      ]
+    },
+    {
+      "day": 21,
+      "scene": "司書室に呼ばれる",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), relaxed expression,",
+      "poses": [
+        "wide shot of a small librarian office, desk lamp on, an electric fan turning in the corner, hanging her knit vest on the chair back,",
+        "close up of the id badge lanyard being lifted over her head,",
+        "shot from the doorway looking in, her seen past the half open door and a stack of books,",
+        "medium shot, dropping onto the worn sofa and pointing at the floor in front of her,"
+      ],
+      "lines": [
+        ["doc", "暑い。　ベスト、　脱ぎます"],
+        ["pat", "……見ない　ほうが"]
+      ],
+      "lines2": [
+        ["doc", "見なさい。　見ないのは　失礼でしょう"],
+        ["pat", "どっちにしても　怒られる"]
+      ]
+    },
+    {
+      "day": 22,
+      "scene": "眼鏡を外す",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), softened look,",
+      "poses": [
+        "wide shot of the office sofa, the fan turning, leaning back and folding her glasses onto the low table,",
+        "extreme close up of the folded glasses on the table beside a cold glass of barley tea,",
+        "side view in profile, desk lamp behind her outlining her face and loosened collar,",
+        "medium shot, squinting and leaning in very close to see viewer's face, one hand on the sofa back,"
+      ],
+      "lines": [
+        ["doc", "外すと　見えないんです。　近づきます"],
+        ["pat", "……近すぎ　ませんか"]
+      ],
+      "lines2": [
+        ["doc", "下がったら　怒りますよ"],
+        ["pat", "動けない　やつだ、　これ"]
+      ]
+    },
+    {
+      "day": 23,
+      "scene": "髪をほどく",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), quiet smile,",
+      "poses": [
+        "wide shot of the office, pulling the hair stick out and long hair falling loose in the fan's air stream,",
+        "close up of the hair stick held between two fingers, strands still curling around it,",
+        "shot from behind her at the desk mirror, her face reflected as the hair comes down,",
+        "medium shot, shaking her hair out and looking up through it at viewer, waiting for a word,"
+      ],
+      "lines": [
+        ["doc", "暑いので　ほどきます。　……何か　言うことは"],
+        ["pat", "え、　えっと"]
+      ],
+      "lines2": [
+        ["doc", "言えるまで　待ちます。　いくらでも"],
+        ["pat", "……きれい、　です"]
+      ]
+    },
+    {
+      "day": 24,
+      "scene": "ブラウスの下",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "poses": [
+        "wide shot of the office at night, sitting on the sofa in a thin camisole, blouse folded over the chair, fan turning,",
+        "close up of the folded blouse with the lanyard laid on top of it,",
+        "high angle looking down at her sitting with her knees drawn up on the sofa,",
+        "medium shot, hugging a cushion and tilting her head, clearly waiting to be answered,"
+      ],
+      "lines": [
+        ["doc", "暑いので　これで。　……目、　そらさないで"],
+        ["pat", "無理　言わないで　ください"]
+      ],
+      "lines2": [
+        ["doc", "無理じゃない。　やって"],
+        ["pat", "……本当に　性格　悪い"]
+      ]
+    },
+    {
+      "day": 25,
+      "scene": "貸出カード",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), mischievous look,",
+      "poses": [
+        "wide shot of the low table, pushing an old paper lending card and a pen toward viewer under the lamp,",
+        "close up of the pen hovering over the borrower column of the card, a fingertip beside it,",
+        "side view across the table, leaning over the card, loose hair hanging forward,",
+        "medium shot, turning the card around and tapping the blank line twice, smiling,"
+      ],
+      "lines": [
+        ["doc", "ここに　名前。　自分で　書いて"],
+        ["pat", "借りるの、　本ですよね"]
+      ],
+      "lines2": [
+        ["doc", "……何だと　思って　書いてます？"],
+        ["pat", "聞かないで　ください"]
+      ]
+    },
+    {
+      "day": 26,
+      "scene": "延滞の罰",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), teasing smile,",
+      "poses": [
+        "wide shot of the office, sitting sideways on the sofa with a fan of overdue slips in one hand,",
+        "close up of the fanned overdue slips, dates circled again and again in red,",
+        "low angle from the floor looking up at her on the sofa, lamp glow behind her bare shoulder,",
+        "medium shot, dropping the slips on the table and leaning in, chin on one hand,"
+      ],
+      "lines": [
+        ["doc", "延滞、　全部　数えてあります。　四十二日"],
+        ["pat", "罰金、　いくらですか"]
+      ],
+      "lines2": [
+        ["doc", "お金では　受け取りません。　別の　方法で"],
+        ["pat", "……言い方"]
+      ]
+    },
+    {
+      "day": 27,
+      "scene": "扇風機の前",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), serious look,",
+      "poses": [
+        "wide shot of the office late at night, sitting on the sofa in plain underwear in front of the turning fan, cardigan slipped off her shoulders,",
+        "close up of a hand flat on a closed book on her lap, hair lifting in the air stream,",
+        "shot from the doorway through the narrow gap, her seen past the door frame,",
+        "medium shot, turning the fan away from viewer and looking up,"
+      ],
+      "lines": [
+        ["doc", "こっちに　風、　要らないでしょう"],
+        ["pat", "十分　暑いんですけど"]
+      ],
+      "lines2": [
+        ["doc", "そのままで　いて。　見てるので"],
+        ["pat", "見られる　側　なんだ、　僕"]
+      ]
+    },
+    {
+      "day": 28,
+      "scene": "記録に残さない",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), quiet expression,",
+      "poses": [
+        "wide shot of the office, closing the lending ledger and setting it face down on the desk,",
+        "close up of the ledger cover shutting under a palm,",
+        "high angle looking down at the desk, the closed ledger and her bare shoulders in frame,",
+        "medium shot, turning the desk lamp down one notch and facing viewer in the dimmer light,"
+      ],
+      "lines": [
+        ["doc", "今日の　ぶんは　打ちません"],
+        ["pat", "記録が　仕事　では"]
+      ],
+      "lines2": [
+        ["doc", "残らない　ほうが　いいことも　あるでしょう"],
+        ["pat", "……それ、　もう　答えですよね"]
+      ]
+    },
+    {
+      "day": 29,
+      "scene": "声を出せない距離",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), whispering, flushed,",
+      "poses": [
+        "wide shot of the office sofa, sitting upright very close, hands flat on her knees, facing viewer, fan turning behind,",
+        "extreme close up of her mouth forming a whisper, damp hair against her cheek,",
+        "side view in profile, two faces a few centimetres apart, lamp light between them,",
+        "medium shot, not moving back at all, eyes steady, breathing shallow,"
+      ],
+      "lines": [
+        ["doc", "声、　出さないで。　まだ　だめ"],
+        ["pat", "館内じゃ　ないですよ"]
+      ],
+      "lines2": [
+        ["doc", "わたしが　いいと　言うまで。　わかった？"],
+        ["pat", "……はい"]
+      ]
+    },
+    {
+      "day": 30,
+      "scene": "最終の貸出",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), soft smile,",
+      "poses": [
+        "wide shot of the librarian office after closing, sitting sideways on the sofa, the key ring and the club card on the table,",
+        "close up of her fingers turning the club card over and setting it face down,",
+        "shot from behind the half open door, the lit office and her seen through the gap,",
+        "medium shot, leaning toward viewer and reaching for a hand, smiling, fan still turning,"
+      ],
+      "lines": [
+        ["doc", "今日で　夏期開館、　最後です"],
+        ["pat", "……倶楽部は　どうなるんですか"]
+      ],
+      "narration": "このあと　めちゃくちゃ　S〇Xした",
+      "lines2": [
+        ["doc", "続けます。　借りたままの　人が　いるので"]
+      ]
+    }
+  ]
+}

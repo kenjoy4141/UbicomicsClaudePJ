@@ -1,0 +1,236 @@
+{
+  "_note": "Patreon英語版（エステ）。キーは日本語版と同じ。{{doc}}=first name, {{docFull}}=full name, {{pat}}=customer. Non-sexual intro lines only.",
+  "setup": "{{pat}}, an office worker plagued by stiff shoulders and sleepless nights, drops into a small beauty salon on his way home. His therapist is {{docFull}}, a calm and beautiful esthetician.",
+  "scenes": {
+    "施術": {
+      "early": [
+        [["doc", "Nice to meet you. I'm {{doc}}, your therapist."], ["pat", "Nice to meet you."]],
+        [["doc", "{{pat}}, you came back!"], ["pat", "...It really worked."]]
+      ],
+      "late": [
+        [["doc", "I saved the last slot for you again."], ["pat", "Thank you."]],
+        [["doc", "Your shoulders are way better now, you know."], ["pat", "Huh?"]]
+      ]
+    },
+    "前かがみで見つめる": {
+      "early": [
+        [["doc", "You've got dark circles under your eyes."], ["pat", "Y-you're too close..."]],
+        [["doc", "Are you getting any sleep?"]]
+      ],
+      "late": [
+        [["doc", "...You won't meet my eyes today?"]],
+        [["doc", "Don't look away."], ["pat", "You first, {{doc}}."]]
+      ]
+    },
+    "正面": {
+      "early": [
+        [["doc", "You work at a desk all day, right?"], ["pat", "You can tell?"]],
+        [["doc", "Your shoulders give it away."]]
+      ],
+      "late": [
+        [["doc", "Are you eating properly? I worry about you."]],
+        [["doc", "You can drop the formalities with me."], ["pat", "...{{doc}}."]]
+      ]
+    },
+    "正面（ささやきポーズ）": {
+      "early": [
+        [["doc", "Between us... today's oil is the fancy one."]],
+        [["doc", "Keep it a secret. My manager would be mad."]],
+        [["doc", "I don't tell other customers this, but..."]],
+        [["doc", "I'll book you the same time next week."], ["pat", "...Please."]]
+      ],
+      "late": [
+        [["doc", "Hey... can we talk after closing?"]],
+        [["doc", "Are you free on your next day off?"], ["pat", "I'll make time."]],
+        [["doc", "I found a nice place nearby. Want to go?"]],
+        [["doc", "...Did you hear that?"], ["pat", "Every word."]]
+      ]
+    },
+    "正面エロ": {
+      "early": [
+        [["doc", "Nervous? Your shoulders are rock hard."]],
+        [["doc", "It's hard to work when you stare like that."]]
+      ],
+      "late": [
+        [["doc", "Today I might be the nervous one."]],
+        [["doc", "I don't mind you looking, {{pat}}."]]
+      ]
+    },
+    "振り返り構図": {
+      "early": [
+        [["doc", "I'll grab some fresh towels."]],
+        [["doc", "...What? Why are you staring?"], ["pat", "N-nothing."]]
+      ],
+      "late": [
+        [["doc", "Leaving already?"], ["pat", "...I'll stay a bit longer."]],
+        [["doc", "You were staring. I know."]]
+      ]
+    },
+    "オイル": {
+      "early": [
+        [["doc", "It's a little cold, so bear with me."], ["pat", "Okay."]],
+        [["doc", "Lavender or citrus, which scent do you like?"]]
+      ],
+      "late": [
+        [["doc", "I already know your favorite scent, {{pat}}."]],
+        [["doc", "Can I pick the scent today?"]]
+      ]
+    },
+    "カルテ記入": {
+      "early": [
+        [["doc", "Could you fill out this counseling sheet?"]],
+        [["doc", "How often do you exercise per week?"], ["pat", "...Never."]]
+      ],
+      "late": [
+        [["doc", "There's more and more I can't write in your chart."]],
+        [["doc", "I always put you in the last slot, {{pat}}."], ["pat", "Wait, really?"]]
+      ]
+    },
+    "見下ろし": {
+      "early": [
+        [["doc", "Okay, face down on the bed."]],
+        [["doc", "Customers who don't listen are a handful."]]
+      ],
+      "late": [
+        [["doc", "Don't look up at me like that."]],
+        [["doc", "Today's session is running overtime."]]
+      ]
+    },
+    "上着脱ぐ": {
+      "early": [
+        [["doc", "It's so hot after the sauna..."], ["pat", "...!"]],
+        [["doc", "I'll take my uniform off for a bit."]]
+      ],
+      "late": [
+        [["doc", "Out of uniform, I'm not staff anymore."]],
+        [["doc", "We're closed for the day."]]
+      ]
+    },
+    "下着になる": {
+      "early": [
+        [["doc", "Hey! I'm still changing!"], ["pat", "S-sorry!"]],
+        [["doc", "This is the staff room, you know."]]
+      ],
+      "late": [
+        [["doc", "...You don't have to look away."]],
+        [["doc", "You're the only one I'd show this to."]]
+      ]
+    },
+    "下着になる　サイド": {
+      "early": [
+        [["doc", "At least knock first."]],
+        [["doc", "...Pretend you didn't see that."]]
+      ],
+      "late": [
+        [["doc", "I told you, no knocking needed today."]],
+        [["doc", "It's embarrassing, but I don't hate it."]]
+      ]
+    },
+    "座って見上げる": {
+      "early": [
+        [["doc", "When should I book your next visit?"]],
+        [["doc", "Make sure you come back. Promise."]]
+      ],
+      "late": [
+        [["doc", "You can visit me even without a booking."]],
+        [["doc", "Hey... what do you think of me?"]]
+      ]
+    },
+    "寝転ぶ　半脱げ": {
+      "early": [
+        [["doc", "Quick break... fully booked today."]],
+        [["doc", "You caught me slacking."]]
+      ],
+      "late": [
+        [["doc", "Want to come over here?"], ["pat", "...Yeah."]],
+        [["doc", "I can't keep my guard up around you, {{pat}}."]]
+      ]
+    },
+    "寝転ぶ": {
+      "early": [
+        [["doc", "Mind if I close my eyes between bookings?"]],
+        [["doc", "I've been on my feet since morning..."]]
+      ],
+      "late": [
+        [["doc", "Will you stay with me until I wake up?"]],
+        [["doc", "Your voice calms me down, {{pat}}."]]
+      ]
+    },
+    "窓の外見てる": {
+      "early": [
+        [["doc", "I love the sky at this hour."]],
+        [["doc", "Are you getting enough rest?"], ["pat", "Look who's talking."]]
+      ],
+      "late": [
+        [["doc", "Want to meet somewhere outside the salon?"]],
+        [["doc", "Once your shoulders are fixed, you'll stop coming, right?"], ["pat", "I'll still come."]]
+      ]
+    },
+    "前かがみ": {
+      "early": [
+        [["doc", "Come on, relax your body."], ["pat", "I am relaxed..."]],
+        [["doc", "Wow, it's really tight right here."]]
+      ],
+      "late": [
+        [["doc", "Maybe today it's my turn to get a massage."]],
+        [["doc", "Too close? I'm doing it on purpose."]]
+      ]
+    },
+    "脱ぎながら脇": {
+      "early": [
+        [["doc", "Hey, I'm still changing!"]],
+        [["doc", "...Forget what you just saw."]]
+      ],
+      "late": [
+        [["doc", "I told you to wait."], ["pat", "I couldn't."]],
+        [["doc", "Geez. You're hopeless."]]
+      ]
+    },
+    "膝枕": {
+      "early": [
+        [["doc", "Feeling dizzy from the heat? Lie down."], ["pat", "S-sorry..."]],
+        [["doc", "Here, rest your head."]]
+      ],
+      "late": [
+        [["doc", "Does this help you relax?"], ["pat", "...A lot."]],
+        [["doc", "Just for today. Special service."]]
+      ]
+    },
+    "お弁当食べてる": {
+      "early": [
+        [["doc", "Haven't had lunch? Take one."], ["pat", "Are you sure?"]],
+        [["doc", "Do you like your omelet sweet?"]]
+      ],
+      "late": [
+        [["doc", "I made a lunch for you too, {{pat}}."]],
+        [["doc", "Want me to make you one every day?"]]
+      ]
+    },
+    "主人公下着": {
+      "early": [
+        [["doc", "Shirt off, please. I'll work on your back."], ["pat", "Okay..."]],
+        [["doc", "Oh, you're more toned than I thought."]]
+      ],
+      "late": [
+        [["doc", "...My heart's beating faster than before."]],
+        [["doc", "Today it's my turn to be shy."]]
+      ]
+    },
+    "伸び": {
+      "early": [
+        [["doc", "Mmm... morning bookings, done."]],
+        [["doc", "My shoulders... I fix everyone else's but mine."]]
+      ],
+      "late": [
+        [["doc", "Finally, just the two of us."]],
+        [["doc", "Day 30. Remember our promise?"], ["pat", "Of course."]]
+      ]
+    }
+  },
+  "fallback": {
+    "early": [[["doc", "How are you feeling today?"]]],
+    "late": [[["doc", "I'm glad you came."]]]
+  },
+  "finale": [["doc", "Day 30. Remember our promise?"], ["pat", "Of course I do."]],
+  "afterword": { "text": "And then, we had SO much sex." }
+}

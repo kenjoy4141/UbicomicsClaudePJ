@@ -1,0 +1,994 @@
+{
+  "_note": "不動産屋の営業。28歳・成約が欲しい営業担当が、内見のたびに誰もいない空室へふたりきりで連れ込み、冗談めかして身体で押してくる30日。営業スマイルのまま提案の中身だけがズレていく。語りは押し切られる客側。導入は非性的。登場人物は全員成人。",
+  "imagesPerBeat": 4,
+  "beats": [
+    {
+      "day": 1,
+      "scene": "待ち合わせ",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), bright expression, confident sales smile,",
+      "poses": [
+        "full body, standing in front of an apartment building entrance, holding a clipboard with a floor plan, a small company car parked behind her, wide shot,",
+        "close up of her face and hands, pushing a business card forward with both hands, looking straight at viewer,",
+        "low angle from the bottom of the entrance steps, looking up at her as she waves the key case overhead,",
+        "upper body from behind her shoulder, she twists around toward viewer with a big grin, entrance door beyond,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "本日　ご案内します　{{doc}}です！"
+        ],
+        [
+          "pat",
+          "あ、　よろしく　お願いします"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "正直に　言いますね。　今月、　あと　一件　なんです"
+        ],
+        [
+          "pat",
+          "いきなり　そこから　ですか"
+        ]
+      ]
+    },
+    {
+      "day": 2,
+      "scene": "一件目",
+      "place": "room",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), cheerful expression,",
+      "poses": [
+        "wide shot of a completely empty room with no furniture, she pushes the front door inward, sunlight spilling across the bare floor,",
+        "close up of her hand turning the key in the lock, key ring swinging from her finger,",
+        "from behind her, following her into the bare hallway, her back and the empty room ahead,",
+        "upper body, turning in the doorway to face viewer, both palms spread wide toward the empty room,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "こちらが　一件目！　どうぞどうぞ"
+        ],
+        [
+          "pat",
+          "……ずいぶん　勢いが　いいですね"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "空室ですし、　いま　この階　わたしたちだけ　ですよ"
+        ],
+        [
+          "pat",
+          "そ、　そうなんですね"
+        ]
+      ]
+    },
+    {
+      "day": 3,
+      "scene": "採光",
+      "place": "room",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), delighted expression,",
+      "poses": [
+        "full body, standing by a large curtainless window in an empty room, both arms thrown open toward the light, wide shot,",
+        "close up of her profile lit by the window, eyes narrowed happily against the sunlight,",
+        "low angle from the floor, she leans down toward viewer pointing up at the bare ceiling socket,",
+        "upper body, looking back at viewer over her shoulder, backlit by the window, hair glowing,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "見てください、　この　日当たり！"
+        ],
+        [
+          "pat",
+          "……たしかに　明るい"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "午後は　もっと　すごいので。　また　ふたりで　来ましょう"
+        ],
+        [
+          "pat",
+          "ふたりで、　って"
+        ]
+      ]
+    },
+    {
+      "day": 4,
+      "scene": "採寸",
+      "place": "room",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), focused but playful,",
+      "poses": [
+        "full body, crouching low on the bare floor of an empty room with a tape measure, wide shot,",
+        "close up of her hands stretching a tape measure across the flooring, name tag swinging forward,",
+        "from above, top down view of her crouching with the tape measure and a floor plan sheet,",
+        "upper body, looking up at viewer from her crouch and pressing the end of the tape into viewer hand,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "ベッドの　寸法、　測っちゃいますね"
+        ],
+        [
+          "pat",
+          "べ、　ベッド"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "入るか　どうか　大事でしょう？　……ここ、　持ってて"
+        ],
+        [
+          "pat",
+          "近い、　近いです"
+        ]
+      ]
+    },
+    {
+      "day": 5,
+      "scene": "社用車",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), teasing smile,",
+      "poses": [
+        "full body, standing beside a small company car in a parking lot, holding the passenger door open, wide shot,",
+        "close up of her hand on the door handle, company name badge catching the light,",
+        "from the passenger seat, she sits in the driver seat leaning over to adjust the mirror, from side,",
+        "upper body, glancing sideways at viewer from the driver seat, seatbelt across her, one eyebrow raised,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "次の　物件、　車で　行きましょう。　乗って　乗って"
+        ],
+        [
+          "pat",
+          "歩いても　行けそうですけど"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "十五分　ふたりきり。　逃がしませんよ？"
+        ],
+        [
+          "pat",
+          "……営業、　強すぎません？"
+        ]
+      ]
+    },
+    {
+      "day": 6,
+      "scene": "条件の整理",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), businesslike but pushy,",
+      "poses": [
+        "wide shot across the counter of a real estate sales office, property listings papered on the window behind her,",
+        "close up of her pen tapping a condition sheet on the counter, her other hand over viewer hand,",
+        "from side, both elbows planted on the counter, leaning far toward viewer over the paperwork,",
+        "upper body, chin resting on her laced fingers, studying viewer from very close,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "ご希望、　もっと　わがまま　言って　いいですよ"
+        ],
+        [
+          "pat",
+          "静かなら　どこでも"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "静か、　ね。　……じゃあ　何を　しても　バレませんね"
+        ],
+        [
+          "pat",
+          "な、　なんの　話ですか"
+        ]
+      ]
+    },
+    {
+      "day": 7,
+      "scene": "二件目",
+      "place": "room",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), polished sales smile,",
+      "poses": [
+        "full body, standing in the middle of a bare empty room holding a floor plan sheet up with both hands, wide shot,",
+        "close up of the floor plan sheet in her hands, her fingertip pressed on one room,",
+        "from above, high angle looking down at her standing alone on the empty flooring,",
+        "upper body, lowering the paper just enough to peek at viewer over the top edge, eyes smiling,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "間取りは　こちら。　一件目と　迷いますよね？"
+        ],
+        [
+          "pat",
+          "似てる　気が　します"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "違いは、　入って　確かめないと。　……押し、　弱いですか　わたし"
+        ],
+        [
+          "pat",
+          "じゅうぶん　強いです"
+        ]
+      ]
+    },
+    {
+      "day": 8,
+      "scene": "水回り",
+      "place": "room",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), cheerful expression,",
+      "poses": [
+        "wide shot of her standing at a bare kitchen counter in an empty apartment, turning the faucet,",
+        "close up of water running from the faucet over her fingers,",
+        "from side, leaning far over the empty sink, hair falling forward past her cheek,",
+        "upper body, flicking water at viewer and laughing, drops in the air,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "水圧も　見ましょ。　毎日　使うところ　ですし"
+        ],
+        [
+          "pat",
+          "そこまで　やるんですね"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "ふたりで　立っても　狭くない。　ほら"
+        ],
+        [
+          "pat",
+          "だ、　だから　近いです"
+        ]
+      ]
+    },
+    {
+      "day": 9,
+      "scene": "収納",
+      "place": "room",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), amused expression,",
+      "poses": [
+        "full body, pulling open a large empty closet door in a bare room, wide shot,",
+        "close up of her hand on the closet handle, dark empty space inside,",
+        "from inside the closet looking outward at her framed in the opening,",
+        "upper body, stepping back out of the closet and looking at viewer while pushing her hair back,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "収納、　ひとりなら　十分すぎます"
+        ],
+        [
+          "pat",
+          "ふたりだと　足りませんか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "あら。　ふたりの　予定、　あるんですか？"
+        ],
+        [
+          "pat",
+          "い、　いえ　ないです"
+        ]
+      ]
+    },
+    {
+      "day": 10,
+      "scene": "遮音",
+      "place": "room",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), mischievous look,",
+      "poses": [
+        "full body, standing with her palm flat against the bare wall of an empty room, wide shot,",
+        "close up of her cheek and ear pressed near the wall, eyes closed,",
+        "from side, her silhouette against the pale wall, one arm raised high,",
+        "upper body, turning to viewer with a finger against her lips, leaning in close,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "壁、　叩いて　みてください。　ほら、　分厚い"
+        ],
+        [
+          "pat",
+          "……こう　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "ここ、　どんな　声　出しても　もれません。　おすすめです"
+        ],
+        [
+          "pat",
+          "お、　推し方が　おかしい"
+        ]
+      ]
+    },
+    {
+      "day": 11,
+      "scene": "見積り",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), confident expression,",
+      "poses": [
+        "wide shot of the sales office desk, she sits with a calculator and an initial cost sheet,",
+        "close up of her fingers flying over the calculator keys,",
+        "from above, top down view of the desk with the estimate sheet between them,",
+        "upper body, sliding the estimate across the desk with one finger, watching viewer reaction,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "初期費用、　出しました。　……高いですよね"
+        ],
+        [
+          "pat",
+          "けっこう　しますね"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "ここ、　わたしの　裁量で　下げます。　そのかわり、　決めて　ください"
+        ],
+        [
+          "pat",
+          "取引　みたいだな"
+        ]
+      ]
+    },
+    {
+      "day": 12,
+      "scene": "見送り",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), warm smile,",
+      "poses": [
+        "full body, standing in the apartment parking lot at dusk, bowing deeply, wide shot,",
+        "close up of her face in the orange evening light, wind moving her hair,",
+        "from behind, her back as she watches the street, evening sky above,",
+        "upper body, catching viewer sleeve lightly before viewer can leave,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "本日は　ありがとうございました！"
+        ],
+        [
+          "pat",
+          "また　連絡します"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "……その　「また」、　今週中に　してくれません？"
+        ],
+        [
+          "pat",
+          "逃がして　くれないな"
+        ]
+      ]
+    },
+    {
+      "day": 13,
+      "scene": "三件目",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), flushed and playful,",
+      "poses": [
+        "full body, standing in a hot empty room fanning herself with the floor plan sheet, collar loosened, wide shot,",
+        "close up of her loosened collar and damp hairline,",
+        "from side, pushing a window open with one sleeve rolled up,",
+        "upper body, blowing her bangs up and grinning at viewer,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "この部屋、　暑い！　エアコン　まだ　ないので"
+        ],
+        [
+          "pat",
+          "無理　しないで　ください"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "じゃあ　少し　崩しますね。　……見ても　怒りませんよ"
+        ],
+        [
+          "pat",
+          "み、　見てません"
+        ]
+      ]
+    },
+    {
+      "day": 14,
+      "scene": "床に座る",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), relaxed expression,",
+      "poses": [
+        "wide shot of her sitting directly on the bare floor of an empty room, legs folded to one side, floor plan spread out,",
+        "close up of her fingertip tracing a line on the floor plan lying on the floor,",
+        "from above, top down view of her sitting on the empty floor with papers scattered around her,",
+        "upper body, patting the floor right beside her and looking up at viewer expectantly,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "座っちゃいましょ。　どうせ　何も　ないので"
+        ],
+        [
+          "pat",
+          "……床に、　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "ここ、　わたしの　となり。　空いてますよ"
+        ],
+        [
+          "pat",
+          "誘い方が　露骨すぎる"
+        ]
+      ]
+    },
+    {
+      "day": 15,
+      "scene": "差し入れ",
+      "place": "outer",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), earnest but flirty,",
+      "poses": [
+        "full body, leaning back against the company car in a parking lot, holding out a canned coffee, wide shot,",
+        "close up of the canned coffee passing from her hand toward viewer, fingers touching,",
+        "from the passenger seat, she sits sideways in the driver seat with two cans, from side,",
+        "upper body, drinking from the can and watching viewer sideways over the rim,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "{{breakFood}}、　どうぞ。　経費じゃ　ないので　内緒で"
+        ],
+        [
+          "pat",
+          "え、　いいんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "今月　あと　一件。　決めて　くれたら、　なんでも　しますよ"
+        ],
+        [
+          "pat",
+          "……冗談　ですよね？"
+        ]
+      ]
+    },
+    {
+      "day": 16,
+      "scene": "審査",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), triumphant expression,",
+      "poses": [
+        "wide shot of the sales office, she stands behind the counter on the phone with papers in her free hand,",
+        "close up of her hand covering the phone receiver, eyes flicking toward viewer,",
+        "from side, one hip leaned against the counter while she listens,",
+        "upper body, hanging up and thrusting a thumbs up toward viewer,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "審査、　通りました！　早かったでしょう"
+        ],
+        [
+          "pat",
+          "早すぎません？"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "わたしが　急かしたので。　……もう　後戻り　できませんね"
+        ],
+        [
+          "pat",
+          "外堀から　埋めてくる"
+        ]
+      ]
+    },
+    {
+      "day": 17,
+      "scene": "鍵の束",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), proud look,",
+      "poses": [
+        "full body, standing in an empty room holding a heavy ring of many keys, wide shot,",
+        "close up of several keys spread across her open palm,",
+        "from above, looking down at her sorting the keys on the bare floor,",
+        "upper body, dangling one key right in front of viewer, one eyebrow raised,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "今日の　{{item}}、　全部　わたしが　預かってます"
+        ],
+        [
+          "pat",
+          "そんなに　あるんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "どの部屋も　開けられます。　……どこが　いいですか？"
+        ],
+        [
+          "pat",
+          "選ばせないで　ください"
+        ]
+      ]
+    },
+    {
+      "day": 18,
+      "scene": "日が落ちる",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), quiet but insistent,",
+      "poses": [
+        "wide shot of a dim empty room after sunset, no lights on, city glow through the bare window,",
+        "close up of her face lit only by the light of her phone,",
+        "from side, her silhouette against the window with her arms crossed,",
+        "upper body, stepping in close to viewer in the dim room and looking up,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "電気、　まだ　通してないんです。　真っ暗"
+        ],
+        [
+          "pat",
+          "そろそろ　出ませんか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "……あと　十分。　十分だけ、　ふたりで"
+        ],
+        [
+          "pat",
+          "押しが　こわい"
+        ]
+      ]
+    },
+    {
+      "day": 19,
+      "scene": "閉店後",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), tired but bright,",
+      "poses": [
+        "wide shot of the sales office after closing, one desk lamp on, her blazer hung over the chair,",
+        "close up of her hands squaring a stack of contract papers,",
+        "from above, high angle over the lit desk in the dark office,",
+        "upper body, stretching both arms overhead and spotting viewer in the doorway,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "あ、　来ちゃった。　もう　閉めたのに"
+        ],
+        [
+          "pat",
+          "電気が　ついてたので"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "{{deskItem}}、　もう　作ってあります。　あなたの　名前で"
+        ],
+        [
+          "pat",
+          "……まだ　決めてないのに"
+        ]
+      ]
+    },
+    {
+      "day": 20,
+      "scene": "雨宿り",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), delighted expression,",
+      "poses": [
+        "wide shot of her standing in an empty room watching rain hit the window, shoulders damp,",
+        "close up of raindrops on the window glass with her reflection behind them,",
+        "from behind, her back as she looks out at the rain in the bare room,",
+        "upper body, wringing the water from her hair and laughing toward viewer,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "降ってきた。　傘、　車　ですよね"
+        ],
+        [
+          "pat",
+          "取りに　行きます"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "だめ。　止むまで　この部屋。　鍵は　わたしが　持ってます"
+        ],
+        [
+          "pat",
+          "閉じ込められた"
+        ]
+      ]
+    },
+    {
+      "day": 21,
+      "scene": "上着を脱ぐ",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), flushed and bold,",
+      "poses": [
+        "full body, in a warm empty room, sliding her blazer back off her shoulders, wide shot,",
+        "close up of the blazer slipping down past her bare shoulder,",
+        "from side, folding the blazer over one arm in the empty room,",
+        "upper body, hanging the blazer on the door handle and turning back to viewer with a grin,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "やっぱり　暑い。　脱ぎますね"
+        ],
+        [
+          "pat",
+          "ぬ、　脱ぐんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "見てるの、　{{item}}を　預けた　あなただけ　ですし"
+        ],
+        [
+          "pat",
+          "それ、　理由に　なってます？"
+        ]
+      ]
+    },
+    {
+      "day": 22,
+      "scene": "一日空けました",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), relaxed but determined,",
+      "poses": [
+        "wide shot of her sitting on the bare floor of a warm empty room with her knees drawn up,",
+        "close up of her bare shoulder and damp hairline,",
+        "from above, looking down at her sitting with her back against the wall,",
+        "upper body, fanning her open collar and glancing up at viewer,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "今日、　ほかの　予定　入れてません"
+        ],
+        [
+          "pat",
+          "一日　空けたんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "あなたの　ために。　……これも　営業　ですから"
+        ],
+        [
+          "pat",
+          "営業で　そこまで　します？"
+        ]
+      ]
+    },
+    {
+      "day": 23,
+      "scene": "窓を開ける",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), calm and teasing,",
+      "poses": [
+        "full body, pushing the window wide open in an empty room, wind lifting her hair, wide shot,",
+        "close up of her fingers on the window latch,",
+        "from outside the window looking in at her, from side,",
+        "upper body, turning back from the window into the wind, looking straight at viewer,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "風、　通しますね。　その　かっこうだと　暑いでしょう"
+        ],
+        [
+          "pat",
+          "……外から　見えませんか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "向かいは　空き地。　調べて　あります"
+        ],
+        [
+          "pat",
+          "そこまで　調べたんだ"
+        ]
+      ]
+    },
+    {
+      "day": 24,
+      "scene": "一番いい部屋",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), serious look,",
+      "poses": [
+        "wide shot of her standing alone in the best empty room at night, city lights in the bare window,",
+        "close up of her bare shoulder and the thin strap on it, dim room,",
+        "from above, high angle as she lowers herself onto the bare floor,",
+        "upper body, hugging her knees on the floor and looking up at viewer,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "本当は、　この部屋が　一番　いいんです"
+        ],
+        [
+          "pat",
+          "じゃあ　最初から　見せて　ください"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "最初に　出したら、　通うの　終わって　しまうので"
+        ],
+        [
+          "pat",
+          "……それ、　営業の　台詞　ですか"
+        ]
+      ]
+    },
+    {
+      "day": 25,
+      "scene": "内見じゃない",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), straightforward look,",
+      "poses": [
+        "wide shot of the empty room with the floor plan left forgotten on the floor, she stands in the middle,",
+        "close up of her hand setting the key down on the window sill,",
+        "from side, her back against the bare wall with one knee bent,",
+        "upper body, looking straight at viewer without her usual sales smile,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "今日は　内見じゃ　ないです。　ごめんなさい"
+        ],
+        [
+          "pat",
+          "じゃあ　なんで　呼んだんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "呼ばないと　会えないので。　……理由、　いります？"
+        ],
+        [
+          "pat",
+          "……{{doc}}さん"
+        ]
+      ]
+    },
+    {
+      "day": 26,
+      "scene": "鍵を閉める",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), quiet and steady,",
+      "poses": [
+        "full body, closing the front door of the empty room from the inside, hand on the lock, wide shot,",
+        "close up of her fingers turning the thumb lock,",
+        "from behind her, her back against the closed door facing the empty room,",
+        "upper body, leaning back on the door and tilting her head at viewer,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "閉めますね"
+        ],
+        [
+          "pat",
+          "……閉めるんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "「内見中」の　札、　出してあります。　誰も　来ません"
+        ],
+        [
+          "pat",
+          "用意が　よすぎる"
+        ]
+      ]
+    },
+    {
+      "day": 27,
+      "scene": "ここまでします",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), serious look,",
+      "poses": [
+        "wide shot of her standing in the empty room at night, her folded blouse and skirt on the window sill,",
+        "close up of her hand gripping her own upper arm,",
+        "from side, her standing profile against the dark window,",
+        "upper body, facing viewer squarely with her chin raised,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "わたし、　契約が　ほしいので。　ここまで　します"
+        ],
+        [
+          "pat",
+          "……やりすぎ　でしょう"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "まだ　迷いますか？　それとも、　もう　決まってます？"
+        ],
+        [
+          "pat",
+          "ず、　ずるい　人だ"
+        ]
+      ]
+    },
+    {
+      "day": 28,
+      "scene": "契約と引き換え",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), calm and sly,",
+      "poses": [
+        "wide shot of her sitting on the bare floor with the contract papers beside her,",
+        "close up of the unsigned contract and her fingertip on the signature line,",
+        "from above, top down view of her sitting with the papers on the empty floor,",
+        "upper body, holding a pen out toward viewer and waiting, head tilted,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "{{deskItem}}、　ここに　お名前を　どうぞ"
+        ],
+        [
+          "pat",
+          "この　かっこうで　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "書いて　くれたら　なんでも　するって、　言いましたよね"
+        ],
+        [
+          "pat",
+          "……覚えてるんだ"
+        ]
+      ]
+    },
+    {
+      "day": 29,
+      "scene": "見ないで",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), blushing, embarrassed,",
+      "poses": [
+        "full body, standing in the empty room with her arms half crossed over herself, wide shot,",
+        "close up of her face turned slightly away, cheeks flushed,",
+        "from side, her stance against the bare wall in the dim room,",
+        "upper body, lowering her arms and looking back at viewer,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "……そんなに　見ないで　ください"
+        ],
+        [
+          "pat",
+          "見せてきたのは　そっちです"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "押すのと、　見られるのは　別なんです"
+        ],
+        [
+          "pat",
+          "勝手な　営業だな"
+        ]
+      ]
+    },
+    {
+      "day": 30,
+      "scene": "最終日",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), soft smile,",
+      "poses": [
+        "wide shot of her sitting on the window sill of the empty room at night, city lights behind her,",
+        "close up of the room key lying on her open palm,",
+        "from above, high angle looking down at her on the bare floor,",
+        "upper body, leaning in toward viewer with a soft smile, the key held between her fingers,"
+      ],
+      "lines": [
+        [
+          "doc",
+          "契約、　今日で　成立です。　……お礼、　まだ　ですよね"
+        ],
+        [
+          "pat",
+          "そこは　本気　だったんだ"
+        ]
+      ],
+      "narration": "このあと　めちゃくちゃ　S〇Xした",
+      "lines2": [
+        [
+          "doc",
+          "{{item}}、　今夜は　返さなくて　いいです"
+        ]
+      ]
+    }
+  ],
+  "_panels": "1ビート=4枚。2枚ずつ1ページにまとめて2コマのページを2枚つくる（導入だけコマ割り）"
+}

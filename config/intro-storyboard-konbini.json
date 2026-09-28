@@ -1,0 +1,637 @@
+{
+  "_note": "深夜2時のコンビニ。28歳の夜勤スタッフ（店長代理）には、この時間の常連だけが知っている「裏のサービス」がある。昼の顔と夜の顔の落差、値段の話のように淡々と持ちかけてくる裏メニュー、段階が上がっていく30日。ヒロインは気だるげだが手慣れていて段取りを仕切る側、相手役は戸惑いながら通い続ける側。導入は非性的、露出は下着どまり。登場人物は全員成人。",
+  "imagesPerBeat": 4,
+  "beats": [
+    {
+      "day": 1,
+      "scene": "噂の店",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), half-lidded sleepy eyes, polite smile,",
+      "poses": [
+        "wide shot of the convenience store front at 2am from across the empty parking lot, bright signage, her small figure visible through the glass behind the register,",
+        "close up of her face through the storefront glass, reflections of the signage over her cheek,",
+        "low angle from the entrance mat looking up at her at the counter, automatic door frame on both sides,",
+        "medium shot from the customer side, she holds out a receipt, eyebrows lifting slightly at an unfamiliar face,"
+      ],
+      "lines": [
+        ["doc", "いらっしゃいませ。　……初めての　方ですね"],
+        ["pat", "噂を　聞いて　来ました"]
+      ],
+      "lines2": [
+        ["doc", "噂。　どんな　噂ですか"],
+        ["pat", "……いえ、　なんでも"]
+      ]
+    },
+    {
+      "day": 2,
+      "scene": "昼の顔",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), businesslike look,",
+      "poses": [
+        "medium wide shot of the bright sales floor in the daytime rush, she bags items fast, two other customers in line behind viewer,",
+        "extreme close up of her hands taping the bag shut, movements crisp and impersonal,",
+        "from a high angle over the register, the queue, the counter and the top of her head,",
+        "medium shot of her already looking past viewer to the next customer, flat professional smile,"
+      ],
+      "lines": [
+        ["doc", "袋は　ご利用ですか。　……次の　方　どうぞ"],
+        ["pat", "え、　昨日の"]
+      ],
+      "lines2": [
+        ["doc", "ありがとうございました"],
+        ["pat", "……同じ人　だよな"]
+      ]
+    },
+    {
+      "day": 3,
+      "scene": "二時を過ぎると",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), unreadable expression,",
+      "poses": [
+        "wide shot of the empty store at 2am, she leans one hip on the counter, posture completely loose, aisles stretching away,",
+        "close up of the wall clock just past two, her hand entering the frame to flick the light switch,",
+        "from behind the cigarette shelf, her back and the glowing register screen in front of her,",
+        "medium shot of her face across the counter, the polite smile gone, eyes level with viewer,"
+      ],
+      "lines": [
+        ["doc", "……昼は、　ああ　なんです"],
+        ["pat", "別人　みたいでした"]
+      ],
+      "lines2": [
+        ["doc", "二時　過ぎたら、　わたし　こっちです"],
+        ["pat", "どっちが　ほんとう　なんですか"]
+      ]
+    },
+    {
+      "day": 4,
+      "scene": "別のメニュー",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "poses": [
+        "medium wide shot at the register, she slides a small handwritten card face down across the counter, hot food case glowing beside her,",
+        "extreme close up of her fingertip pinning the card to the counter surface,",
+        "from directly above the counter, the card between her hand and viewer's hand,",
+        "medium shot of her straightening up, hands behind her back, waiting without a trace of embarrassment,"
+      ],
+      "lines": [
+        ["doc", "この時間の　常連さんには、　別の　メニューが　あるんですよ"],
+        ["pat", "……メニュー"]
+      ],
+      "lines2": [
+        ["doc", "表には　出してません。　言われないと　わからないので"],
+        ["pat", "それ、　なんの　話ですか"]
+      ]
+    },
+    {
+      "day": 5,
+      "scene": "値段の話",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), flat expression,",
+      "poses": [
+        "medium shot of her tapping numbers on the register as if ringing up an order, receipt roll turning,",
+        "close up of the register display showing a price, her finger resting beside it,",
+        "from the side along the counter, her profile and the long counter line leading to the dark storefront,",
+        "medium shot of her tearing the blank receipt off and holding it out, eyes half closed,"
+      ],
+      "lines": [
+        ["doc", "お金は　いりません。　そこは　安心して　ください"],
+        ["pat", "じゃあ　なにを　払うんですか"]
+      ],
+      "lines2": [
+        ["doc", "毎晩　来ること。　それだけ　です"],
+        ["pat", "……安いのか　高いのか"]
+      ]
+    },
+    {
+      "day": 6,
+      "scene": "常連の定義",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), slight smile,",
+      "poses": [
+        "wide shot of the storefront from the empty street, she stands just outside the automatic door with a trash bag,",
+        "close up of her hand tying the bag, name tag swinging forward,",
+        "from behind her at the door, her shoulders and the bright store interior beyond,",
+        "medium shot of her turning on the entrance mat, counting on two fingers toward viewer,"
+      ],
+      "lines": [
+        ["doc", "常連って、　何日から　だと　思います？"],
+        ["pat", "一週間　くらい　ですか"]
+      ],
+      "lines2": [
+        ["doc", "三十日です。　……わたしの　中では"],
+        ["pat", "それ、　長すぎ　ませんか"]
+      ]
+    },
+    {
+      "day": 7,
+      "scene": "一週間",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), languid expression,",
+      "poses": [
+        "medium shot of her sitting on a stool behind the night counter, ordering tablet on her knees,",
+        "close up of the tablet screen, a column of dates with small check marks,",
+        "from behind her shoulder, the tablet in her lap and the empty store beyond the counter,",
+        "medium shot of her looking up from the tablet straight at viewer, stylus paused in the air,"
+      ],
+      "lines": [
+        ["doc", "七日目。　記録　つけてます"],
+        ["pat", "発注の　端末　ですよね　それ"]
+      ],
+      "lines2": [
+        ["doc", "朝の人は　見ません。　見るのは　わたしだけ　です"],
+        ["pat", "……そういう　使い方　するんだ"]
+      ]
+    },
+    {
+      "day": 8,
+      "scene": "昼の同僚",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), businesslike look,",
+      "poses": [
+        "wide shot of the counter during a shift change, another staff member's back leaving the frame, she stands straight and formal,",
+        "close up of her mouth, saying something politely with no warmth behind it,",
+        "from the far aisle, her small figure at the counter framed between two shelves,",
+        "medium shot of her waiting until the door chime finishes, then her shoulders dropping,"
+      ],
+      "lines": [
+        ["doc", "……いま、　昼の　人が　いたので"],
+        ["pat", "急に　かたく　なりましたね"]
+      ],
+      "lines2": [
+        ["doc", "あの人たちは　知りません。　知らなくて　いいです"],
+        ["pat", "俺は　知ってて　いいんですか"]
+      ]
+    },
+    {
+      "day": 9,
+      "scene": "防犯カメラ",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), serious look,",
+      "poses": [
+        "medium wide shot of her pointing up at the ceiling dome camera, the whole counter area in frame,",
+        "close up of the dome camera, her hand entering from below,",
+        "from the camera's own high angle, looking down on her and the counter,",
+        "medium shot of her lowering her arm and looking at viewer, mouth slightly open as if about to add a condition,"
+      ],
+      "lines": [
+        ["doc", "あれ、　全部　録ってます"],
+        ["pat", "……まずく　ないですか"]
+      ],
+      "lines2": [
+        ["doc", "確認するの、　わたしなんです。　だから　平気　です"],
+        ["pat", "平気の　意味が　こわいです"]
+      ]
+    },
+    {
+      "day": 10,
+      "scene": "バックヤードへ",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "poses": [
+        "wide shot of the narrow back room, stacked cardboard boxes, she holds the swinging door open with her shoulder,",
+        "close up of her hand on the door frame, collar loosened, name tag hanging crooked,",
+        "from inside the back room looking out past her toward the bright sales floor,",
+        "medium shot of her already sitting on a stack of boxes, glancing back at viewer,"
+      ],
+      "lines": [
+        ["doc", "こっち　です。　メニュー、　ここから　なので"],
+        ["pat", "従業員　以外　だめでは"]
+      ],
+      "lines2": [
+        ["doc", "止める人、　この時間　いません"],
+        ["pat", "……お邪魔　します"]
+      ]
+    },
+    {
+      "day": 11,
+      "scene": "段階の説明",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), unreadable expression,",
+      "poses": [
+        "wide shot of the break room, folding table, she writes a short numbered list on the back of an order sheet,",
+        "extreme close up of the pen drawing a row of numbers, the words beside them out of focus,",
+        "from the far end of the table at table height, the sheet between them, her hands framing it,",
+        "medium shot of her turning the sheet around and sliding it toward viewer, chin resting on one hand,"
+      ],
+      "lines": [
+        ["doc", "順番が　あります。　飛ばせません"],
+        ["pat", "書き出す　ほど　ですか"]
+      ],
+      "lines2": [
+        ["doc", "決めるのは　わたしです。　その日の　ぶんだけ"],
+        ["pat", "……こっちに　選択肢　ないんですね"]
+      ]
+    },
+    {
+      "day": 12,
+      "scene": "第一段階",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), flat expression,",
+      "poses": [
+        "medium wide shot of the back room desk, she sets down a paper cup of coffee and a plastic stool for viewer,",
+        "close up of her fingers pushing the cup exactly to the center of the desk,",
+        "from a low side angle, her legs crossed at the ankle beside the stool, boxes behind her,",
+        "medium shot of her sitting down opposite, hands folded, looking at viewer like an interviewer,"
+      ],
+      "lines": [
+        ["doc", "今日は、　座って　話すだけ　です"],
+        ["pat", "それで　終わりですか"]
+      ],
+      "lines2": [
+        ["doc", "がっかり　しました？"],
+        ["pat", "……して　ないです"]
+      ]
+    },
+    {
+      "day": 13,
+      "scene": "ほかの常連",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), slight smile,",
+      "poses": [
+        "medium shot at the register, she lines up receipts with two taps on the counter, sleeves pushed up,",
+        "close up of the receipt stack and her fingernails on the paper edge,",
+        "over her shoulder from behind the counter, the empty aisles beyond her,",
+        "medium shot of her holding one receipt up between two fingers toward viewer,"
+      ],
+      "lines": [
+        ["doc", "ほかにも　いるって　思ってますよね"],
+        ["pat", "……思って　ました"]
+      ],
+      "lines2": [
+        ["doc", "いません。　三十日　続いた人が　いないので"],
+        ["pat", "先が　思いやられます"]
+      ]
+    },
+    {
+      "day": 14,
+      "scene": "名札の裏",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), unreadable expression,",
+      "poses": [
+        "medium wide shot of her unclipping the name tag from her chest pocket, whole counter area in frame,",
+        "extreme close up of the name tag turned over in her fingers, something written on the back,",
+        "from the side along the counter, her profile as she looks down at the tag,",
+        "medium shot of her clipping it back on upside down, looking at viewer,"
+      ],
+      "lines": [
+        ["doc", "裏、　見ます？"],
+        ["pat", "なにか　書いてある　んですか"]
+      ],
+      "lines2": [
+        ["doc", "あなたの　来た　日付。　全部　です"],
+        ["pat", "……それ、　仕事中に　書くやつ　ですか"]
+      ]
+    },
+    {
+      "day": 15,
+      "scene": "手慣れた段取り",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), focused expression,",
+      "poses": [
+        "wide shot of the back room with a delivery trolley, she works through it without looking, checking items off,",
+        "close up of the box cutter in her hand slicing tape in one clean line,",
+        "from above, looking down at her moving between opened boxes, everything in order,",
+        "medium shot of her finishing and checking the wall clock, already onto the next thing,"
+      ],
+      "lines": [
+        ["doc", "検品、　あと　四分で　終わります"],
+        ["pat", "早すぎ　ないですか"]
+      ],
+      "lines2": [
+        ["doc", "全部　逆算　してます。　あなたの　ぶんも"],
+        ["pat", "……段取りに　入ってるんだ"]
+      ]
+    },
+    {
+      "day": 16,
+      "scene": "鳴らない自動ドア",
+      "place": "outer",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "poses": [
+        "wide shot of the storefront from outside, she stands just inside the glass looking at the dark empty street,",
+        "close up of her ear and the loose strands at her cheek, listening for the door chime,",
+        "from the parking lot at a low angle, the bright store front and her silhouette in the doorway,",
+        "medium shot of her glancing at the silent door, then back at viewer,"
+      ],
+      "lines": [
+        ["doc", "今日、　まだ　三人しか　来てないです"],
+        ["pat", "静か　ですね"]
+      ],
+      "lines2": [
+        ["doc", "ドアの音が　しないと、　続きが　できます"],
+        ["pat", "……続き"]
+      ]
+    },
+    {
+      "day": 17,
+      "scene": "申し送りに書かない",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), slight smile,",
+      "poses": [
+        "medium wide shot of her writing in the shift notebook on the counter, pen moving steadily,",
+        "close up of the open notebook page, the pen tip stopping before an empty line,",
+        "from a high angle behind the counter, the notebook, the register and her bowed head,",
+        "medium shot of her closing the notebook with one hand and looking up at viewer,"
+      ],
+      "lines": [
+        ["doc", "申し送り、　書かないで　おきます"],
+        ["pat", "なにを　ですか"]
+      ],
+      "lines2": [
+        ["doc", "この時間の　ぶん　全部。　朝の人には　関係　ないので"],
+        ["pat", "……全部"]
+      ]
+    },
+    {
+      "day": 18,
+      "scene": "死角",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), unreadable expression,",
+      "poses": [
+        "wide shot of the corner between the back room door and the shelving, she stands in the narrow gap,",
+        "close up of her finger pointing straight up at the empty ceiling corner,",
+        "from the ceiling camera angle across the room, the corner where she stands left uncovered,",
+        "medium shot of her lowering her hand, looking at viewer without blinking,"
+      ],
+      "lines": [
+        ["doc", "ここ、　カメラ　映りません"],
+        ["pat", "……調べたん　ですか"]
+      ],
+      "lines2": [
+        ["doc", "入った　初日に。　使う日が　来ると　思って"],
+        ["pat", "用意が　よすぎ　ます"]
+      ]
+    },
+    {
+      "day": 19,
+      "scene": "待たせる",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), languid expression,",
+      "poses": [
+        "wide shot of the break room, she stands with her back against the closed door, arms folded,",
+        "close up of her wrist watch, the hands just past two,",
+        "from floor level looking up at her against the door, ceiling light behind her head,",
+        "medium shot of her tilting her head, waiting for viewer to sit down where she pointed,"
+      ],
+      "lines": [
+        ["doc", "そこ、　座って　待っててください"],
+        ["pat", "どれくらい　ですか"]
+      ],
+      "lines2": [
+        ["doc", "レジ締めが　終わるまで。　……逃げないで"],
+        ["pat", "逃げません　って"]
+      ]
+    },
+    {
+      "day": 20,
+      "scene": "レジ締めのあと",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), focused expression,",
+      "poses": [
+        "wide shot of the back room desk, cash drawer open, she counts coins under the desk lamp,",
+        "extreme close up of her fingers flicking through a stack of bills,",
+        "from the opposite side of the desk at eye level, her face lit from below by the lamp,",
+        "medium shot of her exhaling and dropping her shoulders, looking sideways at viewer,"
+      ],
+      "lines": [
+        ["doc", "……合いました。　ここから　が、　わたしの　時間です"],
+        ["pat", "おつかれさま　です"]
+      ],
+      "lines2": [
+        ["doc", "明日から　段階、　ひとつ　上げます"],
+        ["pat", "……予告　するんですね"]
+      ]
+    },
+    {
+      "day": 21,
+      "scene": "第二段階",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "poses": [
+        "wide shot of the back room, she hangs her striped uniform shirt on a wall hook, standing in a thin inner shirt,",
+        "close up of her hand smoothing the hung shirt on the hook, name tag swinging,",
+        "from behind, her shoulders and the back of her neck under the ceiling light,",
+        "medium shot of her turning back toward viewer in the thin inner shirt, completely unbothered,"
+      ],
+      "lines": [
+        ["doc", "上、　外しますね。　……言った　とおりです"],
+        ["pat", "そ、　そういう　段階　ですか"]
+      ],
+      "lines2": [
+        ["doc", "揚げ物の　においが　つくので。　半分は　本当　です"],
+        ["pat", "半分は　なんですか"]
+      ]
+    },
+    {
+      "day": 22,
+      "scene": "照明を落とす",
+      "place": "inner",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), flat expression,",
+      "poses": [
+        "wide shot of the sales floor half dark, only the cooler cases glowing, she stands at the breaker panel in a thin inner shirt,",
+        "close up of her fingers running down the row of breaker switches,",
+        "from the dark aisle looking toward her, shelves silhouetted in the foreground,",
+        "medium shot of her walking back through the dimmed aisle toward viewer,"
+      ],
+      "lines": [
+        ["doc", "半分、　落としますね"],
+        ["pat", "消して　いいんですか　それ"]
+      ],
+      "lines2": [
+        ["doc", "深夜は　規定です。　……外から　見えにくく　なるので"],
+        ["pat", "後半　規定　じゃないですよね"]
+      ]
+    },
+    {
+      "day": 23,
+      "scene": "カウンター越し",
+      "place": "inner",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), slight smile,",
+      "poses": [
+        "wide shot of the register seen from the customer side, she stands right up against the counter in a thin inner shirt,",
+        "close up of her finger tapping the counter surface where she wants viewer to stand,",
+        "from directly above the counter, both sides in frame, the gap between them narrow,",
+        "medium shot of her leaning further over the counter, hair falling forward,"
+      ],
+      "lines": [
+        ["doc", "そこ。　もう一歩　前です"],
+        ["pat", "レジ　挟んでるのに"]
+      ],
+      "lines2": [
+        ["doc", "挟んでる　うちは、　まだ　サービス中　です"],
+        ["pat", "……終わったら　どうなるんですか"]
+      ]
+    },
+    {
+      "day": 24,
+      "scene": "廃棄を分ける",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "poses": [
+        "wide shot of the break room table, two rice balls and one can between them, she sits cross-legged on a chair in a thin camisole,",
+        "close up of her hand tearing the wrapper open,",
+        "from the side at table height, her profile and the folding table receding into the dark back room,",
+        "medium shot of her pushing half toward viewer, eyes on viewer's face instead of the food,"
+      ],
+      "lines": [
+        ["doc", "半分こ、　します？"],
+        ["pat", "……その　かっこうで　ですか"]
+      ],
+      "lines2": [
+        ["doc", "これも　メニューの　うちです。　順番　どおり"],
+        ["pat", "淡々と　言われると　困ります"]
+      ]
+    },
+    {
+      "day": 25,
+      "scene": "裏口の鍵",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), unreadable expression,",
+      "poses": [
+        "wide shot of the back door, she turns the lock, keys hanging from her fingers, thin camisole,",
+        "extreme close up of the thumb turn on the lock and her fingers,",
+        "from outside the small door window, her shape through the frosted glass,",
+        "medium shot of her leaning her back on the locked door, looking at viewer,"
+      ],
+      "lines": [
+        ["doc", "裏口、　閉めました"],
+        ["pat", "誰か　来たら　どうするんですか"]
+      ],
+      "lines2": [
+        ["doc", "表は　開いてます。　閉めるのは　ここだけ　です"],
+        ["pat", "……っ"]
+      ]
+    },
+    {
+      "day": 26,
+      "scene": "記録",
+      "place": "inner",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), slight smile,",
+      "poses": [
+        "wide shot at the register, a long strip of receipts hanging from her hand down past her knees, thin camisole,",
+        "close up of the printed lines on the strip, dates in a column,",
+        "from a low angle looking up past the hanging receipts to her face,",
+        "medium shot of her gathering the strip into her arms, watching viewer's reaction,"
+      ],
+      "lines": [
+        ["doc", "二十六日ぶん、　取ってあります"],
+        ["pat", "……捨ててください　それ"]
+      ],
+      "lines2": [
+        ["doc", "あと　四日で　常連です。　数えて　ましたよね"],
+        ["pat", "……数えて　ました"]
+      ]
+    },
+    {
+      "day": 27,
+      "scene": "帰らせない",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "poses": [
+        "wide shot of the back room, she stands between viewer and the door, arms loose at her sides,",
+        "close up of her hand closed around viewer's sleeve, very lightly,",
+        "from behind her shoulder, the doorway beyond and viewer standing in it,",
+        "medium shot of her looking up, head tilted, not letting go,"
+      ],
+      "lines": [
+        ["doc", "今日は、　まだ　帰らないで　ください"],
+        ["pat", "……それも　メニュー　ですか"]
+      ],
+      "lines2": [
+        ["doc", "いえ。　これは　わたしの　わがまま　です"],
+        ["pat", "……ずるい　ですよ"]
+      ]
+    },
+    {
+      "day": 28,
+      "scene": "最終段階",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), flat expression,",
+      "poses": [
+        "wide shot of the back room lockers, she stands holding her folded uniform shirt in front of her,",
+        "close up of her hands on the folded striped shirt, name tag on top,",
+        "from the doorway, a narrow view of her past the edge of the door frame,",
+        "medium shot of her looking back over her shoulder at viewer, in no hurry at all,"
+      ],
+      "lines": [
+        ["doc", "……入って　きましたね"],
+        ["pat", "す、　すみません"]
+      ],
+      "lines2": [
+        ["doc", "呼んだの　わたしです。　最後の　段階なので"],
+        ["pat", "……扉、　閉めます"]
+      ]
+    },
+    {
+      "day": 29,
+      "scene": "隠さない",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), serious look,",
+      "poses": [
+        "wide shot of the break room, she sits upright on the folding chair, hands flat on her knees,",
+        "close up of her face straight on, no smile, eyes fully open for once,",
+        "from a high corner of the room, her small figure alone at the table,",
+        "medium shot from the side, she makes no move to cover herself, chin slightly lifted,"
+      ],
+      "lines": [
+        ["doc", "……目、　そらさなくて　いいですよ"],
+        ["pat", "いや、　でも"]
+      ],
+      "lines2": [
+        ["doc", "明日で　三十日。　噂の　続き、　知りたく　ないですか"],
+        ["pat", "……聞いて　いいんですか"]
+      ]
+    },
+    {
+      "day": 30,
+      "scene": "閉まらない店",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), soft smile,",
+      "poses": [
+        "wide shot of the back room, she sits sideways on the desk, legs crossed, the lamp the only light,",
+        "close up of her hand patting the desk beside her,",
+        "from the sales floor through the half open back room door, her silhouette inside,",
+        "medium shot of her leaning toward viewer, eyes finally wide awake,"
+      ],
+      "lines": [
+        ["doc", "三十日目。　……常連さん、　おめでとうございます"],
+        ["pat", "裏の　メニューって、　結局"]
+      ],
+      "narration": "このあと　めちゃくちゃ　S〇Xした",
+      "lines2": [
+        ["doc", "この店、　閉まらないので。　朝まで　説明　します"]
+      ]
+    }
+  ],
+  "_panels": "1ビート=4枚。2枚ずつ1ページにまとめて2コマのページを2枚つくる（導入だけコマ割り）"
+}

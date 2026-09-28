@@ -1,0 +1,213 @@
+{
+  "_note": "024 玄関シリーズ第1弾・宅配のお姉さん。導入は玄関のドア越し、そこから家の奥へ進む構成。",
+  "sourceTab": "fanza_500",
+  "tab": "fanza_500_takuhai",
+  "series": "door",
+  "title": "私がお届けものです〜宅配のお姉さん編〜",
+  "cover": "{blue}私が<お届けもの>です/{blue}〜宅配のお姉さん編〜",
+  "titleEn": "I'm Your Delivery - The Courier Girl",
+  "coverEn": "I am your <delivery>/{blue}The Courier Girl",
+  "age": "28歳",
+  "job": "宅配ドライバー",
+  "jobEn": "Delivery driver",
+  "dayLabel": "{n}回目",
+  "dayLabelEn": "Delivery {n}",
+  "dialogue": "config/fanza-dialogue-door.json",
+  "dialogueEn": "config/fanza-dialogue-door-en.json",
+  "face": "(orange brown hair:1.3), medium hair, high ponytail, side-swept bangs, healthy skin, tareme, (amber eyes:1.1), small freckles, soft lighting,",
+  "coverOutfit": "delivery driver, teal polo shirt, top button open, (cleavage:1.15), tight shirt, cap, cargo shorts, courier shoulder bag,",
+  "words": {
+    "place": "玄関",
+    "placeShort": "玄関先",
+    "uniform": "制服",
+    "item": "荷物",
+    "task": "配達",
+    "visitor": "お客さん",
+    "deskItem": "伝票",
+    "breakFood": "コンビニのプリン",
+    "placeEn": "doorway",
+    "placeShortEn": "entrance",
+    "uniformEn": "uniform",
+    "itemEn": "parcel",
+    "taskEn": "delivery",
+    "visitorEn": "customer",
+    "deskItemEn": "delivery slip",
+    "breakFoodEn": "convenience store pudding"
+  },
+  "sceneRename": {
+    "診察": "1回目の配達",
+    "聴診器": "荷物を渡す",
+    "座って書いてる": "サインをもらう"
+  },
+  "setup": "在宅仕事で外に出ない社会人の{{pat}}。毎日のように荷物を届けに来るのは、明るくてよく日に焼けた宅配ドライバーの{{docFull}}さんだった。",
+  "setupEn": "{{pat}} works from home and barely goes outside. The one who shows up at his door almost every day is {{docFull}}, a cheerful, sun-tanned delivery driver.",
+  "story": [
+    "最初は「サインをお願いします」だけだった{{doc}}さん。",
+    "回を重ねるたびに玄関先の立ち話が長くなり、荷物を中まで運んでくれるように。",
+    "「{{pat}}さんのお宅、いつも最後に回してるんです」――ドアの内側と外側の距離が、少しずつ縮まっていく。",
+    "そして最後の配達の日、{{doc}}さんは手ぶらでやってきて言う。「……今日は、わたしがお届けものです」"
+  ],
+  "storyEn": [
+    "At first, {{doc}} only asks for a signature.",
+    "Delivery by delivery, the small talk at the door runs longer, and she starts carrying the boxes inside.",
+    "\"I always save your address for last.\" The distance between the inside and outside of that door keeps shrinking.",
+    "On the day of the last delivery, she shows up empty-handed. \"...Today, I'm the delivery.\""
+  ],
+  "appeal": [
+    "玄関のドア越しに始まって、家の奥へ進んでいく構成。回数を重ねるごとに距離が縮まります",
+    "宅配制服・タンクトップ・部屋着・バスタオル・メイド服・サンタコスなど衣装バリエーション豊富",
+    "玄関、廊下、リビング、寝室、風呂とシチュエーションを変えながら500ページの大ボリューム",
+    "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+  ],
+  "appealEn": [
+    "It starts at the front door and moves deeper into the apartment, one delivery at a time",
+    "Outfits galore: delivery uniform, tank top, loungewear, bath towel, maid outfit, Santa costume",
+    "500 pages across the doorway, the hallway, the living room, the bedroom and the bath",
+    "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+  ],
+  "sections": {
+    "非エロ": "玄関パート",
+    "クリニック": "玄関でえろえろ",
+    "部屋": "廊下でH",
+    "自宅マイクロビキニ": "リビングで下着H",
+    "夜のオフィス": "寝室でH",
+    "ホテルのプール更衣室": "お風呂でH",
+    "メイド服のオフィス": "夜の玄関でメイド服H",
+    "オフィスカジュアル": "リビングで部屋着H",
+    "サンタコスのオフィス": "おまけ（サンタコス配達）"
+  },
+  "sectionsEn": {
+    "非エロ": "At the door (with dialogue)",
+    "クリニック": "In the doorway",
+    "部屋": "Hallway",
+    "自宅マイクロビキニ": "Underwear in the living room",
+    "夜のオフィス": "Bedroom",
+    "ホテルのプール更衣室": "Bath",
+    "メイド服のオフィス": "Maid outfit at night",
+    "オフィスカジュアル": "Loungewear in the living room",
+    "サンタコスのオフィス": "Bonus: Santa delivery"
+  },
+  "replace": [
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,partially undressed,",
+      "delivery driver, navy polo shirt, cap, cargo shorts, courier shoulder bag, cleavage,partially undressed,"
+    ],
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,",
+      "delivery driver, navy polo shirt, cap, cargo shorts, courier shoulder bag, cleavage,"
+    ],
+    [
+      "white turtleneck sweater,lab coat, open lab coat, black miniskirt, stethoscope, cleavage,",
+      "delivery driver, open uniform jacket, navy polo shirt, cargo shorts, cleavage,"
+    ],
+    [
+      "pink camisole, black miniskirt, stethoscope, cleavage,",
+      "white tank top, cargo shorts, cleavage,"
+    ],
+    [
+      "office lady, glasses, fitted blazer, pencil skirt, mature and intelligent atmosphere,partially undressed,",
+      "thin camisole, short shorts, relaxed atmosphere,partially undressed,"
+    ],
+    [
+      "office lady, black fitted blazer, black pencil skirt,partially undressed,",
+      "thin camisole, short shorts,partially undressed,"
+    ],
+    [
+      "competition swimsuit,",
+      "white bath towel, towel wrap, wet hair,"
+    ],
+    [
+      "office blouse, fitted pencil skirt, pearl earrings,",
+      "oversized hoodie, bare legs, loungewear,"
+    ],
+    [
+      "private clinic examination room, unoccupied bed near windows, sheer white curtains swaying, eye chart, health notices, metal lockers, white enamel sink, potted plant, tissue box,",
+      "apartment entrance, open front door, doorway from inside, shoe cabinet, umbrella stand, warm indoor light, corridor light behind her, delivery boxes stacked,"
+    ],
+    [
+      "private clinic, medical examination,",
+      "apartment doorway, parcel delivery,"
+    ],
+    [
+      "interior design, cozy small studio apartment, woman's bedroom, soft sunlight, beige and white theme, wooden furniture, cozy bed with fluffy pillows, white curtains, desk with succulent plant, clean interior, 8k resolution, ray tracing, soft focus,",
+      "narrow apartment hallway, wooden floor, closed doors, coat hooks, soft indirect light, shoes lined up, clean interior, 8k resolution, ray tracing, soft focus,"
+    ],
+    [
+      "office,(night:1.5),",
+      "apartment entrance,(night:1.5),porch light,"
+    ],
+    [
+      "office,night,",
+      "bedroom,night,bedside lamp,"
+    ],
+    [
+      "hotel pool side,",
+      "apartment bathroom, steam, wet tiles, bathtub,"
+    ],
+    [
+      "office meeting room,indoor,",
+      "living room,indoor,sofa,low table,"
+    ],
+    [
+      "erotic checkup,",
+      "erotic delivery,"
+    ],
+    [
+      "checking temperature, hand on forehead, leaning forward, concerned expression, caring, private clinic, nurse desk,",
+      "handing over a parcel, leaning forward, cheerful expression, caring, apartment doorway,"
+    ],
+    [
+      "stethoscope, medical examination, listening to heartbeat, professional expression, private clinic, close up,",
+      "holding a parcel with both hands, offering it, bright expression, apartment doorway, close up,"
+    ],
+    [
+      "writing medical records, sitting at desk, pen in hand, focused expression, paperwork, private clinic, side view,",
+      "holding out a signature pad, standing at the door, pen in hand, focused expression, apartment doorway, side view,"
+    ],
+    [
+      "wearing an elegant office blouse and pencil skirt",
+      "wearing an oversized hoodie"
+    ],
+    [
+      "open lab coat,",
+      "open uniform jacket,"
+    ],
+    [
+      "caring for patient",
+      "caring for customer"
+    ],
+    [
+      "private clinic",
+      "apartment entrance"
+    ]
+  ],
+  "coverLayout": "left",
+  "coverHeroX": 0.68,
+  "coverBg": "dark",
+  "coverHeroH": 1.22,
+  "introStoryboard": "config/intro-storyboard-door.json",
+  "introOutfits": {
+    "neat": "delivery driver, teal polo shirt, cap, cargo shorts, courier shoulder bag, neat uniform,",
+    "loose": "delivery driver, teal polo shirt, top button open, cap, cargo shorts, courier shoulder bag,",
+    "off": "delivery driver, teal polo shirt, uniform jacket taken off, cargo shorts, no cap,",
+    "inner": "thin white tank top, cargo shorts, bare shoulders,",
+    "underwear": "white bra, panties, lace, bare shoulders,"
+  },
+  "introPlaces": {
+    "outer": "apartment entrance, open front door, doorway from outside, corridor of an apartment building, delivery boxes, daylight,",
+    "inner": "apartment entrance hall, inside the doorway, shoe cabinet, umbrella stand, warm indoor light, wooden floor,",
+    "room": "living room, indoor, sofa, low table, soft indirect light, curtains, clean interior,"
+  },
+  "coverExprFrom": "イキ顔",
+  "titleRuby": "わたしがおとどけものですたくはいのおねえさんへん",
+  "fanzaKeywords": [
+    "巨乳",
+    "おっぱい",
+    "中出し",
+    "フェラ",
+    "制服",
+    "イチャラブ",
+    "オリジナル",
+    "お姉さん"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "_note": "人妻。tools/make-variant-config.mjs から生成。置き換え表は共通、値だけ作品ごと。",
+  "sourceTab": "fanza_500",
+  "tab": "fanza_500_hitozuma",
+  "title": "30日後にS○Xする隣の奥さん",
+  "cover": "30日後[に]/{blue}S⚪︎Xする隣の奥さん",
+  "titleEn": "30 Days Until I Sleep With My Neighbor's Wife",
+  "coverEn": "30 Days Until I Sleep/{blue}With My Neighbor's Wife",
+  "age": "28歳",
+  "job": "人妻",
+  "jobEn": "Homemaker (next door)",
+  "face": "(light brown hair:1.3), medium hair, loose wavy hair, hair tucked behind ear, side-swept bangs, soft hair, tareme, (hazel eyes:1.1), gentle face, soft lighting,",
+  "coverOutfit": "casual knit sweater, long skirt, apron, wedding ring,",
+  "words": {
+    "place": "お隣",
+    "placeShort": "玄関先",
+    "uniform": "エプロン",
+    "item": "おすそ分け",
+    "task": "回覧板",
+    "visitor": "ご近所さん",
+    "deskItem": "家計簿",
+    "breakFood": "作りすぎた煮物",
+    "placeEn": "her place",
+    "placeShortEn": "doorway",
+    "uniformEn": "apron",
+    "itemEn": "leftovers",
+    "taskEn": "errand",
+    "visitorEn": "neighbor",
+    "deskItemEn": "household ledger",
+    "breakFoodEn": "home cooking"
+  },
+  "sceneRename": {
+    "診察": "玄関先",
+    "聴診器": "おすそ分け",
+    "座って書いてる": "家計簿"
+  },
+  "setup": "隣に引っ越してきた社会人の{{pat}}。回覧板を届けに来たのは、いつも一人で家にいる人妻の{{docFull}}さんだった。",
+  "setupEn": "{{pat}}, an office worker, moves into a new apartment. The one who brings the neighborhood notice around is {{docFull}}, a married woman who always seems to be home alone.",
+  "story": [
+    "最初は「ご近所付き合いだから」と作りすぎた料理を分けてくれるだけだった{{doc}}さん。",
+    "顔を合わせるたびに話が長くなり、部屋に上げてくれ、指輪をはずした手を見せるように。",
+    "「うち、旦那が帰ってこないの」――その一言から、玄関先の会話が変わっていく。",
+    "30日目、誰もいない部屋で、ふたりの関係が変わる。"
+  ],
+  "storyEn": [
+    "At first, {{doc}} just shares the food she made too much of, because that's what neighbors do.",
+    "Each time they meet, the talk gets longer. She invites him in. She lets him see her hand without the ring.",
+    "\"My husband doesn't come home anymore.\" After that, the doorway conversations change.",
+    "On Day 30, in an empty apartment, everything changes."
+  ],
+  "appeal": [
+    "隣の部屋の人妻が、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+    "エプロン・ニット・部屋着・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+    "玄関先、自宅、夜のリビング、温泉などシチュエーションを変えながら500ページの大ボリューム",
+    "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+  ],
+  "appealEn": [
+    "Watch the married woman next door slowly get closer over 30 days, told through dated dialogue pages",
+    "Outfits galore: apron, knitwear, loungewear, swimsuit, maid outfit, Santa costume",
+    "500 pages across the doorway, her apartment, the living room at night, a hot spring and more",
+    "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+  ],
+  "sections": {
+    "非エロ": "日常パート",
+    "クリニック": "お隣の部屋でえろえろ",
+    "部屋": "お部屋でH",
+    "自宅マイクロビキニ": "マイクロビキニでH",
+    "夜のオフィス": "夜のリビングでH",
+    "ホテルのプール更衣室": "温泉でH",
+    "メイド服のオフィス": "夜の部屋でメイド服H",
+    "オフィスカジュアル": "客間で部屋着H",
+    "サンタコスのオフィス": "おまけ（サンタコス）"
+  },
+  "sectionsEn": {
+    "非エロ": "Everyday days (with dialogue)",
+    "クリニック": "Next door",
+    "部屋": "Her room",
+    "自宅マイクロビキニ": "Micro bikini at home",
+    "夜のオフィス": "Living room at night",
+    "ホテルのプール更衣室": "Hot spring",
+    "メイド服のオフィス": "Maid outfit at night",
+    "オフィスカジュアル": "Loungewear in the guest room",
+    "サンタコスのオフィス": "Bonus: Santa costume"
+  },
+  "replace": [
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,partially undressed,",
+      "casual knit sweater, long skirt, apron, wedding ring, cleavage,partially undressed,"
+    ],
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,",
+      "casual knit sweater, long skirt, apron, wedding ring, cleavage,"
+    ],
+    [
+      "white turtleneck sweater,lab coat, open lab coat, black miniskirt, stethoscope, cleavage,",
+      "off-shoulder knit sweater, long skirt, apron, cleavage,"
+    ],
+    [
+      "pink camisole, black miniskirt, stethoscope, cleavage,",
+      "thin camisole, long skirt, cleavage,"
+    ],
+    [
+      "office lady, glasses, fitted blazer, pencil skirt, mature and intelligent atmosphere,partially undressed,",
+      "silk blouse, tight long skirt, wedding ring,partially undressed,"
+    ],
+    [
+      "office lady, black fitted blazer, black pencil skirt,partially undressed,",
+      "silk blouse, tight long skirt, wedding ring,partially undressed,"
+    ],
+    [
+      "competition swimsuit,",
+      "black one-piece swimsuit, wet hair,"
+    ],
+    [
+      "office blouse, fitted pencil skirt, pearl earrings,",
+      "loungewear, oversized shirt, bare legs,"
+    ],
+    [
+      "private clinic examination room, unoccupied bed near windows, sheer white curtains swaying, eye chart, health notices, metal lockers, white enamel sink, potted plant, tissue box,",
+      "apartment entrance hall, shoe cabinet, small mirror, umbrella stand, warm indoor light, wooden door, potted plant,"
+    ],
+    [
+      "private clinic, medical examination,",
+      "apartment doorway, neighbor visit,"
+    ],
+    [
+      "office,(night:1.5),",
+      "living room,(night:1.5),floor lamp,"
+    ],
+    [
+      "office,night,",
+      "living room,night,tv light,"
+    ],
+    [
+      "hotel pool side,",
+      "hot spring inn, open air bath, steam, wooden bath,"
+    ],
+    [
+      "office meeting room,indoor,",
+      "japanese guest room,indoor,tatami,"
+    ],
+    [
+      "erotic checkup,",
+      "erotic housewife,"
+    ],
+    [
+      "checking temperature, hand on forehead, leaning forward, concerned expression, caring, private clinic, nurse desk,",
+      "handing over a food container, leaning forward, gentle expression, caring, apartment doorway,"
+    ],
+    [
+      "stethoscope, medical examination, listening to heartbeat, professional expression, private clinic, close up,",
+      "holding a food container with both hands, offering it, soft expression, apartment doorway, close up,"
+    ],
+    [
+      "writing medical records, sitting at desk, pen in hand, focused expression, paperwork, private clinic, side view,",
+      "writing in a household ledger, sitting at a low table, pen in hand, focused expression, living room, side view,"
+    ],
+    [
+      "wearing an elegant office blouse and pencil skirt",
+      "wearing loungewear and a long skirt"
+    ],
+    [
+      "open lab coat,",
+      "open cardigan,"
+    ],
+    [
+      "caring for patient",
+      "caring for neighbor"
+    ],
+    [
+      "private clinic",
+      "apartment"
+    ]
+  ],
+  "titleRuby": "さんじゅうにちごにえすっくすするとなりのおくさん",
+  "fanzaKeywords": [
+    "人妻・主婦",
+    "巨乳",
+    "中出し",
+    "おっぱい",
+    "フェラ",
+    "イチャラブ",
+    "オリジナル",
+    "熟女"
+  ]
+}

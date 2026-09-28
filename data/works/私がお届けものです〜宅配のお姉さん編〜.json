@@ -1,0 +1,73 @@
+{
+  "heroine": "御影 結衣",
+  "hero": "航平",
+  "title": "私がお届けものです〜宅配のお姉さん編〜",
+  "updatedAt": "2026-09-23T14:35:42.075Z",
+  "fanza": {
+    "dialogueCsv": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\024_私がお届けものです〜宅配のお姉さん編〜\\_work\\bubbles.csv",
+    "introImages": 88,
+    "workNo": "024",
+    "workDir": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\024_私がお届けものです〜宅配のお姉さん編〜",
+    "rawDir": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\raw_F024_私がお届けものです〜宅配のお姉さん編〜",
+    "mozaDir": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\raw_F024_私がお届けものです〜宅配のお姉さん編〜moza",
+    "builtAt": "2026-09-23T14:35:42.075Z"
+  },
+  "profile": {
+    "age": "28歳",
+    "job": "宅配ドライバー",
+    "height": 166,
+    "weight": 53,
+    "bwh": "B84・W58・H85",
+    "birthday": "5/14",
+    "blood": "A型",
+    "hobby": "読書",
+    "food": "からあげ",
+    "type": "まっすぐ目を見て話す人",
+    "personality": "真面目で融通が利かない。でも一度心を許すと甘えん坊。",
+    "hook": "ふたりきりになると、呼び方がちょっとだけ変わる。"
+  },
+  "heroineEn": "Yui Mikage",
+  "heroEn": "Kohei",
+  "patreon": {
+    "titleEn": "I'm Your Delivery - The Courier Girl",
+    "slug": "I_m_Your_Delivery_The_Courier_Girl",
+    "enDir": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\024_私がお届けものです〜宅配のお姉さん編〜\\02_patreon_en",
+    "previews": [
+      "035.jpg",
+      "057.jpg",
+      "063.jpg",
+      "075.jpg"
+    ],
+    "safePages": [
+      35,
+      36,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      85,
+      86
+    ],
+    "builtAt": "2026-09-21T04:22:33.457Z"
+  },
+  "fanzaPosted": "2026-09-21",
+  "fanzaAccount": "C"
+}

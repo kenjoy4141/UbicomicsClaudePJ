@@ -1,0 +1,45 @@
+{
+  "_note": "作品ごとの『場所』と『役柄』のセット。登場人物は全員成人。学校・制服・生徒の設定は使わない。",
+  "presets": {
+    "apartment": {
+      "label": "お姉さんの部屋",
+      "role": "",
+      "place": "interior design, cozy small studio apartment, girl's room, soft sunlight, beige and white theme, wooden furniture, cozy bed with fluffy pillows, white curtains, desk with succulent plant, clean interior, 8k resolution, ray tracing, soft focus,night"
+    },
+    "onsen": {
+      "label": "温泉旅館",
+      "role": "",
+      "place": "japanese hot spring inn, tatami room, futon, low table, shoji screen, wooden corridor, warm lantern light, steam, traditional interior, 8k resolution, ray tracing, soft focus,night"
+    },
+    "office": {
+      "label": "残業中のOL",
+      "role": "office lady, business suit,",
+      "place": "modern office at night, desk with monitor, office chair, city night view through window, fluorescent light, quiet empty floor, 8k resolution, ray tracing, soft focus,night"
+    },
+    "hotel": {
+      "label": "ホテルの一室",
+      "role": "",
+      "place": "hotel room, large bed with white sheets, bedside lamp, city night view through large window, carpet floor, modern clean interior, 8k resolution, ray tracing, soft focus,night"
+    },
+    "poolside": {
+      "label": "夏のプールサイド",
+      "role": "",
+      "place": "outdoor pool side, sun loungers, parasol, blue water reflection, summer bright sunlight, tiled floor, palm trees, 8k resolution, ray tracing, soft focus,daytime"
+    },
+    "clinic": {
+      "label": "クリニックの看護師",
+      "role": "nurse, white coat,",
+      "place": "private clinic examination room, medical examination bed, white curtain partition, medicine cabinet, afternoon sunlight through window, clean white interior, 8k resolution, ray tracing, soft focus,daytime"
+    },
+    "meeting_room": {
+      "label": "会議室の上司",
+      "role": "office lady, business suit,",
+      "place": "office meeting room after hours, long table, whiteboard, city night view through windows, quiet empty floor, 8k resolution, ray tracing, soft focus,evening"
+    },
+    "city_library": {
+      "label": "図書館の司書",
+      "role": "librarian,",
+      "place": "public city library, tall bookshelves, reading desk, warm afternoon light between shelves, quiet interior, wooden floor, 8k resolution, ray tracing, soft focus,daytime"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_note": "E列(顔、髪型)に差し込む文字列。ここを差し替えるだけでキャラが変わる。末尾のカンマは必須。",
+  "_base": "tareme,blue eyes,pink hair,long hair,bangs,",
+
+  "presets": {
+    "pink-long": "tareme,blue eyes,pink hair,long hair,bangs,",
+    "silver-hime": "tsurime,violet eyes,silver hair,long hair,hime cut,blunt bangs,",
+    "black-bob": "tareme,dark brown eyes,black hair,short hair,bob cut,bangs,",
+    "blonde-twin": "tsurime,green eyes,blonde hair,long hair,twintails,bangs,",
+    "brown-pony": "tareme,amber eyes,light brown hair,medium hair,ponytail,bangs pinned back,",
+    "ash-wavy": "tareme,grey eyes,ash brown hair,long hair,wavy hair,side swept bangs,",
+    "red-braid": "tsurime,golden eyes,red hair,long hair,braid,bangs,",
+    "navy-short": "tareme,blue eyes,dark blue hair,short hair,messy hair,bangs,",
+    "purple-bun": "tsurime,pink eyes,purple hair,medium hair,hair bun,hair ornament,",
+    "white-straight": "tareme,red eyes,white hair,very long hair,straight hair,blunt bangs,",
+    "green-sidetail": "tareme,hazel eyes,dark green hair,long hair,side ponytail,bangs,",
+    "orange-curly": "tsurime,brown eyes,orange hair,medium hair,curly hair,freckles,"
+  }
+}

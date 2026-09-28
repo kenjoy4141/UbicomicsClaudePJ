@@ -1,0 +1,204 @@
+{
+  "_note": "美容師。tools/make-variant-config.mjs から生成。置き換え表は共通、値だけ作品ごと。",
+  "sourceTab": "fanza_500",
+  "tab": "fanza_500_biyoshi",
+  "title": "いつもの美容師さんが今日はやけに距離が近い",
+  "cover": "いつもの美容師さんが/{blue}今日はやけに<距離が近い>",
+  "titleEn": "My Hairdresser Is Standing Way Too Close Today",
+  "coverEn": "My Hairdresser Is/{blue}<Way Too Close> Today",
+  "age": "28歳",
+  "job": "美容師",
+  "jobEn": "Hairdresser",
+  "face": "(silver grey hair:1.3), short bob, inner curl, blunt bangs, glossy hair, tsurime, (blue eyes:1.1), small earrings, soft lighting,",
+  "coverOutfit": "hairdresser, black shirt, black apron, scissors in pocket, rolled sleeves,",
+  "words": {
+    "place": "美容室",
+    "placeShort": "セット面",
+    "uniform": "エプロン",
+    "item": "ハサミ",
+    "task": "カット",
+    "visitor": "お客さん",
+    "deskItem": "カルテ",
+    "breakFood": "差し入れのドーナツ",
+    "placeEn": "salon",
+    "placeShortEn": "styling chair",
+    "uniformEn": "apron",
+    "itemEn": "scissors",
+    "taskEn": "haircut",
+    "visitorEn": "customer",
+    "deskItemEn": "client card",
+    "breakFoodEn": "donuts"
+  },
+  "sceneRename": {
+    "診察": "カウンセリング",
+    "聴診器": "シャンプー",
+    "座って書いてる": "カルテ記入"
+  },
+  "setup": "伸びっぱなしの髪をどうにかしようと入った美容室。担当になったのは、指名が取れないほど人気の美容師{{docFull}}さんだった。",
+  "setupEn": "{{pat}} finally walks into a salon to do something about his hair. His stylist is {{docFull}}, so popular her chair is always booked.",
+  "story": [
+    "最初は「次はいつ来ます？」と予約の話しかしなかった{{doc}}さん。",
+    "通うたびに指名の時間が長くなり、閉店後にシャンプーをしてくれるように。",
+    "「{{pat}}さんの髪、触ってると落ち着くの」――鏡越しの会話が変わっていく。",
+    "30日目、明かりを落とした店内で、ふたりの関係が変わる。"
+  ],
+  "storyEn": [
+    "At first, {{doc}} only talks about when he should book his next cut.",
+    "Visit by visit, his appointments run longer, and she starts washing his hair after closing.",
+    "\"Your hair calms me down, you know.\" The conversations in the mirror start to change.",
+    "On Day 30, in the dimmed salon, everything changes."
+  ],
+  "appeal": [
+    "指名の取れない人気美容師が、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+    "黒シャツ＋エプロン・ニット・私服・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+    "セット面、自室、閉店後の店内、温泉などシチュエーションを変えながら500ページの大ボリューム",
+    "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+  ],
+  "appealEn": [
+    "Watch the salon's most booked-up stylist slowly get closer over 30 days, told through dated dialogue pages",
+    "Outfits galore: black shirt and apron, knitwear, casual clothes, swimsuit, maid outfit, Santa costume",
+    "500 pages across the styling chair, her room, the salon after hours, a hot spring and more",
+    "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+  ],
+  "sections": {
+    "非エロ": "日常パート",
+    "クリニック": "セット面でえろえろ",
+    "部屋": "お部屋でH",
+    "自宅マイクロビキニ": "マイクロビキニでH",
+    "夜のオフィス": "閉店後の店でH",
+    "ホテルのプール更衣室": "温泉でH",
+    "メイド服のオフィス": "夜の店でメイド服H",
+    "オフィスカジュアル": "個室で私服H",
+    "サンタコスのオフィス": "おまけ（サンタコス）"
+  },
+  "sectionsEn": {
+    "非エロ": "Everyday days (with dialogue)",
+    "クリニック": "At the styling chair",
+    "部屋": "Her room",
+    "自宅マイクロビキニ": "Micro bikini at home",
+    "夜のオフィス": "After closing",
+    "ホテルのプール更衣室": "Hot spring",
+    "メイド服のオフィス": "Maid outfit at night",
+    "オフィスカジュアル": "Casual wear in a private room",
+    "サンタコスのオフィス": "Bonus: Santa costume"
+  },
+  "replace": [
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,partially undressed,",
+      "hairdresser, black shirt, black apron, rolled sleeves, cleavage,partially undressed,"
+    ],
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,",
+      "hairdresser, black shirt, black apron, rolled sleeves, cleavage,"
+    ],
+    [
+      "white turtleneck sweater,lab coat, open lab coat, black miniskirt, stethoscope, cleavage,",
+      "black turtleneck, black apron, rolled sleeves, cleavage,"
+    ],
+    [
+      "pink camisole, black miniskirt, stethoscope, cleavage,",
+      "thin black camisole, black apron, cleavage,"
+    ],
+    [
+      "office lady, glasses, fitted blazer, pencil skirt, mature and intelligent atmosphere,partially undressed,",
+      "fitted black shirt, black skinny pants,partially undressed,"
+    ],
+    [
+      "office lady, black fitted blazer, black pencil skirt,partially undressed,",
+      "fitted black shirt, black skinny pants,partially undressed,"
+    ],
+    [
+      "competition swimsuit,",
+      "black one-piece swimsuit, wet hair,"
+    ],
+    [
+      "office blouse, fitted pencil skirt, pearl earrings,",
+      "oversized shirt, wide pants, layered necklace,"
+    ],
+    [
+      "private clinic examination room, unoccupied bed near windows, sheer white curtains swaying, eye chart, health notices, metal lockers, white enamel sink, potted plant, tissue box,",
+      "hair salon interior, styling chair, large mirror, scissors and combs on the counter, hair dryers, plants, warm spotlights, shampoo bottles,"
+    ],
+    [
+      "private clinic, medical examination,",
+      "hair salon, haircut,"
+    ],
+    [
+      "office,(night:1.5),",
+      "hair salon,(night:1.5),dim lights,"
+    ],
+    [
+      "office,night,",
+      "hair salon,night,closed sign,"
+    ],
+    [
+      "hotel pool side,",
+      "hot spring inn, open air bath, steam, wooden bath,"
+    ],
+    [
+      "office meeting room,indoor,",
+      "private salon room,indoor,mirror,"
+    ],
+    [
+      "erotic checkup,",
+      "erotic haircut,"
+    ],
+    [
+      "checking temperature, hand on forehead, leaning forward, concerned expression, caring, private clinic, nurse desk,",
+      "running fingers through his hair, leaning forward, gentle expression, caring, salon chair,"
+    ],
+    [
+      "stethoscope, medical examination, listening to heartbeat, professional expression, private clinic, close up,",
+      "holding scissors and a comb, checking the length, focused expression, hair salon, close up,"
+    ],
+    [
+      "writing medical records, sitting at desk, pen in hand, focused expression, paperwork, private clinic, side view,",
+      "writing on a client card, sitting at the counter, pen in hand, focused expression, hair salon, side view,"
+    ],
+    [
+      "wearing an elegant office blouse and pencil skirt",
+      "wearing an oversized shirt and wide pants"
+    ],
+    [
+      "open lab coat,",
+      "open shirt,"
+    ],
+    [
+      "caring for patient",
+      "caring for customer"
+    ],
+    [
+      "private clinic",
+      "hair salon"
+    ]
+  ],
+  "account": "C",
+  "introOutfits": {
+    "neat": "hairdresser, black shirt, black apron, scissors in pocket, rolled sleeves,",
+    "loose": "hairdresser, black shirt, apron loosened, rolled sleeves,",
+    "off": "fitted black shirt, no apron, black skinny pants,",
+    "inner": "thin black camisole, black skinny pants, bare shoulders,",
+    "underwear": "black bra, panties, lace, bare shoulders,"
+  },
+  "introPlaces": {
+    "outer": "hair salon reception, counter with products, plants, warm spotlights, indoor,",
+    "inner": "hair salon interior, styling chair, large mirror, scissors and combs on the counter, warm spotlights,",
+    "room": "salon back room, small sofa, storage shelves, dim warm light, indoor,"
+  },
+  "introStoryboard": "config/intro-storyboard-biyoshi.json",
+  "coverExprFrom": "イキ顔",
+  "coverBg": "dark",
+  "coverHeroH": 1.22,
+  "coverHeroX": 0.66,
+  "titleRuby": "いつものびようしさんがきょうはやけにきょりがちかい",
+  "fanzaKeywords": [
+    "巨乳",
+    "おっぱい",
+    "中出し",
+    "フェラ",
+    "イチャラブ",
+    "オリジナル",
+    "お姉さん",
+    "制服"
+  ]
+}

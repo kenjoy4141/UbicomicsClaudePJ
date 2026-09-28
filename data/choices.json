@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "recordedAt": "2026-09-08T05:33:42.613Z",
+      "dir": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08",
+      "title": "となりのお姉さんのお部屋",
+      "titleTemplate": "tonari-role-place",
+      "titleWasCustom": false,
+      "offeredTitles": [
+        "お姉さんのワンルームでふたりきり",
+        "ワンルームでお姉さんとふたりきり",
+        "となりのお姉さんのワンルーム",
+        "お姉さんとワンルームで過ごす休日",
+        "お姉さんとふたりきりの休日",
+        "お姉さんと過ごす夜"
+      ],
+      "image": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08\\00101-1963517365.png",
+      "imageTags": [
+        "hairColor:銀髪",
+        "hairStyle:ロング",
+        "hairStyle:姫カット",
+        "hairStyle:ぱっつん前髪",
+        "eyes:つり目",
+        "role:大人の女性",
+        "role:お姉さん",
+        "outfit:ビキニ",
+        "outfit:マイクロビキニ",
+        "place:ワンルーム",
+        "place:女の子の部屋",
+        "place:部屋",
+        "expression:頬を染めて",
+        "expression:こちらを見つめる",
+        "expression:恥ずかしそうな",
+        "cue:looking at viewer",
+        "cue:blush",
+        "cue:dynamic angle",
+        "cue:cum"
+      ],
+      "imageScore": 2,
+      "offeredImages": [
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08\\00074-4012578514.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08\\00079-1380554168.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08\\00101-1963517365.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08\\00000-3151983368.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08\\00089-1668392239.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08\\00030-1103769856.png"
+      ]
+    },
+    {
+      "recordedAt": "2026-09-08T11:31:52.136Z",
+      "dir": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08_02_保健室moza",
+      "title": "放課後の保健室の先生",
+      "titleTemplate": "role-houkago",
+      "titleWasCustom": false,
+      "offeredTitles": [
+        "保健室の先生とふたりきりの休日",
+        "保健室の先生と過ごす夜",
+        "保健室の先生とのひみつの時間",
+        "となりの保健室の先生",
+        "放課後の保健室の先生",
+        "保健室の先生とふたりきり"
+      ],
+      "image": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08_02_保健室moza\\00079-725407848.png",
+      "imageTags": [
+        "hairColor:黒髪",
+        "hairStyle:ショート",
+        "hairStyle:ボブ",
+        "eyes:垂れ目",
+        "eyes:茶色い瞳",
+        "role:保健室の先生",
+        "role:ナース",
+        "role:大人の女性",
+        "role:お姉さん",
+        "outfit:白衣",
+        "outfit:ビキニ",
+        "outfit:マイクロビキニ",
+        "place:保健室",
+        "expression:笑顔",
+        "cue:smile"
+      ],
+      "imageScore": 4.800000000000001,
+      "offeredImages": [
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08_02_保健室moza\\00074-932469894.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08_02_保健室moza\\00079-725407848.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08_02_保健室moza\\00101-1169405481.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08_02_保健室moza\\00000-2150533857.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08_02_保健室moza\\00030-642427447.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-08_02_保健室moza\\00089-648407873.png"
+      ]
+    },
+    {
+      "recordedAt": "2026-09-13T03:15:41.348Z",
+      "dir": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-13_03_放課後の女教師moza",
+      "title": "放課後の女教師",
+      "titleTemplate": "role-houkago",
+      "titleWasCustom": false,
+      "offeredTitles": [
+        "となりの女教師の教室",
+        "放課後の女教師",
+        "女教師の教室でふたりきり",
+        "教室で女教師とふたりきり",
+        "女教師と教室で過ごす休日",
+        "女教師とふたりきりの休日"
+      ],
+      "image": "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-13_03_放課後の女教師moza\\00135-2174308162.png",
+      "imageTags": [
+        "hairColor:茶髪",
+        "hairStyle:ミディアム",
+        "hairStyle:ポニーテール",
+        "hairStyle:前髪アップ",
+        "eyes:垂れ目",
+        "role:女教師",
+        "role:大人の女性",
+        "role:お姉さん",
+        "outfit:ロングスカート",
+        "outfit:セーター",
+        "place:教室",
+        "place:黒板の前",
+        "expression:笑顔",
+        "expression:こちらを見つめる",
+        "cue:looking at viewer",
+        "cue:upper body",
+        "cue:smile",
+        "cue:standing"
+      ],
+      "imageScore": 12.799999999999997,
+      "offeredImages": [
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-13_03_放課後の女教師moza\\00133-1228772705.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-13_03_放課後の女教師moza\\00135-2174308162.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-13_03_放課後の女教師moza\\00134-852654419.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-13_03_放課後の女教師moza\\00137-2484918715.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-13_03_放課後の女教師moza\\00077-1655663744.png",
+        "C:\\Stable-Diffusion-install\\stable-diffusion-webui\\outputs\\txt2img-images\\2026-09-13_03_放課後の女教師moza\\00136-4163228637.png"
+      ]
+    }
+  ]
+}

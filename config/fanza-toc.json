@@ -1,0 +1,1009 @@
+{
+  "_note": "FANZA作品の目次とプロフィール用。タブごとに、A列の区切り名 → 目次に出す名前。age/job はプロフィールに出す。非エロの区切りは前半・後半がまとまって1行になる。",
+  "fanza_500": {
+    "age": "28歳",
+    "job": "女医",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "診察室でえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "夜のオフィスでスーツH",
+      "ホテルのプール更衣室": "プールで競泳水着H",
+      "メイド服のオフィス": "夜のオフィスでメイド服H",
+      "オフィスカジュアル": "会議室でオフィスカジュアルH",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "dialogue": "config/fanza-dialogue.json",
+    "story": [
+      "最初は「ちゃんと通院してください」とそっけなかった{{doc}}先生。",
+      "通うたびに、診察の合間の雑談が増え、お弁当を分けてくれ、白衣を脱いだ素顔を見せてくれるように。",
+      "「数値はもう安定してるの。本当は来なくていいのに」――それでも予約はいつも最後の枠。",
+      "30日目、診察時間が終わったクリニックで、ふたりの関係が変わる。"
+    ],
+    "appeal": [
+      "クールな美人女医が、30日かけて少しずつデレていく過程を日付入りのセリフで楽しめます",
+      "白衣・キャミソール・スーツ・競泳水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "診察室、自宅、夜のオフィス、プールなどシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "titleEn": "30 Days Until I Sleep With My Doctor",
+    "coverEn": "30 Days Until/{blue}I Sleep With My Doctor",
+    "jobEn": "Doctor",
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "Exam room",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "Office suit after dark",
+      "ホテルのプール更衣室": "Swimsuit by the pool",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Office casual in the meeting room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "storyEn": [
+      "At first, Dr. {{doc}} just tells him to keep his follow-up appointments.",
+      "Visit by visit, the small talk gets longer. She shares her lunch. She takes off the white coat and shows him who she really is.",
+      "\"Your numbers are fine now. You don't really need to come.\" Yet she always saves him the last slot of the day.",
+      "On Day 30, after the clinic closes, everything changes."
+    ],
+    "appealEn": [
+      "Watch a cool, beautiful doctor slowly fall for him over 30 days, told through dated dialogue pages",
+      "Tons of outfits: white coat, camisole, office suit, swimsuit, maid outfit, Santa costume",
+      "500 pages across the exam room, her room, the office at night, the pool and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "dialogueEn": "config/fanza-dialogue-en.json"
+  },
+  "fanza_500_esthe": {
+    "age": "28歳",
+    "job": "エステティシャン",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "施術ルームでえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "閉店後のサロンで制服H",
+      "ホテルのプール更衣室": "ホテルのサウナでタオルH",
+      "メイド服のオフィス": "個室でメイド服H",
+      "オフィスカジュアル": "スパスイートで私服H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "dialogue": "config/fanza-dialogue-esthe.json",
+    "story": [
+      "肩こりをほぐしてもらうだけのはずだった、小さなエステサロン。",
+      "担当の{{doc}}さんは、通うたびに香りの好みを覚え、最後の予約枠を空けて待っていてくれるように。",
+      "「肩こり治ったら、もう来なくなるんでしょ」――閉店後のサロンで、ふたりの距離はゼロになる。",
+      "30日目、オイルの香りに包まれた施術ルームで、約束の日がやってくる。"
+    ],
+    "appeal": [
+      "落ち着いた黒髪ボブのエステティシャンが、30日かけて少しずつ甘えてくる過程を日付入りのセリフで楽しめます",
+      "エステ制服・タートルネック＋エプロン・バスタオル・メイド服・サンタコスなど衣装バリエーション豊富",
+      "施術ルーム、閉店後のサロン、ホテルのサウナ、スパスイートなどシチュエーションを変えながら500ページの大ボリューム",
+      "オイルでぬるぬるの肌の質感と、キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "titleEn": "30 Days Until I Sleep With My Massage Therapist",
+    "coverEn": "30 Days Until I Sleep/{blue}With My Massage Therapist",
+    "jobEn": "Massage therapist",
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "Treatment room",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "Salon uniform after closing",
+      "ホテルのプール更衣室": "Towel in the hotel sauna",
+      "メイド服のオフィス": "Maid outfit in a private room",
+      "オフィスカジュアル": "Casual wear in a spa suite",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "storyEn": [
+      "It was supposed to be just a massage for his stiff shoulders.",
+      "Visit by visit, {{doc}} remembers his favorite scent and keeps the last booking of the day open for him.",
+      "\"Once your shoulders are fixed, you'll stop coming, right?\" After closing time, the distance between them drops to zero.",
+      "On Day 30, in a treatment room filled with the scent of oil, the promised day arrives."
+    ],
+    "appealEn": [
+      "Watch a calm, black-haired therapist slowly open up to him over 30 days, told through dated dialogue pages",
+      "Outfits galore: salon uniform, turtleneck and apron, bath towel, maid outfit, Santa costume",
+      "500 pages across the treatment room, the salon after hours, a hotel sauna, a spa suite and more",
+      "Glossy oiled skin, plus kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "dialogueEn": "config/fanza-dialogue-esthe-en.json"
+  },
+  "fanza_500_miko": {
+    "age": "28歳",
+    "job": "巫女",
+    "jobEn": "Shrine maiden",
+    "titleEn": "30 Days Until I Sleep With My Shrine Maiden",
+    "coverEn": "30 Days Until I Sleep/{blue}With My Shrine Maiden",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "社務所でえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "夜の社務所で巫女装束H",
+      "ホテルのプール更衣室": "温泉宿でH",
+      "メイド服のオフィス": "夜の社務所でメイド服H",
+      "オフィスカジュアル": "客間で浴衣H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "Shrine office",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "Miko outfit at night",
+      "ホテルのプール更衣室": "Hot spring inn",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Yukata in the guest room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "最初は「作法どおりに」とそっけなかった{{doc}}さん。",
+      "通うたびに、お守りの説明が長くなり、お茶菓子を分けてくれ、装束を脱いだ素顔を見せてくれるように。",
+      "「厄払いはもう終わってるのに」――それでも{{pat}}のぶんの御朱印は、いつも最後に書かれる。",
+      "30日目、人のいない夜の境内で、ふたりの関係が変わる。"
+    ],
+    "storyEn": [
+      "At first, {{doc}} only tells him to follow the proper form.",
+      "Visit by visit, her explanations get longer. She shares her tea sweets. She lets him see her without the miko outfit.",
+      "\"The ritual is already finished, you know.\" And yet his goshuin is always the last one she writes.",
+      "On Day 30, in the empty shrine grounds at night, everything changes."
+    ],
+    "appeal": [
+      "物静かな美人巫女が、30日かけて少しずつほどけていく過程を日付入りのセリフで楽しめます",
+      "巫女装束・白衣に赤袴・浴衣・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "社務所、自室、夜の境内、温泉などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch a quiet, beautiful shrine maiden slowly open up over 30 days, told through dated dialogue pages",
+      "Outfits galore: miko outfit, yukata, swimsuit, maid outfit, Santa costume",
+      "500 pages across the shrine office, her room, the grounds at night, a hot spring and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "miko",
+    "setup": "厄年の厄払いに通うことになった社会人の{{pat}}。町外れの神社で迎えてくれたのは、物静かで美人な巫女の{{docFull}}さんだった。",
+    "setupEn": "{{pat}}, an office worker, starts visiting a small shrine for a year-long blessing ritual. The one who greets him each time is {{docFull}}, a quiet and beautiful shrine maiden."
+  },
+  "fanza_500_hitozuma": {
+    "age": "28歳",
+    "job": "人妻",
+    "jobEn": "Homemaker (next door)",
+    "titleEn": "30 Days Until I Sleep With My Neighbor's Wife",
+    "coverEn": "30 Days Until I Sleep/{blue}With My Neighbor's Wife",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "お隣の部屋でえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "夜のリビングでH",
+      "ホテルのプール更衣室": "温泉でH",
+      "メイド服のオフィス": "夜の部屋でメイド服H",
+      "オフィスカジュアル": "客間で部屋着H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "Next door",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "Living room at night",
+      "ホテルのプール更衣室": "Hot spring",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Loungewear in the guest room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "最初は「ご近所付き合いだから」と作りすぎた料理を分けてくれるだけだった{{doc}}さん。",
+      "顔を合わせるたびに話が長くなり、部屋に上げてくれ、指輪をはずした手を見せるように。",
+      "「うち、旦那が帰ってこないの」――その一言から、玄関先の会話が変わっていく。",
+      "30日目、誰もいない部屋で、ふたりの関係が変わる。"
+    ],
+    "storyEn": [
+      "At first, {{doc}} just shares the food she made too much of, because that's what neighbors do.",
+      "Each time they meet, the talk gets longer. She invites him in. She lets him see her hand without the ring.",
+      "\"My husband doesn't come home anymore.\" After that, the doorway conversations change.",
+      "On Day 30, in an empty apartment, everything changes."
+    ],
+    "appeal": [
+      "隣の部屋の人妻が、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+      "エプロン・ニット・部屋着・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "玄関先、自宅、夜のリビング、温泉などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch the married woman next door slowly get closer over 30 days, told through dated dialogue pages",
+      "Outfits galore: apron, knitwear, loungewear, swimsuit, maid outfit, Santa costume",
+      "500 pages across the doorway, her apartment, the living room at night, a hot spring and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "hitozuma",
+    "setup": "隣に引っ越してきた社会人の{{pat}}。回覧板を届けに来たのは、いつも一人で家にいる人妻の{{docFull}}さんだった。",
+    "setupEn": "{{pat}}, an office worker, moves into a new apartment. The one who brings the neighborhood notice around is {{docFull}}, a married woman who always seems to be home alone."
+  },
+  "fanza_500_bar": {
+    "age": "28歳",
+    "job": "バーのママ",
+    "jobEn": "Bar owner",
+    "titleEn": "30 Days Until I Sleep With My Bartender",
+    "coverEn": "30 Days Until I Sleep/{blue}With My Bartender",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "カウンターでえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "閉店後の店でH",
+      "ホテルのプール更衣室": "温泉でH",
+      "メイド服のオフィス": "夜の店でメイド服H",
+      "オフィスカジュアル": "個室でドレスH",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "At the counter",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "After closing",
+      "ホテルのプール更衣室": "Hot spring",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Dress in a private room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "最初は「いらっしゃい」と一杯出すだけだった{{doc}}さん。",
+      "通うたびに、頼まなくても好みの酒が出てくるようになり、閉店後も話し込むように。",
+      "「今日は看板、早めに下ろそうかな」――客がいなくなった店で、距離が縮まっていく。",
+      "30日目、明かりを落としたカウンターで、ふたりの関係が変わる。"
+    ],
+    "storyEn": [
+      "At first, {{doc}} just pours him a drink and says welcome.",
+      "Visit by visit, his favorite drink appears without asking, and the talks run past closing time.",
+      "\"Maybe I'll close up early tonight.\" With no other customers around, the distance shrinks.",
+      "On Day 30, at the dimly lit counter, everything changes."
+    ],
+    "appeal": [
+      "落ち着いた大人のバーのママが、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+      "ベスト＋シャツ・ドレス・和装・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "カウンター、自室、閉店後の店内、温泉などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch the calm, grown-up bar owner slowly get closer over 30 days, told through dated dialogue pages",
+      "Outfits galore: vest and shirt, cocktail dress, swimsuit, maid outfit, Santa costume",
+      "500 pages across the counter, her room, the closed bar, a hot spring and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "bar",
+    "setup": "残業帰りに見つけた小さなバーに通うようになった社会人の{{pat}}。カウンターの向こうにいるのは、落ち着いた美人ママの{{docFull}}さんだった。",
+    "setupEn": "{{pat}}, an office worker, starts dropping into a small bar on his way home from overtime. Behind the counter is {{docFull}}, the calm and beautiful owner."
+  },
+  "fanza_500_yoga": {
+    "age": "28歳",
+    "job": "ヨガインストラクター",
+    "jobEn": "Yoga instructor",
+    "titleEn": "Private Yoga Lessons With My Busty Instructor",
+    "coverEn": "Private <Yoga> Lessons/{blue}With My Instructor",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "レッスン室でえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "夜のスタジオでウェアH",
+      "ホテルのプール更衣室": "温泉でH",
+      "メイド服のオフィス": "夜のスタジオでメイド服H",
+      "オフィスカジュアル": "個室で私服H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "In the studio",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "Workout wear at night",
+      "ホテルのプール更衣室": "Hot spring",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Casual wear in a private room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "最初は「まず呼吸から」と基本しか教えてくれなかった{{doc}}さん。",
+      "通うたびに手を添える時間が長くなり、レッスン後も残って話すように。",
+      "「{{pat}}さんの予約、いつも最後に入れてるの」――誰もいないスタジオで、距離が縮まっていく。",
+      "30日目、鏡だけが見ているレッスン室で、ふたりの関係が変わる。"
+    ],
+    "storyEn": [
+      "At first, {{doc}} only teaches him the basics, starting with breathing.",
+      "Lesson by lesson, her hands linger longer, and they stay talking after class.",
+      "\"I always book you for the last slot.\" In an empty studio, the distance shrinks.",
+      "On Day 30, with only the mirrors watching, everything changes."
+    ],
+    "appeal": [
+      "明るく健康的なヨガインストラクターが、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+      "ヨガウェア・スポーツブラ・レギンス・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "レッスン室、自室、夜のスタジオ、温泉などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch the bright, athletic yoga instructor slowly get closer over 30 days, told through dated dialogue pages",
+      "Outfits galore: yoga wear, sports bra, leggings, swimsuit, maid outfit, Santa costume",
+      "500 pages across the studio, her room, the studio at night, a hot spring and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "yoga",
+    "setup": "運動不足を指摘された社会人の{{pat}}。会社近くのヨガスタジオで担当になったのは、明るくて体のきれいなインストラクターの{{docFull}}さんだった。",
+    "setupEn": "{{pat}}, an office worker told he needs exercise, signs up at a yoga studio near his office. His instructor is {{docFull}}, bright and impossibly fit."
+  },
+  "fanza_500_biyoshi": {
+    "age": "28歳",
+    "job": "美容師",
+    "jobEn": "Hairdresser",
+    "titleEn": "My Hairdresser Is Standing Way Too Close Today",
+    "coverEn": "My Hairdresser Is/{blue}<Way Too Close> Today",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "セット面でえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "閉店後の店でH",
+      "ホテルのプール更衣室": "温泉でH",
+      "メイド服のオフィス": "夜の店でメイド服H",
+      "オフィスカジュアル": "個室で私服H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "At the styling chair",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "After closing",
+      "ホテルのプール更衣室": "Hot spring",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Casual wear in a private room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "最初は「次はいつ来ます？」と予約の話しかしなかった{{doc}}さん。",
+      "通うたびに指名の時間が長くなり、閉店後にシャンプーをしてくれるように。",
+      "「{{pat}}さんの髪、触ってると落ち着くの」――鏡越しの会話が変わっていく。",
+      "30日目、明かりを落とした店内で、ふたりの関係が変わる。"
+    ],
+    "storyEn": [
+      "At first, {{doc}} only talks about when he should book his next cut.",
+      "Visit by visit, his appointments run longer, and she starts washing his hair after closing.",
+      "\"Your hair calms me down, you know.\" The conversations in the mirror start to change.",
+      "On Day 30, in the dimmed salon, everything changes."
+    ],
+    "appeal": [
+      "指名の取れない人気美容師が、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+      "黒シャツ＋エプロン・ニット・私服・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "セット面、自室、閉店後の店内、温泉などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch the salon's most booked-up stylist slowly get closer over 30 days, told through dated dialogue pages",
+      "Outfits galore: black shirt and apron, knitwear, casual clothes, swimsuit, maid outfit, Santa costume",
+      "500 pages across the styling chair, her room, the salon after hours, a hot spring and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "biyoshi",
+    "setup": "伸びっぱなしの髪をどうにかしようと入った美容室。担当になったのは、指名が取れないほど人気の美容師{{docFull}}さんだった。",
+    "setupEn": "{{pat}} finally walks into a salon to do something about his hair. His stylist is {{docFull}}, so popular her chair is always booked."
+  },
+  "fanza_500_okami": {
+    "age": "28歳",
+    "job": "旅館の女将",
+    "jobEn": "Inn proprietress",
+    "titleEn": "The Inn Hostess Came to My Room That Night",
+    "coverEn": "The Inn Hostess Came/{blue}To My <Room> That Night",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "客間でえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "夜の帳場で着物H",
+      "ホテルのプール更衣室": "露天風呂でH",
+      "メイド服のオフィス": "夜の客間でメイド服H",
+      "オフィスカジュアル": "客間で浴衣H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "In the guest room",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "Kimono at the front desk",
+      "ホテルのプール更衣室": "Open air bath",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Yukata in the guest room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "最初は「いつもありがとうございます」と頭を下げるだけだった{{doc}}さん。",
+      "泊まるたびにお茶の時間が長くなり、夜にお酒を持ってきてくれるように。",
+      "「次はいつ来られますか」――帳場での挨拶が、少しずつ変わっていく。",
+      "30日目、他に客のいない旅館で、ふたりの関係が変わる。"
+    ],
+    "storyEn": [
+      "At first, {{doc}} only bows and thanks him for coming again.",
+      "Stay by stay, the tea takes longer, and she starts bringing sake to his room at night.",
+      "\"When will you be back next?\" The greetings at the front desk slowly change.",
+      "On Day 30, with no other guests in the inn, everything changes."
+    ],
+    "appeal": [
+      "物腰の柔らかい旅館の女将が、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+      "着物・浴衣・襦袢・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "客間、女将の部屋、夜の帳場、露天風呂などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch the gentle hostess of an old inn slowly get closer over 30 days, told through dated dialogue pages",
+      "Outfits galore: kimono, yukata, juban, swimsuit, maid outfit, Santa costume",
+      "500 pages across the guest room, her room, the front desk at night, an open air bath and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "okami",
+    "setup": "出張で毎月同じ町に通うことになった社会人の{{pat}}。決まって泊まる古い旅館で迎えてくれるのは、物腰の柔らかい女将の{{docFull}}さんだった。",
+    "setupEn": "{{pat}}, an office worker, starts visiting the same town every month for work. At the old inn he always stays at, he is welcomed by {{docFull}}, its gentle hostess."
+  },
+  "fanza_500_takuhai": {
+    "age": "28歳",
+    "job": "宅配ドライバー",
+    "jobEn": "Delivery driver",
+    "titleEn": "I'm Your Delivery - The Courier Girl",
+    "coverEn": "I'm Your Delivery/{blue}The Courier Girl",
+    "sections": {
+      "非エロ": "玄関パート",
+      "クリニック": "玄関でえろえろ",
+      "部屋": "廊下でH",
+      "自宅マイクロビキニ": "リビングで下着H",
+      "夜のオフィス": "寝室でH",
+      "ホテルのプール更衣室": "お風呂でH",
+      "メイド服のオフィス": "夜の玄関でメイド服H",
+      "オフィスカジュアル": "リビングで部屋着H",
+      "サンタコスのオフィス": "おまけ（サンタコス配達）"
+    },
+    "sectionsEn": {
+      "非エロ": "At the door (with dialogue)",
+      "クリニック": "In the doorway",
+      "部屋": "Hallway",
+      "自宅マイクロビキニ": "Underwear in the living room",
+      "夜のオフィス": "Bedroom",
+      "ホテルのプール更衣室": "Bath",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Loungewear in the living room",
+      "サンタコスのオフィス": "Bonus: Santa delivery"
+    },
+    "story": [
+      "最初は「サインをお願いします」だけだった{{doc}}さん。",
+      "回を重ねるたびに玄関先の立ち話が長くなり、荷物を中まで運んでくれるように。",
+      "「{{pat}}さんのお宅、いつも最後に回してるんです」――ドアの内側と外側の距離が、少しずつ縮まっていく。",
+      "そして最後の配達の日、{{doc}}さんは手ぶらでやってきて言う。「……今日は、わたしがお届けものです」"
+    ],
+    "storyEn": [
+      "At first, {{doc}} only asks for a signature.",
+      "Delivery by delivery, the small talk at the door runs longer, and she starts carrying the boxes inside.",
+      "\"I always save your address for last.\" The distance between the inside and outside of that door keeps shrinking.",
+      "On the day of the last delivery, she shows up empty-handed. \"...Today, I'm the delivery.\""
+    ],
+    "appeal": [
+      "玄関のドア越しに始まって、家の奥へ進んでいく構成。回数を重ねるごとに距離が縮まります",
+      "宅配制服・タンクトップ・部屋着・バスタオル・メイド服・サンタコスなど衣装バリエーション豊富",
+      "玄関、廊下、リビング、寝室、風呂とシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "It starts at the front door and moves deeper into the apartment, one delivery at a time",
+      "Outfits galore: delivery uniform, tank top, loungewear, bath towel, maid outfit, Santa costume",
+      "500 pages across the doorway, the hallway, the living room, the bedroom and the bath",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "takuhai",
+    "setup": "在宅仕事で外に出ない社会人の{{pat}}。毎日のように荷物を届けに来るのは、明るくてよく日に焼けた宅配ドライバーの{{docFull}}さんだった。",
+    "setupEn": "{{pat}} works from home and barely goes outside. The one who shows up at his door almost every day is {{docFull}}, a cheerful, sun-tanned delivery driver."
+  },
+  "fanza_500_takuhai2": {
+    "age": "28歳",
+    "job": "宅配ドライバー",
+    "jobEn": "Delivery driver",
+    "titleEn": "The Courier Girl Keeps Coming Back Every Day",
+    "coverEn": "The <Courier Girl>/{blue}Keeps Coming Back",
+    "sections": {
+      "非エロ": "玄関パート",
+      "クリニック": "玄関でえろえろ",
+      "部屋": "廊下でH",
+      "自宅マイクロビキニ": "リビングで下着H",
+      "夜のオフィス": "寝室でH",
+      "ホテルのプール更衣室": "お風呂でH",
+      "メイド服のオフィス": "夜の玄関でメイド服H",
+      "オフィスカジュアル": "リビングで部屋着H",
+      "サンタコスのオフィス": "おまけ（サンタコス配達）"
+    },
+    "sectionsEn": {
+      "非エロ": "At the door (with dialogue)",
+      "クリニック": "In the doorway",
+      "部屋": "Hallway",
+      "自宅マイクロビキニ": "Underwear in the living room",
+      "夜のオフィス": "Bedroom",
+      "ホテルのプール更衣室": "Bath",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Loungewear in the living room",
+      "サンタコスのオフィス": "Bonus: Santa delivery"
+    },
+    "story": [
+      "最初は「サインをお願いします」だけだった{{doc}}さん。",
+      "回を重ねるたびに玄関先の立ち話が長くなり、荷物を中まで運んでくれるように。",
+      "「{{pat}}さんのお宅、いつも最後に回してるんです」――ドアの内側と外側の距離が、少しずつ縮まっていく。",
+      "そして最後の配達の日、{{doc}}さんは手ぶらでやってきて言う。「……今日は、わたしがお届けものです」"
+    ],
+    "storyEn": [
+      "At first, {{doc}} only asks for a signature.",
+      "Delivery by delivery, the small talk at the door runs longer, and she starts carrying the boxes inside.",
+      "\"I always save your address for last.\" The distance between the inside and outside of that door keeps shrinking.",
+      "On the day of the last delivery, she shows up empty-handed. \"...Today, I'm the delivery.\""
+    ],
+    "appeal": [
+      "玄関のドア越しに始まって、家の奥へ進んでいく構成。回数を重ねるごとに距離が縮まります",
+      "宅配制服・タンクトップ・部屋着・バスタオル・メイド服・サンタコスなど衣装バリエーション豊富",
+      "玄関、廊下、リビング、寝室、風呂とシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "It starts at the front door and moves deeper into the apartment, one delivery at a time",
+      "Outfits galore: delivery uniform, tank top, loungewear, bath towel, maid outfit, Santa costume",
+      "500 pages across the doorway, the hallway, the living room, the bedroom and the bath",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "takuhai2",
+    "setup": "在宅仕事で外に出ない社会人の{{pat}}。毎日のように荷物を届けに来るのは、明るくてよく日に焼けた宅配ドライバーの{{docFull}}さんだった。",
+    "setupEn": "{{pat}} works from home and barely goes outside. The one who shows up at his door almost every day is {{docFull}}, a cheerful, sun-tanned delivery driver."
+  },
+  "fanza_500_nurse": {
+    "age": "28歳",
+    "job": "夜勤の看護師",
+    "jobEn": "Night shift nurse",
+    "titleEn": "The Milking Ward Nurse",
+    "coverEn": "The <Milking Ward>/{blue}Nurse",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "ナースステーションでえろえろ",
+      "部屋": "仮眠室でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "夜の病棟でH",
+      "ホテルのプール更衣室": "職員浴場でH",
+      "メイド服のオフィス": "夜の当直室でメイド服H",
+      "オフィスカジュアル": "当直室で私服H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "At the nurse station",
+      "部屋": "The nap room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "The ward at night",
+      "ホテルのプール更衣室": "The staff bath",
+      "メイド服のオフィス": "Maid outfit in the on-call room",
+      "オフィスカジュアル": "Casual clothes in the on-call room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "「この階の夜は、わたしが管理してます」――最初は検温と血圧だけだった。",
+      "検査、記録、経過観察。{{doc}}さんは業務の口調のまま、日ごとに一歩ずつ踏み込んでくる。",
+      "説明はされない。同意書だけが増えていき、当直室の扉は内側から閉まるようになる。",
+      "30日目。「ここから先は、記録に残しません」"
+    ],
+    "storyEn": [
+      "\"The nights on this floor are mine to manage.\" At first it was only temperature and blood pressure.",
+      "Examinations, records, observation. {{doc}} keeps the same flat professional tone while asking for more each day.",
+      "Nothing is ever explained. Only the consent forms pile up, and the duty room door starts locking from the inside.",
+      "Day 30: \"From here on, nothing goes in the record.\""
+    ],
+    "appeal": [
+      "主導権を握りっぱなしの夜勤ナースが、30日かけて少しずつ距離を詰めてくる過程を日付入りのセリフで楽しめます",
+      "ナース服・白衣・スクラブ・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "ナースステーション、仮眠室、夜の病棟、職員浴場などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch a night-shift nurse who never once loses control close the distance over 30 days, told through dated dialogue pages",
+      "Outfits galore: nurse uniform, lab coat, scrubs, swimsuit, maid outfit, Santa costume",
+      "500 pages across the nurse station, the nap room, the night ward, the staff bath and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "nurse",
+    "setup": "夜間の設備管理で病棟に入ることになった{{pat}}。消灯後の階を仕切っているのは、夜勤担当の看護師{{docFull}}だった。",
+    "setupEn": "{{pat}} starts working nights as building maintenance at a hospital. After lights-out, the floor belongs to one person: {{docFull}}, the nurse on night duty."
+  },
+  "fanza_500_cafe": {
+    "age": "28歳",
+    "job": "喫茶店の店員",
+    "jobEn": "Cafe waitress",
+    "titleEn": "The Back Room Cafe Service",
+    "coverEn": "The <Back Room>/{blue}Cafe Service",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "カウンターでえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "閉店後の店でH",
+      "ホテルのプール更衣室": "温泉でH",
+      "メイド服のオフィス": "夜の店でメイド服H",
+      "オフィスカジュアル": "休憩室で部屋着H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "At the counter",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "The cafe after closing",
+      "ホテルのプール更衣室": "Hot spring",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Loungewear in the back room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "メニューの最終ページは白紙。順番があって、飛ばすことはできないらしい。",
+      "予約帳に名前が書かれ、閉店後の鍵を見せられ、奥の部屋に通されるまでが一段目。",
+      "「今日はここまで」――{{doc}}さんは毎回そう言って、次の段を一つだけ上げていく。",
+      "30日目。「最後のメニューは、わたしです」"
+    ],
+    "storyEn": [
+      "The last page of the menu is blank. There is an order to it, and you cannot skip ahead.",
+      "Your name in the reservation book, the key shown after closing, the door to the back room — that is only the first step.",
+      "\"That's all for today.\" She says it every time, and every time the next step goes up by exactly one.",
+      "Day 30: \"The last item on the menu is me.\""
+    ],
+    "appeal": [
+      "裏メニューを一段ずつ上げてくる喫茶店の店員さんが、30日かけて少しずつ距離を詰めてくる過程を日付入りのセリフで楽しめます",
+      "エプロン・ブラウス・ニット・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "カウンター、彼女の部屋、閉店後の店内、温泉などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch a cafe waitress who raises the off-menu one step at a time close the distance over 30 days, told through dated dialogue pages",
+      "Outfits galore: apron, blouse, knitwear, swimsuit, maid outfit, Santa costume",
+      "500 pages across the counter, her room, the cafe after closing, a hot spring and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "cafe",
+    "setup": "「あの店には裏メニューがあるらしい」。噂を確かめに通いはじめた{{pat}}を迎えたのは、個人経営の喫茶店をひとりで回す{{docFull}}だった。",
+    "setupEn": "\"That cafe has an off-menu.\" {{pat}} starts going there to find out if the rumor is true. The one who greets him is {{docFull}}, who runs the little place by herself."
+  },
+  "fanza_500_hisyo": {
+    "age": "28歳",
+    "job": "秘書",
+    "jobEn": "Executive secretary",
+    "titleEn": "My Secretary's Milking Duties",
+    "coverEn": "My Secretary's/{blue}<Milking Duties>",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "秘書室でえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "夜のオフィスでH",
+      "ホテルのプール更衣室": "出張先の温泉でH",
+      "メイド服のオフィス": "夜のオフィスでメイド服H",
+      "オフィスカジュアル": "会議室でオフィスカジュアルH",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "In the secretary's office",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "The office at night",
+      "ホテルのプール更衣室": "Hot spring on a business trip",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Office casual in the meeting room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "睡眠、体温、食事、脈拍。断る欄のない書類が、毎日一枚ずつ増えていく。",
+      "他部署から引き離され、専属になり、資料室の扉には内側から鍵がかかるようになる。",
+      "「これも業務ですので」「記録を取らせてください」――事務的な言い方のまま、要求だけが上がっていく。",
+      "30日目。本日の項目は、ひとつだけ。"
+    ],
+    "storyEn": [
+      "Sleep, temperature, meals, pulse. Every day one more form appears, and none of them has a box for refusing.",
+      "She pulls him away from the other departments, makes him her exclusive charge, and the archive room door starts locking from the inside.",
+      "\"This is part of the job.\" \"Please let me record it.\" The wording stays clerical; only the demands go up.",
+      "Day 30: there is just one item on today's list."
+    ],
+    "appeal": [
+      "事務口調のまま追い詰めてくる美人秘書が、30日かけて少しずつ距離を詰めてくる過程を日付入りのセリフで楽しめます",
+      "スーツ・ブラウス・タイトスカート・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "秘書室、彼女の部屋、夜のオフィス、出張先のホテルなどシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch a beautiful secretary who corners you in perfectly clerical language close the distance over 30 days, told through dated dialogue pages",
+      "Outfits galore: business suit, blouse, tight skirt, swimsuit, maid outfit, Santa costume",
+      "500 pages across the secretary's office, her room, the office at night, a business trip hotel and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "hisyo",
+    "setup": "役員フロアに書類を届けるだけだったはずの{{pat}}。秘書の{{docFull}}から「今日からあなたの体調管理も業務です」と告げられる。",
+    "setupEn": "{{pat}} only ever went up to the executive floor to drop off documents. Then {{docFull}}, the secretary, informs him: \"From today, managing your condition is part of my job.\""
+  },
+  "fanza_500_ooya": {
+    "age": "28歳",
+    "job": "アパートの大家",
+    "jobEn": "Apartment landlady",
+    "titleEn": "Rent Includes Relief: My Landlady",
+    "coverEn": "Rent Includes <Relief>/{blue}My Landlady",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "管理人室でえろえろ",
+      "部屋": "お部屋でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "夜の共用廊下でH",
+      "ホテルのプール更衣室": "温泉でH",
+      "メイド服のオフィス": "夜の管理人室でメイド服H",
+      "オフィスカジュアル": "入居者の部屋で部屋着H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "In the caretaker's room",
+      "部屋": "Her room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "The walkway at night",
+      "ホテルのプール更衣室": "Hot spring",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Loungewear in a tenant's room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "規約の第八条。説明は一度きりで、断る方法は書かれていない。",
+      "点検の予告、シーツの回収、ゴミの量。部屋ごとの「管理の記録」が付けられていく。",
+      "「先月より溜まってますよね。顔でわかります」――月末の集金は、だんだん長くなる。",
+      "30日目。「今月分、まだもらってません」"
+    ],
+    "storyEn": [
+      "Article 8 of the lease. She explains it exactly once, and there is no clause about refusing.",
+      "Inspection notices, collected sheets, the amount of trash. A \"management record\" starts filling up for each room.",
+      "\"You've built up more than last month. I can tell from your face.\" The end-of-month collection takes longer every time.",
+      "Day 30: \"I still haven't received this month's.\""
+    ],
+    "appeal": [
+      "管理費の名目で踏み込んでくる大家さんが、30日かけて少しずつ距離を詰めてくる過程を日付入りのセリフで楽しめます",
+      "エプロン・カーディガン・作業着・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "管理人室、入居者の部屋、夜の共用廊下、温泉などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch a landlady who moves in on you under the name of a maintenance fee close the distance over 30 days, told through dated dialogue pages",
+      "Outfits galore: apron, cardigan, work clothes, swimsuit, maid outfit, Santa costume",
+      "500 pages across the caretaker's room, a tenant's room, the outdoor walkway at night, a hot spring and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "ooya",
+    "setup": "古いアパートに越してきた{{pat}}。大家の{{docFull}}が言うには、家賃の管理費には入居者の「溜まってる分」の管理も含まれているらしい。",
+    "setupEn": "{{pat}} moves into an old apartment building. According to the landlady, {{docFull}}, the maintenance fee in the rent also covers managing what her tenants have \"built up.\""
+  },
+  "fanza_500_kaseifu": {
+    "age": "28歳",
+    "job": "通いの人妻家政婦",
+    "jobEn": "Married visiting housekeeper",
+    "titleEn": "My Busty Married Housekeeper's Full Service",
+    "coverEn": "My Busty Married/{blue}Housekeeper's <Full Service>",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "キッチンでえろえろ",
+      "部屋": "寝室でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "夜のリビングでH",
+      "ホテルのプール更衣室": "銭湯でH",
+      "メイド服のオフィス": "夜の部屋でメイド服H",
+      "オフィスカジュアル": "リビングで部屋着H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "In the kitchen",
+      "部屋": "The bedroom",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "The living room at night",
+      "ホテルのプール更衣室": "The bathhouse",
+      "メイド服のオフィス": "Maid outfit at night",
+      "オフィスカジュアル": "Loungewear in the living room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "最初は掃除と洗濯と作り置きだけだった{{doc}}さん。",
+      "「これもサービスのうちですから」と言いながら、冷蔵庫の中も、寝室も、洗濯物の中身まで把握していく。",
+      "指輪はつけたまま、距離だけが近くなる。帰っても誰もいない家がある人の、遠慮のない世話焼き。",
+      "30日目、留守のはずの部屋で、ふたりの関係が変わる。"
+    ],
+    "storyEn": [
+      "At first {{doc}} only cleans, does the laundry and leaves meals in the fridge.",
+      "\"This is part of the service too.\" Saying that, she learns his fridge, his bedroom, even what is in his laundry basket.",
+      "The ring stays on her finger; only the distance keeps shrinking. Nobody is waiting at her own home, and she looks after him without holding back.",
+      "On Day 30, in an apartment that should have been empty, everything changes."
+    ],
+    "appeal": [
+      "指輪をしたまま世話を焼きすぎてくる人妻の家政婦が、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+      "エプロン・作業シャツ・部屋着・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "キッチン、寝室、夜のリビング、銭湯などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch a married housekeeper who keeps her ring on and takes care of you far past what the contract says slowly get closer over 30 days, told through dated dialogue pages",
+      "Outfits galore: apron, work shirt, loungewear, swimsuit, maid outfit, Santa costume",
+      "500 pages across the kitchen, the bedroom, the living room at night, a bathhouse and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "kaseifu",
+    "setup": "一人暮らしが回らなくなって家事代行を頼んだ社会人の{{pat}}。週に何度か合鍵で入ってくるのは、左手に指輪をしたままの28歳の人妻家政婦{{docFull}}さんだった。夫は単身赴任でほとんど家におらず、{{doc}}さんの世話焼きは行き場をなくしてこちらに向いてくる。",
+    "setupEn": "{{pat}}, a young office worker whose apartment has gotten away from him, hires a housekeeping service. The one who lets herself in with the spare key is {{docFull}}, 28, a married housekeeper who never takes the ring off her left hand. Her husband is posted far away and almost never home, so all the looking after she has nowhere to put lands on {{pat}} instead."
+  },
+  "fanza_500_shisho": {
+    "age": "28歳",
+    "job": "市立図書館の司書",
+    "jobEn": "City library librarian",
+    "titleEn": "The Secret Library Club",
+    "coverEn": "The <Secret>/{blue}Library Club",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "閉架書庫でえろえろ",
+      "部屋": "司書室でH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "閉館後の館内でH",
+      "ホテルのプール更衣室": "職員シャワー室でH",
+      "メイド服のオフィス": "夜の司書室でメイド服H",
+      "オフィスカジュアル": "司書室で私服H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "In the closed stacks",
+      "部屋": "The librarian's office",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "The library after closing",
+      "ホテルのプール更衣室": "The staff shower room",
+      "メイド服のオフィス": "Maid outfit in the office at night",
+      "オフィスカジュアル": "Casual clothes in the office",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "最初は「返却期限は二週間です」と事務的に話すだけだった{{doc}}さん。",
+      "通うたびに、頼んでいない本が取り置きされ、閉架書庫まで連れて行かれるようになる。",
+      "「ここ、声を出すと響きますから」――誰も来ない書庫で、距離が縮まっていく。",
+      "30日目、閉館後の司書室で、ふたりの関係が変わる。"
+    ],
+    "storyEn": [
+      "At first, {{doc}} only tells him the loan period is two weeks.",
+      "Visit by visit, books he never asked for are held for him, and she starts taking him into the closed stacks.",
+      "\"Sound carries in here, so keep your voice down.\" In stacks nobody else enters, the distance shrinks.",
+      "On Day 30, in the librarian's office after closing, everything changes."
+    ],
+    "appeal": [
+      "声をひそめたまま距離を詰めてくる大人の司書が、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+      "司書のベスト・ブラウス・カーディガン・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "閉架書庫、司書室、閉館後の館内、職員シャワー室などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch a grown-up librarian who closes the distance without ever raising her voice slowly get closer over 30 days, told through dated dialogue pages",
+      "Outfits galore: librarian vest, blouse, cardigan, swimsuit, maid outfit, Santa costume",
+      "500 pages across the closed stacks, the librarian's office, the library after closing, the staff shower room and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "shisho",
+    "setup": "残業帰りに市立図書館へ通うようになった社会人の{{pat}}。カウンターの向こうにいるのは、いつも声をひそめて話す司書の{{docFull}}さんだった。",
+    "setupEn": "{{pat}}, an office worker, starts stopping by the city library on his way home from work. Behind the lending counter is {{docFull}}, a librarian who always speaks in a hushed voice."
+  },
+  "fanza_500_fudosan": {
+    "age": "28歳",
+    "job": "不動産屋の営業",
+    "jobEn": "Real estate agent",
+    "titleEn": "Sealed the Deal With My Busty Real Estate Agent",
+    "coverEn": "Sealed the <Deal>/{blue}With My Busty Agent",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "誰もいない空室でえろえろ",
+      "部屋": "モデルルームでH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "夜の営業所でH",
+      "ホテルのプール更衣室": "内見先のバスルームでH",
+      "メイド服のオフィス": "夜の営業所でメイド服H",
+      "オフィスカジュアル": "社用車で私服H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "In the empty room",
+      "部屋": "The model room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "The sales office at night",
+      "ホテルのプール更衣室": "The bathroom at a viewing",
+      "メイド服のオフィス": "Maid outfit at the office at night",
+      "オフィスカジュアル": "Casual clothes in the company car",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "最初は「こちらが人気の間取りです」と物件を見せるだけだった{{doc}}さん。",
+      "内見を重ねるたびに条件の話は長くなり、社用車の中や家具のない空室でふたりきりになる。",
+      "「この部屋、いま　わたしたちしかいませんよ」――鍵を閉めた空室で、距離が縮まっていく。",
+      "30日目、契約前の誰もいない部屋で、ふたりの関係が変わる。"
+    ],
+    "storyEn": [
+      "At first, {{doc}} only shows him floor plans and says which layout is popular.",
+      "Viewing after viewing, the talk about conditions runs longer, and they end up alone in the company car and in empty rooms with no furniture.",
+      "\"Right now it's only the two of us in this room.\" With the door locked, the distance shrinks.",
+      "On Day 30, in an empty room before the contract is signed, everything changes."
+    ],
+    "appeal": [
+      "成約が欲しい不動産屋の営業が、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+      "スーツ・ブラウス・部屋着・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "誰もいない空室、営業所、モデルルーム、内見先のバスルームなどシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch a sales agent who badly wants the contract signed slowly get closer over 30 days, told through dated dialogue pages",
+      "Outfits galore: business suit, blouse, loungewear, swimsuit, maid outfit, Santa costume",
+      "500 pages across an empty room, the sales office, the model room, the bathroom at a viewing and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "fudosan",
+    "setup": "転勤で部屋を探すことになった社会人の{{pat}}。内見を案内してくれたのは、落ち着いた大人の営業担当{{docFull}}さんだった。",
+    "setupEn": "{{pat}}, an office worker relocating for work, goes looking for a new place. The one who shows him around is {{docFull}}, a calm and grown-up sales agent."
+  },
+  "fanza_500_konbini": {
+    "age": "28歳",
+    "job": "深夜のコンビニ店員",
+    "jobEn": "Night shift convenience store clerk",
+    "titleEn": "The Night Shift Clerk's Other Job",
+    "coverEn": "The Night Shift/{blue}Clerk's <Other Job>",
+    "sections": {
+      "非エロ": "日常パート",
+      "クリニック": "レジ前でえろえろ",
+      "部屋": "バックヤードでH",
+      "自宅マイクロビキニ": "マイクロビキニでH",
+      "夜のオフィス": "深夜の売場でH",
+      "ホテルのプール更衣室": "銭湯でH",
+      "メイド服のオフィス": "深夜のバックヤードでメイド服H",
+      "オフィスカジュアル": "休憩室で私服H",
+      "サンタコスのオフィス": "おまけ（サンタコス）"
+    },
+    "sectionsEn": {
+      "非エロ": "Everyday days (with dialogue)",
+      "クリニック": "At the register",
+      "部屋": "The back room",
+      "自宅マイクロビキニ": "Micro bikini at home",
+      "夜のオフィス": "The sales floor at night",
+      "ホテルのプール更衣室": "The public bath",
+      "メイド服のオフィス": "Maid outfit in the back room",
+      "オフィスカジュアル": "Casual clothes in the break room",
+      "サンタコスのオフィス": "Bonus: Santa costume"
+    },
+    "story": [
+      "最初は「いつもの、あたためますか」と聞いてくるだけだった{{doc}}さん。",
+      "毎晩おなじ時間に通ううち、廃棄の夜食を分けてくれ、レジ前の雑談が長くなる。",
+      "「この時間、お客さんあなただけなんですよ」――誰も来ない店内で、距離が縮まっていく。",
+      "30日目、閉まらない店のバックヤードで、ふたりの関係が変わる。"
+    ],
+    "storyEn": [
+      "At first, {{doc}} only asks whether he wants the usual heated up.",
+      "Night after night at the same hour, she shares the food pulled off the shelf and the talks at the register run longer.",
+      "\"At this hour you're the only customer, you know.\" In an empty store, the distance shrinks.",
+      "On Day 30, in the back room of a store that never closes, everything changes."
+    ],
+    "appeal": [
+      "深夜2時だけ無防備になる夜勤の店員さんが、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+      "店のユニフォーム・エプロン・パーカー・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+      "レジ前、バックヤード、深夜の売場、銭湯などシチュエーションを変えながら500ページの大ボリューム",
+      "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+    ],
+    "appealEn": [
+      "Watch a night shift clerk who only lets her guard down at 2am slowly get closer over 30 days, told through dated dialogue pages",
+      "Outfits galore: store uniform, work apron, hoodie, swimsuit, maid outfit, Santa costume",
+      "500 pages across the register, the back room, the sales floor at night, a public bath and more",
+      "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+    ],
+    "variant": "konbini",
+    "setup": "夜勤明けの帰り道、毎晩おなじコンビニに寄る社会人の{{pat}}。午前2時の店内でひとりレジに立っているのは、いつも眠そうな夜勤の店長代理{{docFull}}さんだった。",
+    "setupEn": "{{pat}}, an office worker coming off the night shift, stops at the same convenience store every night. The one standing alone at the register at 2am is {{docFull}}, the sleepy-eyed night manager on duty."
+  }
+}

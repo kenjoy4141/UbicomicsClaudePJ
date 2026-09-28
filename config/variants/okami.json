@@ -1,0 +1,204 @@
+{
+  "_note": "旅館の女将。tools/make-variant-config.mjs から生成。置き換え表は共通、値だけ作品ごと。",
+  "sourceTab": "fanza_500",
+  "tab": "fanza_500_okami",
+  "title": "出張先の旅館で女将さんに夜這いされた話",
+  "cover": "出張先の旅館で/{blue}女将さんに<夜這い>された話",
+  "titleEn": "The Inn Hostess Came to My Room That Night",
+  "coverEn": "The Inn Hostess Came/{blue}To My <Room> That Night",
+  "age": "28歳",
+  "job": "旅館の女将",
+  "jobEn": "Inn proprietress",
+  "face": "(black hair:1.3), long hair, traditional updo with kanzashi, side-swept bangs, glossy hair, tareme, (dark brown eyes:1.1), refined face, soft lighting,",
+  "coverOutfit": "inn proprietress, elegant kimono, obi belt, kanzashi hairpin,",
+  "words": {
+    "place": "旅館",
+    "placeShort": "客間",
+    "uniform": "着物",
+    "item": "お茶",
+    "task": "お世話",
+    "visitor": "お客様",
+    "deskItem": "宿帳",
+    "breakFood": "お茶菓子",
+    "placeEn": "inn",
+    "placeShortEn": "guest room",
+    "uniformEn": "kimono",
+    "itemEn": "tea",
+    "taskEn": "service",
+    "visitorEn": "guest",
+    "deskItemEn": "guest book",
+    "breakFoodEn": "tea sweets"
+  },
+  "sceneRename": {
+    "診察": "お出迎え",
+    "聴診器": "お茶出し",
+    "座って書いてる": "宿帳つけ"
+  },
+  "setup": "出張で毎月同じ町に通うことになった社会人の{{pat}}。決まって泊まる古い旅館で迎えてくれるのは、物腰の柔らかい女将の{{docFull}}さんだった。",
+  "setupEn": "{{pat}}, an office worker, starts visiting the same town every month for work. At the old inn he always stays at, he is welcomed by {{docFull}}, its gentle hostess.",
+  "story": [
+    "最初は「いつもありがとうございます」と頭を下げるだけだった{{doc}}さん。",
+    "泊まるたびにお茶の時間が長くなり、夜にお酒を持ってきてくれるように。",
+    "「次はいつ来られますか」――帳場での挨拶が、少しずつ変わっていく。",
+    "30日目、他に客のいない旅館で、ふたりの関係が変わる。"
+  ],
+  "storyEn": [
+    "At first, {{doc}} only bows and thanks him for coming again.",
+    "Stay by stay, the tea takes longer, and she starts bringing sake to his room at night.",
+    "\"When will you be back next?\" The greetings at the front desk slowly change.",
+    "On Day 30, with no other guests in the inn, everything changes."
+  ],
+  "appeal": [
+    "物腰の柔らかい旅館の女将が、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+    "着物・浴衣・襦袢・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+    "客間、女将の部屋、夜の帳場、露天風呂などシチュエーションを変えながら500ページの大ボリューム",
+    "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+  ],
+  "appealEn": [
+    "Watch the gentle hostess of an old inn slowly get closer over 30 days, told through dated dialogue pages",
+    "Outfits galore: kimono, yukata, juban, swimsuit, maid outfit, Santa costume",
+    "500 pages across the guest room, her room, the front desk at night, an open air bath and more",
+    "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+  ],
+  "sections": {
+    "非エロ": "日常パート",
+    "クリニック": "客間でえろえろ",
+    "部屋": "お部屋でH",
+    "自宅マイクロビキニ": "マイクロビキニでH",
+    "夜のオフィス": "夜の帳場で着物H",
+    "ホテルのプール更衣室": "露天風呂でH",
+    "メイド服のオフィス": "夜の客間でメイド服H",
+    "オフィスカジュアル": "客間で浴衣H",
+    "サンタコスのオフィス": "おまけ（サンタコス）"
+  },
+  "sectionsEn": {
+    "非エロ": "Everyday days (with dialogue)",
+    "クリニック": "In the guest room",
+    "部屋": "Her room",
+    "自宅マイクロビキニ": "Micro bikini at home",
+    "夜のオフィス": "Kimono at the front desk",
+    "ホテルのプール更衣室": "Open air bath",
+    "メイド服のオフィス": "Maid outfit at night",
+    "オフィスカジュアル": "Yukata in the guest room",
+    "サンタコスのオフィス": "Bonus: Santa costume"
+  },
+  "replace": [
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,partially undressed,",
+      "inn proprietress, elegant kimono, obi belt, kanzashi hairpin, cleavage,partially undressed,"
+    ],
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,",
+      "inn proprietress, elegant kimono, obi belt, kanzashi hairpin, cleavage,"
+    ],
+    [
+      "white turtleneck sweater,lab coat, open lab coat, black miniskirt, stethoscope, cleavage,",
+      "kimono with haori jacket, obi belt, kanzashi hairpin, cleavage,"
+    ],
+    [
+      "pink camisole, black miniskirt, stethoscope, cleavage,",
+      "white juban undergarment, loose collar, cleavage,"
+    ],
+    [
+      "office lady, glasses, fitted blazer, pencil skirt, mature and intelligent atmosphere,partially undressed,",
+      "dark kimono, obi belt,partially undressed,"
+    ],
+    [
+      "office lady, black fitted blazer, black pencil skirt,partially undressed,",
+      "dark kimono, obi belt,partially undressed,"
+    ],
+    [
+      "competition swimsuit,",
+      "white bath towel, towel wrap, wet hair,"
+    ],
+    [
+      "office blouse, fitted pencil skirt, pearl earrings,",
+      "light yukata, thin obi, bare shoulders,"
+    ],
+    [
+      "private clinic examination room, unoccupied bed near windows, sheer white curtains swaying, eye chart, health notices, metal lockers, white enamel sink, potted plant, tissue box,",
+      "japanese inn guest room, tatami floor, low wooden table, paper sliding doors, hanging scroll, flower arrangement, tea set, warm lantern light,"
+    ],
+    [
+      "private clinic, medical examination,",
+      "japanese inn, welcoming a guest,"
+    ],
+    [
+      "office,(night:1.5),",
+      "inn front desk,(night:1.5),paper lanterns,"
+    ],
+    [
+      "office,night,",
+      "inn front desk,night,wooden counter,"
+    ],
+    [
+      "hotel pool side,",
+      "hot spring inn, open air bath, steam, wooden bath,"
+    ],
+    [
+      "office meeting room,indoor,",
+      "japanese guest room,indoor,tatami,"
+    ],
+    [
+      "erotic checkup,",
+      "erotic hospitality,"
+    ],
+    [
+      "checking temperature, hand on forehead, leaning forward, concerned expression, caring, private clinic, nurse desk,",
+      "pouring tea, kneeling on tatami, leaning forward, gentle expression, caring, guest room,"
+    ],
+    [
+      "stethoscope, medical examination, listening to heartbeat, professional expression, private clinic, close up,",
+      "serving tea with both hands, kneeling on tatami, serene expression, guest room, close up,"
+    ],
+    [
+      "writing medical records, sitting at desk, pen in hand, focused expression, paperwork, private clinic, side view,",
+      "writing in a guest book, sitting at a low desk, brush in hand, focused expression, inn front desk, side view,"
+    ],
+    [
+      "wearing an elegant office blouse and pencil skirt",
+      "wearing a light yukata"
+    ],
+    [
+      "open lab coat,",
+      "open haori,"
+    ],
+    [
+      "caring for patient",
+      "caring for guest"
+    ],
+    [
+      "private clinic",
+      "japanese inn"
+    ]
+  ],
+  "account": "D",
+  "introOutfits": {
+    "neat": "inn proprietress, elegant kimono, obi belt, kanzashi hairpin,",
+    "loose": "inn proprietress, kimono with collar slightly loosened, obi belt,",
+    "off": "kimono with haori removed, obi belt, relaxed collar,",
+    "inner": "white juban undergarment, loose collar, bare shoulders,",
+    "underwear": "white bra, panties, lace, bare shoulders,"
+  },
+  "introPlaces": {
+    "outer": "japanese inn front desk, wooden counter, hanging scroll, lantern light, indoor,",
+    "inner": "japanese inn guest room, tatami floor, low wooden table, paper sliding doors, tea set, warm lantern light,",
+    "room": "small tatami room at night, futon folded in the corner, paper lantern, warm dim light, indoor,"
+  },
+  "introStoryboard": "config/intro-storyboard-okami.json",
+  "coverExprFrom": "イキ顔",
+  "coverBg": "dark",
+  "coverHeroH": 1.22,
+  "coverHeroX": 0.66,
+  "titleRuby": "しゅっちょうさきのりょかんでおかみさんによばいされたはなし",
+  "fanzaKeywords": [
+    "人妻・主婦",
+    "熟女",
+    "巨乳",
+    "中出し",
+    "おっぱい",
+    "フェラ",
+    "イチャラブ",
+    "オリジナル"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "pixiv-booth-auto",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "login": "node src/login.js",
+    "queue": "node src/build-queue.js",
+    "pixiv": "node src/pixiv-draft.js",
+    "probe": "node src/probe-upload.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "_note": "秘書。tools/make-variant-config.mjs から生成。置き換え表は共通、値だけ作品ごと。",
+  "sourceTab": "fanza_500",
+  "tab": "fanza_500_hisyo",
+  "title": "秘書の搾精業務",
+  "cover": "秘書の/{blue}<搾精業務>",
+  "titleEn": "My Secretary's Milking Duties",
+  "coverEn": "My Secretary's/{blue}<Milking Duties>",
+  "age": "28歳",
+  "job": "秘書",
+  "jobEn": "Executive secretary",
+  "face": "(black hair:1.3), long hair, low ponytail, hair tucked behind ear, straight bangs, glossy hair, tsurime, (dark brown eyes:1.1), intelligent face, thin rimmed glasses, soft lighting,",
+  "coverOutfit": "executive secretary, fitted blazer, white blouse, pencil skirt, ID card lanyard,",
+  "words": {
+    "place": "役員フロア",
+    "placeShort": "秘書室",
+    "uniform": "ジャケット",
+    "item": "コーヒー",
+    "task": "差し入れの書類",
+    "visitor": "来客",
+    "deskItem": "スケジュール帳",
+    "breakFood": "買いすぎた夜食",
+    "placeEn": "the executive floor",
+    "placeShortEn": "the secretary's office",
+    "uniformEn": "blazer",
+    "itemEn": "coffee",
+    "taskEn": "documents",
+    "visitorEn": "visitor",
+    "deskItemEn": "schedule book",
+    "breakFoodEn": "late night snacks"
+  },
+  "sceneRename": {
+    "診察": "書類お届け",
+    "聴診器": "コーヒー",
+    "座って書いてる": "スケジュール帳"
+  },
+  "setup": "役員フロアに書類を届けるだけだったはずの{{pat}}。秘書の{{docFull}}から「今日からあなたの体調管理も業務です」と告げられる。",
+  "setupEn": "{{pat}} only ever went up to the executive floor to drop off documents. Then {{docFull}}, the secretary, informs him: \"From today, managing your condition is part of my job.\"",
+  "story": [
+    "睡眠、体温、食事、脈拍。断る欄のない書類が、毎日一枚ずつ増えていく。",
+    "他部署から引き離され、専属になり、資料室の扉には内側から鍵がかかるようになる。",
+    "「これも業務ですので」「記録を取らせてください」――事務的な言い方のまま、要求だけが上がっていく。",
+    "30日目。本日の項目は、ひとつだけ。"
+  ],
+  "storyEn": [
+    "Sleep, temperature, meals, pulse. Every day one more form appears, and none of them has a box for refusing.",
+    "She pulls him away from the other departments, makes him her exclusive charge, and the archive room door starts locking from the inside.",
+    "\"This is part of the job.\" \"Please let me record it.\" The wording stays clerical; only the demands go up.",
+    "Day 30: there is just one item on today's list."
+  ],
+  "appeal": [
+    "事務口調のまま追い詰めてくる美人秘書が、30日かけて少しずつ距離を詰めてくる過程を日付入りのセリフで楽しめます",
+    "スーツ・ブラウス・タイトスカート・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+    "秘書室、彼女の部屋、夜のオフィス、出張先のホテルなどシチュエーションを変えながら500ページの大ボリューム",
+    "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+  ],
+  "appealEn": [
+    "Watch a beautiful secretary who corners you in perfectly clerical language close the distance over 30 days, told through dated dialogue pages",
+    "Outfits galore: business suit, blouse, tight skirt, swimsuit, maid outfit, Santa costume",
+    "500 pages across the secretary's office, her room, the office at night, a business trip hotel and more",
+    "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+  ],
+  "sections": {
+    "非エロ": "日常パート",
+    "クリニック": "秘書室でえろえろ",
+    "部屋": "お部屋でH",
+    "自宅マイクロビキニ": "マイクロビキニでH",
+    "夜のオフィス": "夜のオフィスでH",
+    "ホテルのプール更衣室": "出張先の温泉でH",
+    "メイド服のオフィス": "夜のオフィスでメイド服H",
+    "オフィスカジュアル": "会議室でオフィスカジュアルH",
+    "サンタコスのオフィス": "おまけ（サンタコス）"
+  },
+  "sectionsEn": {
+    "非エロ": "Everyday days (with dialogue)",
+    "クリニック": "In the secretary's office",
+    "部屋": "Her room",
+    "自宅マイクロビキニ": "Micro bikini at home",
+    "夜のオフィス": "The office at night",
+    "ホテルのプール更衣室": "Hot spring on a business trip",
+    "メイド服のオフィス": "Maid outfit at night",
+    "オフィスカジュアル": "Office casual in the meeting room",
+    "サンタコスのオフィス": "Bonus: Santa costume"
+  },
+  "replace": [
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,partially undressed,",
+      "executive secretary, fitted blazer, white blouse, pencil skirt, ID card lanyard, cleavage,partially undressed,"
+    ],
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,",
+      "executive secretary, fitted blazer, white blouse, pencil skirt, ID card lanyard, cleavage,"
+    ],
+    [
+      "white turtleneck sweater,lab coat, open lab coat, black miniskirt, stethoscope, cleavage,",
+      "white blouse, open fitted blazer, pencil skirt, thin rimmed glasses, cleavage,"
+    ],
+    [
+      "pink camisole, black miniskirt, stethoscope, cleavage,",
+      "thin camisole, pencil skirt, cleavage,"
+    ],
+    [
+      "office lady, glasses, fitted blazer, pencil skirt, mature and intelligent atmosphere,partially undressed,",
+      "black fitted blazer, black pencil skirt, sheer black stockings,partially undressed,"
+    ],
+    [
+      "office lady, black fitted blazer, black pencil skirt,partially undressed,",
+      "black fitted blazer, black pencil skirt, sheer black stockings,partially undressed,"
+    ],
+    [
+      "competition swimsuit,",
+      "black one-piece swimsuit, wet hair,"
+    ],
+    [
+      "office blouse, fitted pencil skirt, pearl earrings,",
+      "office blouse, tight long skirt, pearl earrings,"
+    ],
+    [
+      "private clinic examination room, unoccupied bed near windows, sheer white curtains swaying, eye chart, health notices, metal lockers, white enamel sink, potted plant, tissue box,",
+      "executive floor secretary office, large wooden desk, laptop, document trays, tall window blinds, glass partition, coffee cup, wall clock, potted plant,"
+    ],
+    [
+      "private clinic, medical examination,",
+      "executive floor, receiving documents,"
+    ],
+    [
+      "office,(night:1.5),",
+      "office,(night:1.5),desk lamp,"
+    ],
+    [
+      "office,night,",
+      "office,night,city lights through blinds,"
+    ],
+    [
+      "hotel pool side,",
+      "hot spring inn, open air bath, steam, wooden bath,"
+    ],
+    [
+      "office meeting room,indoor,",
+      "office meeting room,indoor,long table,"
+    ],
+    [
+      "erotic checkup,",
+      "erotic secretary,"
+    ],
+    [
+      "checking temperature, hand on forehead, leaning forward, concerned expression, caring, private clinic, nurse desk,",
+      "handing over a coffee cup, leaning forward, gentle expression, caring, executive floor desk,"
+    ],
+    [
+      "stethoscope, medical examination, listening to heartbeat, professional expression, private clinic, close up,",
+      "holding a document folder with both hands, offering it, composed expression, executive floor, close up,"
+    ],
+    [
+      "writing medical records, sitting at desk, pen in hand, focused expression, paperwork, private clinic, side view,",
+      "writing in a schedule book, sitting at a desk, pen in hand, focused expression, secretary office, side view,"
+    ],
+    [
+      "wearing an elegant office blouse and pencil skirt",
+      "wearing an office blouse and a tight skirt"
+    ],
+    [
+      "open lab coat,",
+      "open blazer,"
+    ],
+    [
+      "caring for patient",
+      "caring for coworker"
+    ],
+    [
+      "private clinic",
+      "office"
+    ]
+  ],
+  "account": "C",
+  "introStoryboard": "config/intro-storyboard-hisyo.json",
+  "introOutfits": {
+    "neat": "secretary, white blouse, fitted navy blazer, pencil skirt,",
+    "loose": "secretary, white blouse, no blazer, pencil skirt, sleeves pushed up,",
+    "off": "white blouse with collar loosened, pencil skirt, bare shoulders,",
+    "inner": "thin camisole, pencil skirt, bare shoulders,",
+    "underwear": "black bra, panties, lace, bare shoulders,"
+  },
+  "introPlaces": {
+    "outer": "office corridor on the executive floor, glass partitions, indoor,",
+    "inner": "office at night, desks, glowing monitors, city lights through the windows, indoor,",
+    "room": "document storage room, tall shelves, stepladder, dim light, indoor,"
+  },
+  "coverExprFrom": "イキ顔",
+  "coverBg": "dark",
+  "coverHeroH": 1.22,
+  "coverHeroX": 0.66,
+  "titleRuby": "ひしょのさくせいぎょうむ",
+  "fanzaKeywords": [
+    "巨乳",
+    "おっぱい",
+    "中出し",
+    "フェラ",
+    "パイズリ",
+    "オフィス・職場",
+    "逆レイプ",
+    "オリジナル"
+  ]
+}

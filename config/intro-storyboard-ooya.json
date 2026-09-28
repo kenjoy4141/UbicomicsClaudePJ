@@ -1,0 +1,844 @@
+{
+  "_note": "024 性欲管理費込み アパートの大家さん。家賃の「管理費」に入居者の溜まってる分の管理まで含まれている、という前提で、月末の集金と設備点検のたびに踏み込まれていく導入。1日=1ビート、1ビート2枚で30日=60枚。",
+  "imagesPerBeat": 4,
+  "beats": [
+    {
+      "day": 1,
+      "scene": "鍵の引き渡し",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), polite smile,",
+      "pose": "standing at the apartment entrance, holding a key ring with both hands, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "はじめまして。　大家の　{{doc}}です"
+        ],
+        [
+          "pat",
+          "{{pat}}です。　よろしく　お願いします"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "お家賃、　管理費　込みですので"
+        ],
+        [
+          "pat",
+          "はい。　共用部の　ぶんですよね"
+        ]
+      ]
+    },
+    {
+      "day": 2,
+      "scene": "管理費の説明",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), calm smile,",
+      "pose": "standing in the walkway doorway, holding a rent breakdown paper, pointing at one line with a fingertip,",
+      "lines": [
+        [
+          "doc",
+          "その管理費、　共用部だけ　じゃないんです"
+        ],
+        [
+          "pat",
+          "……ほかに、　なにが"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "入居者さんの　溜まってる分も、　うちが管理します"
+        ],
+        [
+          "pat",
+          "えっと、　いま　なんて"
+        ]
+      ]
+    },
+    {
+      "day": 3,
+      "scene": "規約の第八条",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), polite smile,",
+      "pose": "holding up a tenancy agreement sheet with both hands, tilting her head slightly, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "規約の　第八条、　読みました？"
+        ],
+        [
+          "pat",
+          "……ほんとに　書いてある"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "みなさん　最初は　そういう顔します"
+        ],
+        [
+          "pat",
+          "みなさん、　なんですね"
+        ]
+      ]
+    },
+    {
+      "day": 4,
+      "scene": "管理の帳簿",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), focused expression,",
+      "pose": "sitting at a low wooden desk, writing in a ledger with a pen, looking up at viewer,",
+      "lines": [
+        [
+          "doc",
+          "お部屋ごとに　記録を　つけてまして"
+        ],
+        [
+          "pat",
+          "なんの　記録ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "{{pat}}さんのページ、　今日から　始まります"
+        ],
+        [
+          "pat",
+          "……見せないで　ください"
+        ]
+      ]
+    },
+    {
+      "day": 5,
+      "scene": "点検の予告",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), polite smile,",
+      "pose": "standing by the mailboxes holding a clipboard, showing an inspection schedule to viewer,",
+      "lines": [
+        [
+          "doc",
+          "来週、　設備の点検に　伺いますね"
+        ],
+        [
+          "pat",
+          "設備って、　どこの"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "お部屋の　ぜんぶです。　規約なので"
+        ],
+        [
+          "pat",
+          "……ぜんぶ"
+        ]
+      ]
+    },
+    {
+      "day": 6,
+      "scene": "空き部屋の下見",
+      "place": "room",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), soft smile,",
+      "pose": "standing in an empty tatami room, opening a closet door, looking back at viewer,",
+      "lines": [
+        [
+          "doc",
+          "隣、　空き部屋なんです。　見ます？"
+        ],
+        [
+          "pat",
+          "なんで　いま"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "うちが　鍵を持ってる部屋、　覚えてほしくて"
+        ],
+        [
+          "pat",
+          "……覚えました"
+        ]
+      ]
+    },
+    {
+      "day": 7,
+      "scene": "ゴミ出しの日",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), knowing smile,",
+      "pose": "standing at the garbage collection corner holding a trash bag, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "燃えるゴミは　火曜と　金曜です"
+        ],
+        [
+          "pat",
+          "はい、　気をつけます"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "量で　だいたい　わかるんですよ、　生活"
+        ],
+        [
+          "pat",
+          "見ないで　ください"
+        ]
+      ]
+    },
+    {
+      "day": 8,
+      "scene": "お茶に呼ばれる",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), soft smile,",
+      "pose": "sitting at the low table pouring tea, {{breakFoodEn}} on a small plate, gentle smile,",
+      "lines": [
+        [
+          "doc",
+          "{{breakFood}}、　どうぞ。　もらい物ですけど"
+        ],
+        [
+          "pat",
+          "……おじゃまします"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "お話を　聞くのも　管理のうちなので"
+        ],
+        [
+          "pat",
+          "そういう　ことに　なってるんですね"
+        ]
+      ]
+    },
+    {
+      "day": 9,
+      "scene": "帰りを待たれてる",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), calm smile,",
+      "pose": "leaning on the walkway railing at dusk, arms lightly folded, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "{{pat}}さん、　おかえりなさい"
+        ],
+        [
+          "pat",
+          "……待ってたんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "帰りが　遅いと、　溜まりますから"
+        ],
+        [
+          "pat",
+          "なにが　ですか"
+        ]
+      ]
+    },
+    {
+      "day": 10,
+      "scene": "最初の月末集金",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), polite smile,",
+      "pose": "standing in the doorway receiving an envelope with both hands, slight bow,",
+      "lines": [
+        [
+          "doc",
+          "今月分、　確かに　お預かりしました"
+        ],
+        [
+          "pat",
+          "よろしく　お願いします"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "それで、　今月は　ちゃんと　管理できてます？"
+        ],
+        [
+          "pat",
+          "……その質問、　毎月　ですか"
+        ]
+      ]
+    },
+    {
+      "day": 11,
+      "scene": "記録の読み上げ",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), calm smile,",
+      "pose": "sitting at the low table holding an open ledger up, sleeves rolled up, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "先月の記録、　読み上げますね"
+        ],
+        [
+          "pat",
+          "読まなくて　いいです"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "だめです。　管理費、　もらってますので"
+        ],
+        [
+          "pat",
+          "……どうぞ"
+        ]
+      ]
+    },
+    {
+      "day": 12,
+      "scene": "廊下の電球",
+      "place": "outer",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), focused expression,",
+      "pose": "standing on a small step stool on the walkway, reaching up to a bare bulb, sleeves rolled up,",
+      "lines": [
+        [
+          "doc",
+          "廊下の電球、　替えておきました"
+        ],
+        [
+          "pat",
+          "そこまで　してもらって"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "暗いと　部屋に　こもるでしょう"
+        ],
+        [
+          "pat",
+          "関係　ありますか"
+        ]
+      ]
+    },
+    {
+      "day": 13,
+      "scene": "空き部屋の設備説明",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), soft smile,",
+      "pose": "standing in the empty room pointing at a wall outlet, apron loosened, looking back at viewer,",
+      "lines": [
+        [
+          "doc",
+          "この部屋の　設備、　説明しますね"
+        ],
+        [
+          "pat",
+          "空き部屋　なのに？"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "使う日が　来るかも　しれませんし"
+        ],
+        [
+          "pat",
+          "……来ます？"
+        ]
+      ]
+    },
+    {
+      "day": 14,
+      "scene": "夜のお茶",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), gentle look,",
+      "pose": "sitting close at the low table refilling a teacup, warm lamp light, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "もう　一杯　いかがですか"
+        ],
+        [
+          "pat",
+          "じゃあ　いただきます"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "今日は　帰さない予定なので、　ゆっくり"
+        ],
+        [
+          "pat",
+          "予定に　入ってるんですね"
+        ]
+      ]
+    },
+    {
+      "day": 15,
+      "scene": "二か月目の集金",
+      "place": "outer",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), calm smile,",
+      "pose": "standing at the doorway holding an envelope in one hand, leaning in slightly, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "二か月目の　管理費、　お預かりします"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "先月より　溜まってますよね。　顔で　わかります"
+        ],
+        [
+          "pat",
+          "わからないで　ください"
+        ]
+      ]
+    },
+    {
+      "day": 16,
+      "scene": "洗濯物の話",
+      "place": "outer",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), soft smile,",
+      "pose": "standing on the walkway with folded sheets in her arms, sleeves rolled up, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "シーツ、　乾いてましたよ"
+        ],
+        [
+          "pat",
+          "勝手に　取り込んだんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "管理です。　洗う頻度も　見てます"
+        ],
+        [
+          "pat",
+          "見ないで　ください"
+        ]
+      ]
+    },
+    {
+      "day": 17,
+      "scene": "体調の確認",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), gentle look,",
+      "pose": "sitting at the low table leaning forward, one hand reaching toward viewer, apron loosened,",
+      "lines": [
+        [
+          "doc",
+          "体調、　崩してませんか"
+        ],
+        [
+          "pat",
+          "平気です"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "ため込むと　出ますからね、　顔に"
+        ],
+        [
+          "pat",
+          "……なんの　話ですか"
+        ]
+      ]
+    },
+    {
+      "day": 18,
+      "scene": "誰にも聞こえない部屋",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), calm smile,",
+      "pose": "sitting on the tatami of the empty room, hands on her knees, looking straight at viewer,",
+      "lines": [
+        [
+          "doc",
+          "ここ、　誰にも　聞こえないんです"
+        ],
+        [
+          "pat",
+          "なんで　その説明を"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "管理の話は、　人に　聞かれたくないので"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 19,
+      "scene": "夜の見回り",
+      "place": "outer",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), gentle look,",
+      "pose": "walking the dim walkway at night with a flashlight, cardigan loose, looking back at viewer,",
+      "lines": [
+        [
+          "doc",
+          "夜は　一周　見回るんです"
+        ],
+        [
+          "pat",
+          "ひとりで　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "{{pat}}さんの部屋の前が、　いちばん　長いです"
+        ],
+        [
+          "pat",
+          "言わないで　ください"
+        ]
+      ]
+    },
+    {
+      "day": 20,
+      "scene": "管理費の値上げ",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), soft smile,",
+      "pose": "sitting at the low table sliding a revised rent sheet across it, looking up at viewer,",
+      "lines": [
+        [
+          "doc",
+          "来月から、　管理費　上げようかと"
+        ],
+        [
+          "pat",
+          "値上げ、　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "手間が　増えそうなので。　{{pat}}さんの分"
+        ],
+        [
+          "pat",
+          "うち　だけ　ですか"
+        ]
+      ]
+    },
+    {
+      "day": 21,
+      "scene": "エプロンを外す",
+      "place": "inner",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), calm smile, blush,",
+      "pose": "untying her apron strings behind her back, bare shoulders, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "事務の仕事は、　ここまでです"
+        ],
+        [
+          "pat",
+          "……外すんですね"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "ここから先が、　管理費の　ぶんなので"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 22,
+      "scene": "空き部屋で点検",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), serious look, blush,",
+      "pose": "kneeling on the tatami of the empty room, clipboard set down beside her, bare shoulders, leaning toward viewer,",
+      "lines": [
+        [
+          "doc",
+          "点検、　この部屋で　いいですか"
+        ],
+        [
+          "pat",
+          "なにを　点検するんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "{{pat}}さんの、　溜まってる分です"
+        ],
+        [
+          "pat",
+          "……っ"
+        ]
+      ]
+    },
+    {
+      "day": 23,
+      "scene": "暑い部屋",
+      "place": "inner",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), soft smile, blush,",
+      "pose": "sitting on the floor by an electric fan, collar loosened, bare shoulders, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "この部屋、　暑くないですか"
+        ],
+        [
+          "pat",
+          "……ちょっと"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "わたしも　一枚　減らしますね"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 24,
+      "scene": "合鍵を渡される",
+      "place": "inner",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), serious look, blush,",
+      "pose": "sitting on the floor holding out a spare key on her open palm, thin camisole, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "これ、　うちの部屋の　合鍵です"
+        ],
+        [
+          "pat",
+          "……いいんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "管理する側にも、　都合が　ありますので"
+        ],
+        [
+          "pat",
+          "……もらいます"
+        ]
+      ]
+    },
+    {
+      "day": 25,
+      "scene": "一枚少ない",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), shy expression, blush,",
+      "pose": "sitting on the tatami with a folded blouse beside her, thin camisole, looking down,",
+      "lines": [
+        [
+          "doc",
+          "……上、　一枚　少ないだけです"
+        ],
+        [
+          "pat",
+          "見ないように　します"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "見ないで、　とは　言ってません"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 26,
+      "scene": "帳簿を閉じる",
+      "place": "inner",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), soft smile, blush,",
+      "pose": "closing a ledger on the low table, sitting in a thin camisole, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "記録、　今日は　ここまで"
+        ],
+        [
+          "pat",
+          "お疲れさまです"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "ここから先は、　帳簿に　書けない分です"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 27,
+      "scene": "スカートを置く",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), shy expression, blush,",
+      "pose": "standing in the empty room, folded skirt placed on a cardboard box, arms slightly in front of her,",
+      "lines": [
+        [
+          "doc",
+          "……これも、　置きますね"
+        ],
+        [
+          "pat",
+          "……{{doc}}さん"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "点検の　手が　止まるので"
+        ],
+        [
+          "pat",
+          "……すみません"
+        ]
+      ]
+    },
+    {
+      "day": 28,
+      "scene": "目をそらさないで",
+      "place": "inner",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), serious look, blush,",
+      "pose": "sitting on the floor with hands on her knees, looking straight at viewer, warm lamp light,",
+      "lines": [
+        [
+          "doc",
+          "……目、　そらさなくて　いいですよ"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "これも　管理費に　入ってますから"
+        ],
+        [
+          "pat",
+          "……っ"
+        ]
+      ]
+    },
+    {
+      "day": 29,
+      "scene": "月末の前の夜",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), calm smile, blush,",
+      "pose": "kneeling close to viewer on the tatami, hands resting on the floor, leaning in slightly,",
+      "lines": [
+        [
+          "doc",
+          "明日、　月末なんです"
+        ],
+        [
+          "pat",
+          "集金の　日ですね"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "今月の管理、　まとめて　精算しましょう"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 30,
+      "scene": "最後の集金",
+      "place": "inner",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), soft smile, blush,",
+      "pose": "sitting sideways on the low desk, legs crossed, key ring hanging from one finger, leaning toward viewer,",
+      "lines": [
+        [
+          "doc",
+          "今月分、　まだ　もらってません"
+        ],
+        [
+          "pat",
+          "……いま、　出します"
+        ]
+      ],
+      "narration": "このあと　めちゃくちゃ　S〇Xした",
+      "lines2": [
+        [
+          "doc",
+          "お金の話じゃ　ないですよ"
+        ]
+      ]
+    }
+  ],
+  "_panels": "1ビート=4枚。2枚ずつ1ページにまとめて2コマのページを2枚つくる（導入だけコマ割り）"
+}

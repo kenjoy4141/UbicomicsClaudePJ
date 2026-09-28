@@ -1,0 +1,19 @@
+{
+  "_note": "2026-09-07 に実DOMから確定。pixiv側のUI変更で壊れたら npm の probe-upload.js / probe-reserve.js で採り直す。",
+  "fileInput": "input[name='files[]']",
+  "addImageButton": "button:has-text('画像を追加')",
+  "title": "input[name=title]",
+  "caption": "textarea[name=comment]",
+  "tagInput": "input[placeholder^='タグ']",
+  "ageRestrict": "input[name=x_restrict][value='{value}']",
+  "aiType": "input[name=ai_type][value='{value}']",
+  "restrict": "input[name=restrict][value='{value}']",
+  "original": "input[name=original]",
+  "reserveCheckbox": "input[name=reserve]",
+  "reserveLabel": "投稿日時を指定",
+  "dropdownTrigger": "div[tabindex='0']",
+  "dropdownOption": "div.charcoal-text-ellipsis[title='{value}']",
+  "submit": "button:has-text('投稿する')",
+  "limits": { "title": 32, "caption": 3000, "tags": 10 },
+  "timeStepMinutes": 30
+}

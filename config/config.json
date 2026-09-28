@@ -1,0 +1,131 @@
+{
+  "profileDir": "data/browser-profile",
+  "worksRoot": "C:/Stable-Diffusion-install/stable-diffusion-webui/outputs/txt2img-images",
+  "headless": false,
+  "slowMo": 120,
+  "autoSubmit": false,
+  "pixiv": {
+    "createUrl": "https://www.pixiv.net/illustration/create",
+    "ageLimit": "r18",
+    "imagesPerPost": 15,
+    "captionTemplate": "{{title}}\n\n続きはBOOTHで公開中です。\n{{boothUrl}}\n\n※本作品はAI生成イラストを含みます。",
+    "defaultTags": [
+      "AIイラスト",
+      "AI生成",
+      "R-18",
+      "巨乳"
+    ],
+    "aiFlag": true,
+    "captionTemplateNoBooth": "{{title}}\n\n※本作品はAI生成イラストを含みます。",
+    "restrict": "public",
+    "markOriginal": true,
+    "captionPool": [],
+    "_captionPoolNote": "ここに煽り文を複数書いておくと投稿ごとに巡回して使われる。{{title}} {{boothUrl}} が使える。作品ごとに変えたい場合は meta.json の captions[] に書く（そちらが優先）。",
+    "captionFromImage": true,
+    "maxReservations": 10,
+    "_maxReservationsNote": "pixivの予約投稿は同時に10件まで。超える分は公開されて枠が空いてから追加する。",
+    "titleVariants": [
+      "ふたりきりの時間",
+      "いつもと違う顔",
+      "距離が近すぎる",
+      "帰したくない夜",
+      "名前で呼んで",
+      "目が合うたびに",
+      "今夜だけは",
+      "ないしょの話",
+      "もう少しだけ",
+      "ずるい人",
+      "困った顔が見たくて",
+      "気づいてほしい",
+      "甘えたい日",
+      "見つめられると弱い",
+      "その手が離せない",
+      "声、我慢できない",
+      "ふたりの秘密",
+      "今日は帰さない",
+      "ちょっとだけ、いい？",
+      "バレたら終わり"
+    ],
+    "_titleVariantsNote": "pixivの投稿タイトル。連番（1/9など）を付けると最後まで追われて購買意欲が落ちるため、毎回言い回しを変える。32文字を超えるものは使われない。",
+    "_defaultTagsNote": "作品ごとの specific なタグは meta.json の tags に書く。旧作の「おねショタ」は方針変更で削除（2026-09-21）。",
+    "_titleNote": "pixivのタイトルに作品名は入れない（作品へ誘導している感じになるため。2026-09-25 ユーザー指定）",
+    "_imagesPerPostNote": "1投稿あたりの枚数。5枚だと滞在時間が短くて伸びないので15枚にした（2026-09-28 ユーザー判断）。pixivは1投稿200枚まで"
+  },
+  "schedule": {
+    "weekday": [
+      "12:00",
+      "19:00",
+      "22:00"
+    ],
+    "weekend": [
+      "10:00",
+      "13:00",
+      "16:00",
+      "19:00",
+      "22:00"
+    ],
+    "startTomorrow": true
+  },
+  "sheet": {
+    "id": "1INGCInKaiAaHWYmPYZ6DLN8vR2WZv5xdX23lkc2xUl8",
+    "gid": "2013594307",
+    "_note": "列は0始まり。C=2(ネガティブ), E=4(顔・髪型), Q=16(結合済みプロンプト), R=17(参考枚数)",
+    "negativeCol": 2,
+    "promptCol": 16,
+    "countCol": 17,
+    "firstRow": 4,
+    "placeCol": 13,
+    "tab": "pixiv_100_MB",
+    "_tabNote": "API経由で読むときのタブ名。未指定なら gid から自動解決する。"
+  },
+  "sd": {
+    "baseUrl": "http://127.0.0.1:7860",
+    "allowedLoras": [
+      "cnv3mdde878c738thn20"
+    ],
+    "_allowedLorasNote": "画風LoRAだけ許可する。キャラLoRAは既存キャラ（年齢設定を含む）を持ち込むので入れない。",
+    "steps": 32,
+    "sampler": "Euler a",
+    "scheduler": "Automatic",
+    "cfgScale": 5.5,
+    "width": 1024,
+    "height": 1536,
+    "adetailerModel": "face_yolov8n.pt",
+    "_note": "params.txt の実績値に合わせてある。ADetailer は既存作品に記録が無いため既定OFF（--adetailer で有効）",
+    "negativeExtra": "extra heads, multiple heads, duplicate, cloned face, extra arms, extra legs, extra body, siamese twins, disembodied head,",
+    "_negativeExtraNote": "首や体が複製される事故を抑えるための追記。シートのネガティブに継ぎ足される。--no-neg-extra で無効化。",
+    "stylePreset": "shiron",
+    "_stylePresetNote": "src/style-preset.js の画風プリセット。--style none で外せる。参考作風に寄せた肌の照り・寄りの構図・背景の落とし"
+  },
+  "booth": {
+    "manageUrl": "https://manage.booth.pm",
+    "price": 1000,
+    "category": [
+      "イラスト",
+      "イラスト集・CG集"
+    ],
+    "adult": true,
+    "proxyPurchase": "accepted",
+    "tags": [
+      "CG集",
+      "ai生成",
+      "エロ漫画",
+      "セリフ付き"
+    ],
+    "descriptionTemplate": "【作品紹介文】\n\n■作品構成\n〇本編 ・・・p1〜{{pages}}（{{pages}}ページ）\n\n■ストーリー\n{{story}}\n\n■仕様\n・全{{pages}}ページ / PDF形式\n・{{width}}x{{height}} 高解像度\n・AI生成イラストを使用しています\n",
+    "_note": "proxyPurchase は既存商品(accepted)に合わせた。story は meta の story か --story-file で差し込む。",
+    "_categoryNote": "BOOTHの実際の階層。トップに「同人」は無く、イラスト配下にイラスト集・CG集がある。",
+    "_priceNote": "500枚作品は1000円で統一（2026-09-21）。130枚時代は500円だった。"
+  },
+  "patreon": {
+    "tab": "patreon_100",
+    "allowedScenes": [
+      "apartment",
+      "onsen",
+      "office",
+      "hotel",
+      "poolside"
+    ],
+    "_note": "Patreonは未成年を想起させる場所も判断材料にするため、学校系(infirmary/classroom/library)は使わない。"
+  }
+}

@@ -1,0 +1,844 @@
+{
+  "_note": "搾精病棟のナース。夜勤帯の病棟で、28歳の看護師が『検査』『処置』『経過観察』と称して、夜間の設備管理スタッフの成人男性に少しずつ踏み込んでいく30日。ヒロインが主導権を握る側、相手役はたじろぐ側。導入は非性的。登場人物は全員成人。",
+  "imagesPerBeat": 4,
+  "beats": [
+    {
+      "day": 1,
+      "scene": "受け入れ",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), calm expression, professional smile,",
+      "pose": "standing in a dim ward corridor at night, holding a clipboard against her chest, looking straight at viewer,",
+      "lines": [
+        [
+          "doc",
+          "夜勤担当の　{{doc}}です"
+        ],
+        [
+          "pat",
+          "設備管理で　入りました"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "この階の　夜は、　わたしが　管理してます"
+        ],
+        [
+          "pat",
+          "……よろしく　お願いします"
+        ]
+      ]
+    },
+    {
+      "day": 2,
+      "scene": "同行の指示",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), flat expression,",
+      "pose": "walking ahead down a dim corridor at night, glancing back over her shoulder at viewer, small flashlight in hand,",
+      "lines": [
+        [
+          "doc",
+          "見回り、　ついてきてください"
+        ],
+        [
+          "pat",
+          "設備の点検が　あるんですが"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "それも　わたしの　記録に　入ります"
+        ],
+        [
+          "pat",
+          "……入るんですか"
+        ]
+      ]
+    },
+    {
+      "day": 3,
+      "scene": "問診票",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), businesslike look,",
+      "pose": "sitting at the night nurse station, sliding a form across the counter toward viewer, pen held out,",
+      "lines": [
+        [
+          "doc",
+          "これ、　書いてください"
+        ],
+        [
+          "pat",
+          "俺、　職員ですけど"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "夜勤者も　対象です。　規則なので"
+        ],
+        [
+          "pat",
+          "……そうなんですね"
+        ]
+      ]
+    },
+    {
+      "day": 4,
+      "scene": "検温",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), focused expression,",
+      "pose": "leaning over the night counter holding a thermometer toward viewer, other hand resting on the desk,",
+      "lines": [
+        [
+          "doc",
+          "はい、　{{item}}"
+        ],
+        [
+          "pat",
+          "毎晩　やるんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "毎晩です。　動かないで"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 5,
+      "scene": "血圧",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "pose": "wrapping a blood pressure cuff around the viewer's arm at the night counter, close up of her hands,",
+      "lines": [
+        [
+          "doc",
+          "腕、　出してください"
+        ],
+        [
+          "pat",
+          "こう　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "……上が　高いですね。　緊張してます？"
+        ],
+        [
+          "pat",
+          "し、　してません"
+        ]
+      ]
+    },
+    {
+      "day": 6,
+      "scene": "脈を測る",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), unreadable expression,",
+      "pose": "holding the viewer's wrist with two fingers in a dim corridor, checking her watch, standing close,",
+      "lines": [
+        [
+          "doc",
+          "手首、　借ります"
+        ],
+        [
+          "pat",
+          "急に　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "速い。　……記録　しておきます"
+        ],
+        [
+          "pat",
+          "残るんですか　それ"
+        ]
+      ]
+    },
+    {
+      "day": 7,
+      "scene": "一週間の記録",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), slight smile,",
+      "pose": "sitting at the night counter writing a nursing chart, pen in hand, side view, monitors glowing behind her,",
+      "lines": [
+        [
+          "doc",
+          "一週間分、　そろいました"
+        ],
+        [
+          "pat",
+          "何の　データですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "あなたの　夜の　数字です"
+        ],
+        [
+          "pat",
+          "……いる　んですか　それ"
+        ]
+      ]
+    },
+    {
+      "day": 8,
+      "scene": "呼び出し",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), flat expression,",
+      "pose": "standing under an emergency exit sign in the night corridor, holding a pager up, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "呼んだら、　来てくださいね"
+        ],
+        [
+          "pat",
+          "点検中でも　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "はい。　優先順位は　わたしが　決めます"
+        ],
+        [
+          "pat",
+          "……了解です"
+        ]
+      ]
+    },
+    {
+      "day": 9,
+      "scene": "採血",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), serious look,",
+      "pose": "holding a small vial up to the desk lamp at the night counter, cotton pad in her other hand,",
+      "lines": [
+        [
+          "doc",
+          "少しだけ、　いただきます"
+        ],
+        [
+          "pat",
+          "血液　検査　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "そう。　あなたの　基準値を　作ります"
+        ],
+        [
+          "pat",
+          "……俺の　基準値"
+        ]
+      ]
+    },
+    {
+      "day": 10,
+      "scene": "当直室へ",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "pose": "standing in the night duty room holding the door open, collar loosened, gesturing inside with her chin,",
+      "lines": [
+        [
+          "doc",
+          "今日から、　こっちで　やります"
+        ],
+        [
+          "pat",
+          "ステーションじゃ　ないんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "人が　通るので。　……入って"
+        ],
+        [
+          "pat",
+          "……失礼します"
+        ]
+      ]
+    },
+    {
+      "day": 11,
+      "scene": "安静の指示",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), businesslike look,",
+      "pose": "standing beside the small bed in the night duty room, one hand pointing at the mattress, sleeves pushed up,",
+      "lines": [
+        [
+          "doc",
+          "十五分、　横に　なってください"
+        ],
+        [
+          "pat",
+          "仕事　中なんですが"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "安静時の　値が　いるんです"
+        ],
+        [
+          "pat",
+          "……十五分　だけ"
+        ]
+      ]
+    },
+    {
+      "day": 12,
+      "scene": "心音",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), focused expression,",
+      "pose": "leaning down close to viewer in the night duty room, stethoscope in her ears, one hand on the bed frame,",
+      "lines": [
+        [
+          "doc",
+          "胸の音、　聞きますね"
+        ],
+        [
+          "pat",
+          "……近くないですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "この距離じゃないと　聞こえません"
+        ],
+        [
+          "pat",
+          "……すみません"
+        ]
+      ]
+    },
+    {
+      "day": 13,
+      "scene": "同意書",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), slight smile,",
+      "pose": "placing a document on the night counter and tapping the signature line with her pen, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "ここに、　署名　お願いします"
+        ],
+        [
+          "pat",
+          "何の　同意ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "経過観察の　継続です。　読まなくて　いいですよ"
+        ],
+        [
+          "pat",
+          "……読ませて　ください"
+        ]
+      ]
+    },
+    {
+      "day": 14,
+      "scene": "番号で呼ぶ",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), unreadable expression,",
+      "pose": "holding up a chart with a number written on it at the night counter, looking over the top of it at viewer,",
+      "lines": [
+        [
+          "doc",
+          "六番さん、　時間です"
+        ],
+        [
+          "pat",
+          "……名前、　ありますけど"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "記録上は　番号なので。　慣れてください"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 15,
+      "scene": "処置の準備",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "pose": "laying out gloves and a tray on the night duty room desk, standing with her back half turned to viewer,",
+      "lines": [
+        [
+          "doc",
+          "今夜から、　処置に　入ります"
+        ],
+        [
+          "pat",
+          "処置って、　何の"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "説明は　しません。　こわがるので"
+        ],
+        [
+          "pat",
+          "……いま　こわいです"
+        ]
+      ]
+    },
+    {
+      "day": 16,
+      "scene": "逃げ道の確認",
+      "place": "outer",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), flat expression,",
+      "pose": "standing by the corridor stairwell door at night, hand resting flat on it, looking back at viewer,",
+      "lines": [
+        [
+          "doc",
+          "この扉、　夜は　閉まりますよね"
+        ],
+        [
+          "pat",
+          "……ええ、　二十二時で"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "じゃあ　それ以降は、　この階だけ　ですね"
+        ],
+        [
+          "pat",
+          "……そう　なります"
+        ]
+      ]
+    },
+    {
+      "day": 17,
+      "scene": "引き継がない",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), slight smile,",
+      "pose": "closing a chart binder at the night counter, resting her elbow on it, chin lightly on her hand,",
+      "lines": [
+        [
+          "doc",
+          "あなたの分は、　引き継ぎません"
+        ],
+        [
+          "pat",
+          "他の方でも　いいのでは"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "だめです。　わたしの　担当なので"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 18,
+      "scene": "反応の記録",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), focused expression,",
+      "pose": "sitting on a stool beside the night duty room bed, writing on a chart, eyes fixed on viewer,",
+      "lines": [
+        [
+          "doc",
+          "いま、　目　そらしましたね"
+        ],
+        [
+          "pat",
+          "……そらしてません"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "書いておきます。　反応　あり、　と"
+        ],
+        [
+          "pat",
+          "やめて　ください"
+        ]
+      ]
+    },
+    {
+      "day": 19,
+      "scene": "待たされる",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "pose": "standing with her back to the night duty room door, arms folded, desk lamp lighting her from the side,",
+      "lines": [
+        [
+          "doc",
+          "そこで　待っててください"
+        ],
+        [
+          "pat",
+          "あとどれくらい　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "待てるように　なるのも　経過です"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 20,
+      "scene": "呼吸を合わせる",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), unreadable expression,",
+      "pose": "kneeling beside the bed in the night duty room, one hand raised counting a rhythm, leaning in close,",
+      "lines": [
+        [
+          "doc",
+          "吸って。　……止めて"
+        ],
+        [
+          "pat",
+          "……っ"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "はい、　吐いて。　上手ですね"
+        ],
+        [
+          "pat",
+          "……なんで　ほめるんですか"
+        ]
+      ]
+    },
+    {
+      "day": 21,
+      "scene": "白衣を脱ぐ",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "pose": "hanging her nurse uniform top on a hook in the night duty room, standing in a thin inner shirt, looking back at viewer,",
+      "lines": [
+        [
+          "doc",
+          "上、　脱ぎますね"
+        ],
+        [
+          "pat",
+          "な、　なんで　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "汚れると　困るので。　あなたの　都合じゃ　ないです"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 22,
+      "scene": "照明を落とす",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), flat expression,",
+      "pose": "sitting on the edge of the bed in a thin inner shirt, hand on the desk lamp switch, watching viewer,",
+      "lines": [
+        [
+          "doc",
+          "明るいと、　数値が　ぶれます"
+        ],
+        [
+          "pat",
+          "そんな　ものですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "そんなものです。　……消しますね"
+        ],
+        [
+          "pat",
+          "……どうぞ"
+        ]
+      ]
+    },
+    {
+      "day": 23,
+      "scene": "距離の指定",
+      "place": "inner",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), slight smile,",
+      "pose": "standing very close at the night nurse station in a thin inner shirt, pointing at the floor in front of her,",
+      "lines": [
+        [
+          "doc",
+          "そこ。　もう一歩　前です"
+        ],
+        [
+          "pat",
+          "……これ以上は"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "下がる人は、　記録が　とれません"
+        ],
+        [
+          "pat",
+          "……わかりました"
+        ]
+      ]
+    },
+    {
+      "day": 24,
+      "scene": "夜間の測定",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "pose": "sitting on the night duty room bed in a thin camisole, measuring tape in her hands, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "動かないで。　測ります"
+        ],
+        [
+          "pat",
+          "……{{doc}}さんの　ほうが"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "わたしの　服装は、　記録に　関係ないです"
+        ],
+        [
+          "pat",
+          "……すみません"
+        ]
+      ]
+    },
+    {
+      "day": 25,
+      "scene": "鍵をかける",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), unreadable expression,",
+      "pose": "turning the lock on the night duty room door from inside, hand still on it, glancing back at viewer,",
+      "lines": [
+        [
+          "doc",
+          "鍵、　かけました"
+        ],
+        [
+          "pat",
+          "……呼ばれたら　どうするんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "今夜は　出ません。　あなたの　時間です"
+        ],
+        [
+          "pat",
+          "……っ"
+        ]
+      ]
+    },
+    {
+      "day": 26,
+      "scene": "経過の説明",
+      "place": "inner",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), slight smile,",
+      "pose": "leaning against the night counter in a thin camisole, holding a thick chart open toward viewer,",
+      "lines": [
+        [
+          "doc",
+          "二十六日ぶん、　たまりました"
+        ],
+        [
+          "pat",
+          "……全部　俺のですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "全部　あなたです。　よく　慣れましたね"
+        ],
+        [
+          "pat",
+          "……慣れたく　なかったです"
+        ]
+      ]
+    },
+    {
+      "day": 27,
+      "scene": "断らせない",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), calm expression,",
+      "pose": "standing between the door and viewer in the night duty room, arms relaxed at her sides, head slightly tilted,",
+      "lines": [
+        [
+          "doc",
+          "帰らないで　ください"
+        ],
+        [
+          "pat",
+          "……命令　ですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "お願いです。　断られたこと、　ないですけど"
+        ],
+        [
+          "pat",
+          "……ずるいですよ"
+        ]
+      ]
+    },
+    {
+      "day": 28,
+      "scene": "着替えの途中",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), flat expression,",
+      "pose": "standing in the night duty room holding her folded uniform in front of her, looking back at viewer without hurry,",
+      "lines": [
+        [
+          "doc",
+          "……入ってきましたね"
+        ],
+        [
+          "pat",
+          "す、　すみません"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "呼んだのは　わたしです。　閉めて"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 29,
+      "scene": "隠さない",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), serious look,",
+      "pose": "sitting upright on the night duty room bed, hands resting flat on her knees, facing viewer,",
+      "lines": [
+        [
+          "doc",
+          "目、　そらさなくて　いいですよ"
+        ],
+        [
+          "pat",
+          "……いや、　でも"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "見た反応も、　記録に　入ります"
+        ],
+        [
+          "pat",
+          "……ずっと　それだ"
+        ]
+      ]
+    },
+    {
+      "day": 30,
+      "scene": "最終日の処置",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), soft smile,",
+      "pose": "sitting sideways on the night duty room bed, legs crossed, leaning toward viewer, closed chart beside her,",
+      "lines": [
+        [
+          "doc",
+          "今夜で、　経過観察は　終わりです"
+        ],
+        [
+          "pat",
+          "……終わり、　ですか"
+        ]
+      ],
+      "narration": "このあと　めちゃくちゃ　S〇Xした",
+      "lines2": [
+        [
+          "doc",
+          "ここから先は、　記録に　残しません"
+        ]
+      ]
+    }
+  ],
+  "_panels": "1ビート=4枚。2枚ずつ1ページにまとめて2コマのページを2枚つくる（導入だけコマ割り）"
+}

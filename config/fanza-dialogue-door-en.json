@@ -1,0 +1,832 @@
+{
+  "_note": "English lines for the doorway series (I'm Your Delivery). Non-sexual intro lines only.",
+  "scenes": {
+    "診察": {
+      "early": [
+        [
+          [
+            "doc",
+            "Delivery for you. Sign here, please."
+          ],
+          [
+            "pat",
+            "Oh, sure."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "{{pat}} again. That's three times this week."
+          ],
+          [
+            "pat",
+            "...I keep ordering things."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Here you go. You don't even need to sign anymore."
+          ],
+          [
+            "pat",
+            "Thanks."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Today is my last run on this route."
+          ],
+          [
+            "pat",
+            "Huh?"
+          ]
+        ]
+      ]
+    },
+    "前かがみで見つめる": {
+      "early": [
+        [
+          [
+            "doc",
+            "You look pale. Are you okay?"
+          ],
+          [
+            "pat",
+            "Y-you're too close..."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Are you sleeping? You're always up at noon."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "...You won't meet my eyes today?"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Don't look away."
+          ],
+          [
+            "pat",
+            "You first, {{doc}}."
+          ]
+        ]
+      ]
+    },
+    "正面": {
+      "early": [
+        [
+          [
+            "doc",
+            "Do you work from home?"
+          ],
+          [
+            "pat",
+            "You can tell?"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Not many people are in at this hour."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Are you eating properly? Your boxes are all snacks."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Can I call you by your first name?"
+          ],
+          [
+            "pat",
+            "...Go ahead."
+          ]
+        ]
+      ]
+    },
+    "正面（ささやきポーズ）": {
+      "early": [
+        [
+          [
+            "doc",
+            "Between us... this box is way too heavy."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Keep it secret. My shift ended already."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "I don't say this at other houses, but..."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "I'll bring the next one at this time too."
+          ],
+          [
+            "pat",
+            "...Please."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Hey... can we talk for a bit after this?"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Are you free on your next day off?"
+          ],
+          [
+            "pat",
+            "I'll make time."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Can I come even when there's no delivery?"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "...Did you hear that?"
+          ],
+          [
+            "pat",
+            "Every word."
+          ]
+        ]
+      ]
+    },
+    "正面エロ": {
+      "early": [
+        [
+          [
+            "doc",
+            "I'm all sweaty... don't look."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "It's hard to get a signature when you stare."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Today I might be the nervous one."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "I don't mind you looking, {{pat}}."
+          ]
+        ]
+      ]
+    },
+    "振り返り構図": {
+      "early": [
+        [
+          [
+            "doc",
+            "I'll go get my cart."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "...What? Why are you staring?"
+          ],
+          [
+            "pat",
+            "N-nothing."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "I should head back... right?"
+          ],
+          [
+            "pat",
+            "...Stay a bit longer."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "You were staring. I know."
+          ]
+        ]
+      ]
+    },
+    "聴診器": {
+      "early": [
+        [
+          [
+            "doc",
+            "Here's your {{itemEn}}. It's heavy, be careful."
+          ],
+          [
+            "pat",
+            "Thank you."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "There are handles on this side."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "I already know what you order, {{pat}}."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "I'll carry it inside for you today."
+          ]
+        ]
+      ]
+    },
+    "座って書いてる": {
+      "early": [
+        [
+          [
+            "doc",
+            "Your signature here, please."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Are you always home for deliveries?"
+          ],
+          [
+            "pat",
+            "...Mostly."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "There's more and more I can't write on the slip."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "I always save your address for last."
+          ],
+          [
+            "pat",
+            "Wait, really?"
+          ]
+        ]
+      ]
+    },
+    "見下ろし": {
+      "early": [
+        [
+          [
+            "doc",
+            "Come on, where's your stamp?"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Slow customers are a handful."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Don't look at me like that."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "I'm not leaving like this today."
+          ]
+        ]
+      ]
+    },
+    "上着脱ぐ": {
+      "early": [
+        [
+          [
+            "doc",
+            "It's so hot... I'll take off the {{uniformEn}} for a second."
+          ],
+          [
+            "pat",
+            "...!"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Sorry, right here at your door."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Without the {{uniformEn}}, I'm just a woman."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "No more deliveries today."
+          ]
+        ]
+      ]
+    },
+    "下着になる": {
+      "early": [
+        [
+          [
+            "doc",
+            "Hey! I'm changing!"
+          ],
+          [
+            "pat",
+            "S-sorry!"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Could you close the door?"
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "...You don't have to look away."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "You're the only one I'd show this to."
+          ]
+        ]
+      ]
+    },
+    "下着になる　サイド": {
+      "early": [
+        [
+          [
+            "doc",
+            "At least knock first."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "...Pretend you didn't see that."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "I told you, no knocking today."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "It's embarrassing, but I don't hate it."
+          ]
+        ]
+      ]
+    },
+    "座って見上げる": {
+      "early": [
+        [
+          [
+            "doc",
+            "When should I bring the next one?"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Be home to receive it, okay? Promise."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "I might come even without a package."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Hey... what do you think of me?"
+          ]
+        ]
+      ]
+    },
+    "寝転ぶ　半脱げ": {
+      "early": [
+        [
+          [
+            "doc",
+            "Quick break... 200 parcels today."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "You caught me being sloppy."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Mind if I sit next to you?"
+          ],
+          [
+            "pat",
+            "...Go ahead."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "I let my guard down at your place."
+          ]
+        ]
+      ]
+    },
+    "寝転ぶ": {
+      "early": [
+        [
+          [
+            "doc",
+            "Mind if I close my eyes for a moment?"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Stairs, stairs, stairs since morning..."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Will you stay until I wake up?"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Your voice calms me down, {{pat}}."
+          ]
+        ]
+      ]
+    },
+    "窓の外見てる": {
+      "early": [
+        [
+          [
+            "doc",
+            "I love the sky at this hour."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Do you ever go outside?"
+          ],
+          [
+            "pat",
+            "Do you ever rest?"
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Want to meet when I'm not in uniform?"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "When you stop ordering, I can't come anymore."
+          ],
+          [
+            "pat",
+            "I'll order every day."
+          ]
+        ]
+      ]
+    },
+    "前かがみ": {
+      "early": [
+        [
+          [
+            "doc",
+            "I'll set this box down here."
+          ],
+          [
+            "pat",
+            "Let me help."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "It's heavy, don't lift it."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Maybe today I'm the one being carried."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Too close? I'm doing it on purpose."
+          ]
+        ]
+      ]
+    },
+    "脱ぎながら脇": {
+      "early": [
+        [
+          [
+            "doc",
+            "Hey, I'm still changing!"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "...Forget what you just saw."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "I told you to wait."
+          ],
+          [
+            "pat",
+            "I couldn't."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Geez. You're hopeless."
+          ]
+        ]
+      ]
+    },
+    "膝枕": {
+      "early": [
+        [
+          [
+            "doc",
+            "You look pale. Lie down for a bit."
+          ],
+          [
+            "pat",
+            "S-sorry..."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Here, rest your head."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Does this help you relax?"
+          ],
+          [
+            "pat",
+            "...A lot."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Just for today. Special delivery."
+          ]
+        ]
+      ]
+    },
+    "お弁当食べてる": {
+      "early": [
+        [
+          [
+            "doc",
+            "Haven't had lunch? Here, {{breakFoodEn}}."
+          ],
+          [
+            "pat",
+            "Are you sure?"
+          ]
+        ],
+        [
+          [
+            "doc",
+            "I picked it up between stops."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "I bought some for you too, {{pat}}."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Want me to bring some every day?"
+          ]
+        ]
+      ]
+    },
+    "主人公下着": {
+      "early": [
+        [
+          [
+            "doc",
+            "You came to the door like that?"
+          ],
+          [
+            "pat",
+            "I was asleep..."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Oh, you're more toned than I thought."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "...My heart's beating faster than before."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "Today it's my turn to be shy."
+          ]
+        ]
+      ]
+    },
+    "伸び": {
+      "early": [
+        [
+          [
+            "doc",
+            "Mmm... that's the morning route done."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "My shoulders... delivery is hard work."
+          ]
+        ]
+      ],
+      "late": [
+        [
+          [
+            "doc",
+            "Finally, just the two of us."
+          ]
+        ],
+        [
+          [
+            "doc",
+            "One last delivery."
+          ],
+          [
+            "pat",
+            "I didn't order anything."
+          ]
+        ]
+      ]
+    }
+  },
+  "fallback": {
+    "early": [
+      [
+        [
+          "doc",
+          "Delivery for you."
+        ]
+      ]
+    ],
+    "late": [
+      [
+        [
+          "doc",
+          "I'm glad to see you."
+        ]
+      ]
+    ]
+  },
+  "finale": [
+    [
+      "doc",
+      "...Today, I'm the delivery."
+    ],
+    [
+      "pat",
+      "I'll take it."
+    ]
+  ],
+  "afterword": {
+    "text": "And then, we had SO much sex."
+  }
+}

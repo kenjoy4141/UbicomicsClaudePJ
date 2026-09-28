@@ -1,0 +1,170 @@
+{
+  "_note": "Patreon用の英語素材。登場人物は全員成人として書く。学校・生徒・年齢の低さを想起させる語は使わない。",
+  "readings": {
+    "高橋": "Takahashi",
+    "藤崎": "Fujisaki",
+    "白瀬": "Shirase",
+    "月島": "Tsukishima",
+    "七瀬": "Nanase",
+    "早乙女": "Saotome",
+    "神楽坂": "Kagurazaka",
+    "水無瀬": "Minase",
+    "小鳥遊": "Takanashi",
+    "綾瀬": "Ayase",
+    "橘": "Tachibana",
+    "篠原": "Shinohara",
+    "如月": "Kisaragi",
+    "雪村": "Yukimura",
+    "天音": "Amane",
+    "柊": "Hiiragi",
+    "御影": "Mikage",
+    "涼宮": "Suzumiya",
+    "桐生": "Kiryu",
+    "一之瀬": "Ichinose",
+    "莉奈": "Rina",
+    "美咲": "Misaki",
+    "愛梨": "Airi",
+    "詩織": "Shiori",
+    "結衣": "Yui",
+    "沙耶": "Saya",
+    "真央": "Mao",
+    "楓": "Kaede",
+    "杏": "An",
+    "彩音": "Ayane",
+    "千夏": "Chinatsu",
+    "澪": "Mio",
+    "咲良": "Sakura",
+    "ひなた": "Hinata",
+    "紗英": "Sae",
+    "琴音": "Kotone",
+    "成美": "Narumi",
+    "唯": "Yui",
+    "陽菜": "Hina",
+    "涼香": "Suzuka",
+    "優太": "Yuta",
+    "颯太": "Sota",
+    "悠斗": "Yuto",
+    "陽向": "Hinata",
+    "湊": "Minato",
+    "蓮": "Ren",
+    "航平": "Kohei",
+    "拓真": "Takuma",
+    "圭": "Kei",
+    "遥人": "Haruto"
+  },
+  "scenes": {
+    "apartment": {
+      "titles": [
+        "The Woman Next Door",
+        "Her Room, Just the Two of Us",
+        "My Neighbor Won't Let Me Leave"
+      ],
+      "catch": "She's always played the cool older neighbor. Not tonight.",
+      "body": "{{hero}}, 24, has lived next door to {{heroine}} for years. She lends him her spare key, cooks too much food on purpose, and still teases him like he's just the guy from next door, even though he has a job and a lease of his own.\n\nBut tonight the air in her apartment feels different. She sits a little too close. Their eyes keep meeting. She asks \"You're not going home yet, are you?\" three times in an hour.\n\nThe cool, older-woman composure she's worn for years is starting to slip, and in a room this small there's nowhere left for either of them to hide."
+    },
+    "onsen": {
+      "titles": [
+        "One Night at the Hot Spring Inn",
+        "One Room, One Futon",
+        "The Company Trip"
+      ],
+      "catch": "One room. One futon. And a coworker who's suddenly very quiet.",
+      "body": "The company retreat booked the rooms wrong, and {{hero}}, 26, ends up sharing a traditional inn room with {{heroine}}, the senior colleague everyone at the office is a little afraid of.\n\n\"It's fine. We're both adults,\" she says, adjusting her yukata with perfect composure.\n\nThat composure lasts until she steps out of the hot spring, flushed and warm, and sees the single futon laid out on the tatami. Lantern light through the paper screens, the distant sound of water, and a very long night ahead."
+    },
+    "office": {
+      "titles": [
+        "Overtime with My Senior",
+        "After Hours",
+        "The Last Two on the Floor"
+      ],
+      "catch": "Funny how she only stays late on the nights I do.",
+      "body": "Half the lights on the floor are off. {{heroine}}, {{hero}}'s senior on the team, somehow always has overtime on exactly the same nights he does.\n\n\"I'll help. I'm bored anyway,\" she says, rolling her chair right next to his. The report doesn't get any closer to finished.\n\nConvenience-store coffee, the city lights through the window, and an empty office. When the conversation finally runs out of work topics, {{given}} says quietly, \"I kind of like this time of night.\""
+    },
+    "hotel": {
+      "titles": [
+        "Missed the Last Train",
+        "Just One Room Left",
+        "Stay Until Morning"
+      ],
+      "catch": "\"Oh no, I think we missed the last train.\" We hadn't.",
+      "body": "After the team dinner, {{heroine}} checks her watch and says, \"Oh no, I think we missed the last train.\" There were still twenty minutes left.\n\nThe only room available has a view of the city and one very large bed. When {{hero}}, 27, offers to sleep on the couch, she goes quiet for a moment before answering, \"It gets cold over there, you know.\"\n\nShe's always the composed one. Tonight her voice sounds different, and the city lights won't go out for hours."
+    },
+    "poolside": {
+      "titles": [
+        "Summer at the Poolside",
+        "Sunscreen, Please",
+        "An Empty Pool in August"
+      ],
+      "catch": "\"Could you do my back?\" She's definitely teasing me.",
+      "body": "A weekday in August, an almost empty resort pool. The moment {{heroine}} invited him, {{hero}}, 25, probably already lost.\n\n\"Just my back, please,\" she says from under the parasol, holding out the sunscreen and laughing when he freezes. She's teasing him. Completely.\n\nBut when the sunlight bounces off the water and both their faces turn red, he isn't the only one looking away."
+    }
+  },
+  "profile": {
+    "labels": {
+      "height": "Height",
+      "weight": "Weight",
+      "bwh": "Measurements",
+      "birthday": "Birthday",
+      "blood": "Blood type",
+      "hobby": "Hobbies",
+      "food": "Favorite food",
+      "type": "Her type"
+    },
+    "hobbies": [
+      "Movies",
+      "Baking",
+      "Evening walks",
+      "Cat cafes",
+      "Reading",
+      "Yoga",
+      "Hot springs",
+      "Houseplants",
+      "Karaoke",
+      "Photography",
+      "Cafe hopping",
+      "Long baths",
+      "Embroidery",
+      "Sleeping in"
+    ],
+    "foods": [
+      "Pudding",
+      "Strawberry mochi",
+      "Sweet cafe au lait",
+      "Fried chicken",
+      "Mint chocolate",
+      "Takoyaki",
+      "Matcha latte",
+      "Mandarin oranges",
+      "Hamburg steak",
+      "Milk tea",
+      "Roasted sweet potato"
+    ],
+    "types": [
+      "Someone with a nice laugh",
+      "Someone who looks her in the eye",
+      "Someone reliable when it counts",
+      "Someone comfortable with silence",
+      "Someone who says her name properly",
+      "Someone who keeps his promises",
+      "Someone who listens to the end"
+    ],
+    "personalities": [
+      "Bright and cheerful. Friendly with everyone.",
+      "Laid-back and caring. Can't say no when someone needs her.",
+      "Looks put-together, but gets lonely easily.",
+      "Cool at first glance, but her eyes crinkle when she smiles.",
+      "A natural caretaker who can't leave anyone alone.",
+      "Calm and a great listener, until she starts talking."
+    ],
+    "hooks": [
+      "Kind to everyone, but somehow lost for words around you.",
+      "Her tone changes a little when it's just the two of you.",
+      "Always finds a reason to keep you from leaving.",
+      "\"It's a secret\" is her catchphrase. She never keeps them.",
+      "The tips of her ears turn red when you say her name.",
+      "Her sense of personal space only breaks down around you.",
+      "Asks \"Leaving already?\" at least three times.",
+      "Somehow ends up sitting next to you without being asked."
+    ]
+  }
+}

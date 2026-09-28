@@ -1,0 +1,39 @@
+{
+  "_note": "fanza_500 を元に、場所・シチュ・服装・キャラを差し替えた派生タブを作る。長く具体的なものから先に置き換える。",
+  "sourceTab": "fanza_500",
+  "tab": "fanza_500_esthe",
+  "face": "(black hair:1.3), (bob cut:1.2), short hair, glossy hair, side-swept bangs, hair tucked behind ear, tsurime, (amber eyes:1.1), long eyelashes, soft lighting,",
+  "coverOutfit": "esthetician, fitted white tunic, short sleeves, black pencil skirt, name tag,",
+  "coverTitleHint": "エステティシャン",
+  "sceneRename": {
+    "診察": "施術",
+    "聴診器": "オイル",
+    "座って書いてる": "カルテ記入"
+  },
+  "replace": [
+    ["lab coat, pink camisole, black miniskirt, stethoscope, cleavage,partially undressed,", "esthetician, fitted white tunic, black miniskirt, cleavage,partially undressed,"],
+    ["lab coat, pink camisole, black miniskirt, stethoscope, cleavage,", "esthetician, fitted white tunic, black miniskirt, cleavage,"],
+    ["white turtleneck sweater,lab coat, open lab coat, black miniskirt, stethoscope, cleavage,", "black turtleneck sweater, esthetician apron, black miniskirt, cleavage,"],
+    ["pink camisole, black miniskirt, stethoscope, cleavage,", "pink camisole, black miniskirt, cleavage,"],
+    ["office lady, glasses, fitted blazer, pencil skirt, mature and intelligent atmosphere,partially undressed,", "esthetician, fitted black tunic, pencil skirt, mature and intelligent atmosphere,partially undressed,"],
+    ["office lady, black fitted blazer, black pencil skirt,partially undressed,", "esthetician, black fitted tunic, black pencil skirt,partially undressed,"],
+    ["competition swimsuit,", "white bath towel, towel wrap,"],
+
+    ["private clinic examination room, unoccupied bed near windows, sheer white curtains swaying, eye chart, health notices, metal lockers, white enamel sink, potted plant, tissue box,",
+     "esthetic salon treatment room, massage bed with white towels, aroma diffuser, warm indirect lighting, folded towels, potted orchid, wooden shelves with oil bottles,"],
+    ["private clinic, medical examination,", "esthetic salon, body treatment,"],
+    ["office,(night:1.5),", "private massage room,(night:1.5),candles,"],
+    ["office,night,", "esthetic salon reception,night,closed shop,"],
+    ["hotel pool side,", "hotel spa, private sauna room, wooden walls, steam,"],
+    ["office meeting room,indoor,", "luxury spa suite,indoor,"],
+
+    ["erotic checkup,", "erotic massage, oil massage,"],
+    ["checking temperature, hand on forehead, leaning forward, concerned expression, caring, private clinic, nurse desk,", "oil massage, hands on shoulders, leaning forward, gentle expression, caring, massage bed,"],
+    ["stethoscope, medical examination, listening to heartbeat, professional expression, private clinic, close up,", "massage oil bottle, pouring oil on hands, professional expression, esthetic salon, close up,"],
+    ["writing medical records, sitting at desk, pen in hand, focused expression, paperwork, private clinic, side view,", "writing customer chart, sitting at reception desk, pen in hand, focused expression, esthetic salon, side view,"],
+    ["wearing an elegant office blouse and pencil skirt", "wearing a fitted esthetician tunic"],
+    ["open lab coat,", "open tunic,"],
+    ["caring for patient", "caring for customer"],
+    ["private clinic", "esthetic salon"]
+  ]
+}

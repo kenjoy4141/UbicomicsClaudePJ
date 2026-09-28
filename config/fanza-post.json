@@ -1,0 +1,31 @@
+{
+  "_note": "FANZA作品登録フォームの既定値。src/fanza-draft.js が読む。登録ボタンは押さない。価格は100円単位",
+  "priceRetail": 800,
+  "aiGeneratedType": "2",
+  "articleType": "cg",
+  "keywordAge": "156023",
+  "section": "1",
+  "revisionFlg": "1",
+  "campaign": true,
+  "coupon": true,
+  "campaignAutoJoinDays": "0",
+  "releaseDateType": "1",
+  "monopolyHope": "0",
+  "drmHope": "none",
+  "sampleCount": 10,
+  "defaultKeywords": [
+    "巨乳",
+    "おっぱい",
+    "中出し",
+    "フェラ",
+    "パイズリ",
+    "騎乗位",
+    "イチャラブ",
+    "オリジナル"
+  ],
+  "preReleaseDiscount": {
+    "enabled": true,
+    "days": "14",
+    "rate": "80"
+  }
+}

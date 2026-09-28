@@ -1,0 +1,68 @@
+{
+  "_note": "FANZAは1アカウントあたり月3作品までなので、複数アカウントで回す。アカウントごとに画風（モデル）を変えて、同じ作り手だと分かりにくくする。作品フォルダ名には slug が入る。",
+  "A": {
+    "email": "ubi.comics@gmail.com",
+    "slug": "A",
+    "label": "ubi.comics",
+    "model": "rinAnim8drawIllustriousXL_v20",
+    "styleTags": "",
+    "negativeExtra": "",
+    "_note": "既存作品（016〜）と同じ画風。柔らかい塗り",
+    "circle": "ubi-comics"
+  },
+  "B": {
+    "email": "yoitech.japan@gmail.com",
+    "slug": "B",
+    "label": "yoitech.japan",
+    "model": "waiNSFWIllustrious_v90",
+    "styleTags": "(glossy skin:1.1), soft shading, vivid colors,",
+    "negativeExtra": "flat color, sketch,",
+    "_note": "コントラスト強め・発色が濃い",
+    "circle": "KENJI NAKAMURA"
+  },
+  "C": {
+    "email": "yoitech.toshi@gmail.com",
+    "slug": "C",
+    "label": "yoitech.toshi",
+    "model": "hassakuXLIllustrious_v33",
+    "styleTags": "(clean lineart:1.1), crisp shading,",
+    "negativeExtra": "blurry lineart,",
+    "_note": "線がはっきりして陰影は中間。AとBの中間の濃さ",
+    "circle": "TOSHI"
+  },
+  "D": {
+    "email": "ubi.comics.bot@gmail.com",
+    "slug": "D",
+    "label": "ubi.comics.bot",
+    "model": "novaFlatXL_v90",
+    "styleTags": "",
+    "negativeExtra": "",
+    "_note": "フラット塗り・線太い。参考にした同人表紙の作風（2026-09-28 から stylePreset: flat）",
+    "stylePreset": "flat",
+    "circle": "ビタミンX"
+  },
+  "E": {
+    "email": "kyuri.ai0703@aol.com",
+    "slug": "E",
+    "label": "kyuri.ai",
+    "model": "novaAnimeAM_v40",
+    "styleTags": "",
+    "negativeExtra": "",
+    "stylePreset": "flat",
+    "_note": "フラット寄りだが少し陰影が残るモデル。Dより柔らかい（novaAnimeAM_v40 は灰色画像になるため保留。動くモデルが入るまで iconModel で代用）",
+    "circle": "ひかりちゃん",
+    "iconModel": "novaFlatXL_v90"
+  },
+  "F": {
+    "email": "syscon4141@aol.com",
+    "slug": "F",
+    "label": "syscon",
+    "model": "ponyDiffusionV6XL_v6StartWithThisOne",
+    "styleTags": "",
+    "negativeExtra": "",
+    "stylePreset": "flat",
+    "_note": "Pony系。シートのプロンプトが score_9 形式なので相性がよい（ponyDiffusionV6XL は線が崩れるため保留。Illustrious系の追加待ち）",
+    "circle": "カイザーと5億人の悪魔",
+    "iconModel": "hassakuXLIllustrious_v33"
+  }
+}

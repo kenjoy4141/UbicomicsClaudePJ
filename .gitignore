@@ -1,0 +1,20 @@
+node_modules/
+data/browser-profile*/
+data/queue.json
+logs/
+
+config/google-service-account.json
+
+config/x-credentials.json
+config/discord-webhook.json
+data/cookies-*.json
+data/run-batch.lock
+
+# ログイン状態・鍵は絶対に入れない（アカウント乗っ取りに直結する）
+data/browser-profile*
+data/cookies-*.json
+config/google-service-account.json
+config/x-credentials.json
+config/discord-webhook.json
+data/daily-check.lock
+data/run-batch.lock

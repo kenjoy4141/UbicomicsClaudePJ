@@ -1,0 +1,844 @@
+{
+  "_note": "021 巨乳ヨガインストラクターのマンツーマンレッスン。週3で通う会員（相手）と、担当インストラクター。レッスンの密着が少しずつ言い訳になっていく流れ。",
+  "imagesPerBeat": 4,
+  "beats": [
+    {
+      "day": 1,
+      "scene": "入会初日",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), bright professional smile,",
+      "pose": "standing at the studio reception, holding a clipboard, bowing slightly, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "はじめまして。　担当の　{{doc}}です"
+        ],
+        [
+          "pat",
+          "よろしく　お願いします"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "更衣室、　あちらです"
+        ],
+        [
+          "pat",
+          "ありがとうございます"
+        ]
+      ]
+    },
+    {
+      "day": 2,
+      "scene": "体験レッスン",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), encouraging smile,",
+      "pose": "demonstrating a simple stretch on a yoga mat, sitting, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "まずは　呼吸から　いきましょう"
+        ],
+        [
+          "pat",
+          "はい……"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "吸って……　吐いて"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 3,
+      "scene": "体が硬い",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), amused smile,",
+      "pose": "kneeling beside the viewer, hand on the viewer's back, leaning in, looking down,",
+      "lines": [
+        [
+          "doc",
+          "うわ、　かたい。　デスクワークですね？"
+        ],
+        [
+          "pat",
+          "……図星です"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "ここから　伸ばしていきましょう"
+        ],
+        [
+          "pat",
+          "お願いします"
+        ]
+      ]
+    },
+    {
+      "day": 4,
+      "scene": "マンツーマン提案",
+      "place": "outer",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), confident smile,",
+      "pose": "standing at the reception counter, pointing at a schedule sheet, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "個人レッスン、　取ってみます？"
+        ],
+        [
+          "pat",
+          "……お願いします"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "週2からでも　変わりますよ"
+        ],
+        [
+          "pat",
+          "やってみます"
+        ]
+      ]
+    },
+    {
+      "day": 5,
+      "scene": "週3で通う",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), pleased smile,",
+      "pose": "rolling out a yoga mat, kneeling on the floor, looking up at viewer,",
+      "lines": [
+        [
+          "doc",
+          "{{pat}}さん、　今週　3回目ですね"
+        ],
+        [
+          "pat",
+          "……効いてる気がして"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "無理してませんか"
+        ],
+        [
+          "pat",
+          "楽しいんです"
+        ]
+      ]
+    },
+    {
+      "day": 6,
+      "scene": "姿勢を直される",
+      "place": "inner",
+      "outfit": "neat",
+      "expr": "(beautiful detailed eyes:1.1), focused expression,",
+      "pose": "correcting the viewer's posture, both hands on shoulders from behind, leaning close,",
+      "lines": [
+        [
+          "doc",
+          "肩、　もう少し　下げて"
+        ],
+        [
+          "pat",
+          "……っ"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "そう、　それが　正解です"
+        ],
+        [
+          "pat",
+          "……きつい"
+        ]
+      ]
+    },
+    {
+      "day": 7,
+      "scene": "汗を拭く",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), warm smile,",
+      "pose": "wiping her neck with a towel, hoodie off one shoulder, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "今日、　暑いですね"
+        ],
+        [
+          "pat",
+          "……そうですね"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "水分、　とってくださいね"
+        ],
+        [
+          "pat",
+          "はい"
+        ]
+      ]
+    },
+    {
+      "day": 8,
+      "scene": "鏡越しの目",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), teasing smile,",
+      "pose": "standing in front of the studio mirror, meeting the viewer's eyes in the reflection,",
+      "lines": [
+        [
+          "doc",
+          "鏡、　見えてますよ"
+        ],
+        [
+          "pat",
+          "す、すみません"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "……別に　怒ってませんよ"
+        ],
+        [
+          "pat",
+          "……っ"
+        ]
+      ]
+    },
+    {
+      "day": 9,
+      "scene": "柔軟を手伝う",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), gentle smile,",
+      "pose": "pressing on the viewer's back while he stretches forward, kneeling behind, close contact,",
+      "lines": [
+        [
+          "doc",
+          "息、　吐いて。　もうちょっと"
+        ],
+        [
+          "pat",
+          "……いた、いたい"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "はい、　力　抜いて"
+        ],
+        [
+          "pat",
+          "……ふう"
+        ]
+      ]
+    },
+    {
+      "day": 10,
+      "scene": "呼吸を合わせる",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), calm expression, slight blush,",
+      "pose": "sitting face to face very close, hands on the viewer's ribs, eyes half closed,",
+      "lines": [
+        [
+          "doc",
+          "わたしの　呼吸に　合わせて"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "上手。　その調子です"
+        ],
+        [
+          "pat",
+          "……落ち着きます"
+        ]
+      ]
+    },
+    {
+      "day": 11,
+      "scene": "差し入れ",
+      "place": "room",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), cheerful smile,",
+      "pose": "holding out {{breakFoodEn}} in the back room, sitting on a small sofa,",
+      "lines": [
+        [
+          "doc",
+          "{{breakFood}}、　どうぞ。　糖分　大事です"
+        ],
+        [
+          "pat",
+          "いいんですか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "わたしも　いただきます"
+        ],
+        [
+          "pat",
+          "どうぞ"
+        ]
+      ]
+    },
+    {
+      "day": 12,
+      "scene": "自分も硬い",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), troubled smile,",
+      "pose": "rolling her own shoulder, one arm across chest, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "わたしも　肩、　がちがちなんですよ"
+        ],
+        [
+          "pat",
+          "……揉みましょうか"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "えっ、　いいんですか"
+        ],
+        [
+          "pat",
+          "力加減、　言ってください"
+        ]
+      ]
+    },
+    {
+      "day": 13,
+      "scene": "最後の枠",
+      "place": "outer",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), tired but happy smile,",
+      "pose": "sitting at the reception desk after hours, leaning on one hand, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "{{pat}}さんの予約、　いつも最後に　入れてるんです"
+        ],
+        [
+          "pat",
+          "え"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "そのほうが　ゆっくり　できるので"
+        ],
+        [
+          "pat",
+          "……うれしいです"
+        ]
+      ]
+    },
+    {
+      "day": 14,
+      "scene": "名前で呼ぶ",
+      "place": "inner",
+      "outfit": "loose",
+      "expr": "(beautiful detailed eyes:1.1), shy smile, blush,",
+      "pose": "standing close, looking up at the viewer, hands clasped in front,",
+      "lines": [
+        [
+          "doc",
+          "名前で　呼んでも　いいですか"
+        ],
+        [
+          "pat",
+          "……どうぞ"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "じゃあ　{{pat}}さん、　って"
+        ],
+        [
+          "pat",
+          "……照れますね"
+        ]
+      ]
+    },
+    {
+      "day": 15,
+      "scene": "貸切レッスン",
+      "place": "inner",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), relaxed smile,",
+      "pose": "standing in the empty studio, hoodie taken off, hands on hips, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "今日は　ほかに　誰も　いません"
+        ],
+        [
+          "pat",
+          "……そうなんですね"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "声、　出しても　平気ですよ"
+        ],
+        [
+          "pat",
+          "……出しません"
+        ]
+      ]
+    },
+    {
+      "day": 16,
+      "scene": "上着を脱ぐ",
+      "place": "inner",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), warm smile,",
+      "pose": "pulling off her hoodie, sports bra visible, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "暑いので、　脱ぎますね"
+        ],
+        [
+          "pat",
+          "……っ"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "中、　薄着で　すみません"
+        ],
+        [
+          "pat",
+          "……見ないようにします"
+        ]
+      ]
+    },
+    {
+      "day": 17,
+      "scene": "密着ポーズ",
+      "place": "inner",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), concentrated expression, blush,",
+      "pose": "supporting the viewer's back with her chest pressed close, kneeling behind,",
+      "lines": [
+        [
+          "doc",
+          "動かないで。　支えてます"
+        ],
+        [
+          "pat",
+          "……当たってます"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "あと　十秒。　がんばって"
+        ],
+        [
+          "pat",
+          "……無理です"
+        ]
+      ]
+    },
+    {
+      "day": 18,
+      "scene": "指摘される",
+      "place": "inner",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), mischievous smile,",
+      "pose": "leaning forward with both hands on knees, looking at the viewer's face,",
+      "lines": [
+        [
+          "doc",
+          "心拍、　上がってますね"
+        ],
+        [
+          "pat",
+          "運動してますから"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "脈、　はやいですね"
+        ],
+        [
+          "pat",
+          "……言わないでください"
+        ]
+      ]
+    },
+    {
+      "day": 19,
+      "scene": "鏡の前で",
+      "place": "inner",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), soft smile, blush,",
+      "pose": "standing beside the viewer in front of the mirror, shoulders touching,",
+      "lines": [
+        [
+          "doc",
+          "ふたり、　並ぶと　こんな感じですね"
+        ],
+        [
+          "pat",
+          "……近いです"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "バランス、　とれてますよ"
+        ],
+        [
+          "pat",
+          "……そっちじゃなくて"
+        ]
+      ]
+    },
+    {
+      "day": 20,
+      "scene": "レッスン後の雑談",
+      "place": "room",
+      "outfit": "off",
+      "expr": "(beautiful detailed eyes:1.1), relaxed laugh,",
+      "pose": "sitting cross-legged on the floor of the back room, holding a bottle of water,",
+      "lines": [
+        [
+          "doc",
+          "この時間が　いちばん　好きかも"
+        ],
+        [
+          "pat",
+          "……わかります"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "レッスンより　長いかも"
+        ],
+        [
+          "pat",
+          "……いいんですか"
+        ]
+      ]
+    },
+    {
+      "day": 21,
+      "scene": "ストレッチを受ける",
+      "place": "inner",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), embarrassed smile, blush,",
+      "pose": "lying on her back on a yoga mat, one leg raised, thin tank top, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "今日は　わたしが　ほぐしてもらう番かな"
+        ],
+        [
+          "pat",
+          "……やってみます"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "そこ、　もう少し　強く"
+        ],
+        [
+          "pat",
+          "……こう？"
+        ]
+      ]
+    },
+    {
+      "day": 22,
+      "scene": "髪をほどく",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), relaxed smile,",
+      "pose": "untying her ponytail in the back room, hair falling down, looking at viewer,",
+      "lines": [
+        [
+          "doc",
+          "……見られると　恥ずかしいな"
+        ],
+        [
+          "pat",
+          "そのままで　いてください"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "見てるじゃないですか"
+        ],
+        [
+          "pat",
+          "……つい"
+        ]
+      ]
+    },
+    {
+      "day": 23,
+      "scene": "汗だく",
+      "place": "inner",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), breathing hard, flushed face,",
+      "pose": "sitting on the floor after a long session, damp tank top, catching her breath,",
+      "lines": [
+        [
+          "doc",
+          "はぁ……　今日は　きつかった"
+        ],
+        [
+          "pat",
+          "お疲れさまです"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "シャワー、　先に　どうぞ"
+        ],
+        [
+          "pat",
+          "お先に　どうぞ"
+        ]
+      ]
+    },
+    {
+      "day": 24,
+      "scene": "シャワー後",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), shy smile, damp hair,",
+      "pose": "standing in the back room with a towel around her neck, damp hair, looking back at viewer,",
+      "lines": [
+        [
+          "doc",
+          "先に　流してきちゃいました"
+        ],
+        [
+          "pat",
+          "……っ"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "……髪、　乾かしてもらえますか"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 25,
+      "scene": "距離が近い",
+      "place": "inner",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), teasing smile, blush,",
+      "pose": "face very close to the viewer, POV, hands on the viewer's shoulders,",
+      "lines": [
+        [
+          "doc",
+          "近い？　わざとです"
+        ],
+        [
+          "pat",
+          "……っ"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "逃げないんですね"
+        ],
+        [
+          "pat",
+          "……逃げません"
+        ]
+      ]
+    },
+    {
+      "day": 26,
+      "scene": "外で会う話",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), hopeful smile,",
+      "pose": "sitting on the small sofa, leaning toward viewer, hands on knees,",
+      "lines": [
+        [
+          "doc",
+          "今度、　スタジオの外で　会いません？"
+        ],
+        [
+          "pat",
+          "空けます"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "スタジオの外の　わたしも　見てください"
+        ],
+        [
+          "pat",
+          "楽しみです"
+        ]
+      ]
+    },
+    {
+      "day": 27,
+      "scene": "帰したくない",
+      "place": "room",
+      "outfit": "inner",
+      "expr": "(beautiful detailed eyes:1.1), lonely smile,",
+      "pose": "sitting on the floor hugging her knees, looking up at viewer,",
+      "lines": [
+        [
+          "doc",
+          "今日は……　まだ　帰さないですよ"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "……帰らないで"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 28,
+      "scene": "着替えを覗く",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), surprised, blush,",
+      "pose": "changing in the back room, holding her shirt in front of her chest, looking back at viewer,",
+      "lines": [
+        [
+          "doc",
+          "ちょっと！　着替え中です"
+        ],
+        [
+          "pat",
+          "す、すみません"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "……もう。　見ましたよね"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ]
+    },
+    {
+      "day": 29,
+      "scene": "目をそらさない",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), serious look, blush,",
+      "pose": "sitting on the sofa in underwear, hands on knees, looking straight at viewer,",
+      "lines": [
+        [
+          "doc",
+          "……目、　そらさなくて　いいですよ"
+        ],
+        [
+          "pat",
+          "……はい"
+        ]
+      ],
+      "lines2": [
+        [
+          "doc",
+          "わたしも　そらしませんから"
+        ],
+        [
+          "pat",
+          "……っ"
+        ]
+      ]
+    },
+    {
+      "day": 30,
+      "scene": "最後のレッスン",
+      "place": "room",
+      "outfit": "underwear",
+      "expr": "(beautiful detailed eyes:1.1), soft smile, blush,",
+      "pose": "kneeling on a yoga mat in underwear, leaning toward viewer, hands on the mat,",
+      "lines": [
+        [
+          "doc",
+          "今日は……　特別メニューです"
+        ],
+        [
+          "pat",
+          "お願いします"
+        ]
+      ],
+      "narration": "このあと　めちゃくちゃ　S〇Xした",
+      "lines2": [
+        [
+          "doc",
+          "今日は　わたしの　レッスンです"
+        ]
+      ]
+    }
+  ],
+  "_panels": "1ビート=4枚。2枚ずつ1ページにまとめて2コマのページを2枚つくる（導入だけコマ割り）"
+}

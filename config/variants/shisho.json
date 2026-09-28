@@ -1,0 +1,204 @@
+{
+  "_note": "市立図書館の司書。tools/make-variant-config.mjs から生成。置き換え表は共通、値だけ作品ごと。",
+  "sourceTab": "fanza_500",
+  "tab": "fanza_500_shisho",
+  "title": "秘密図書倶楽部　ドエロい司書さんに虐められた夏",
+  "cover": "<秘密図書倶楽部>/{blue}ドエロい司書さんに虐められた夏",
+  "titleEn": "The Secret Library Club",
+  "coverEn": "The <Secret>/{blue}Library Club",
+  "age": "28歳",
+  "job": "市立図書館の司書",
+  "jobEn": "City library librarian",
+  "face": "(black hair:1.3), long hair, low chignon, hair pinned up with a hair stick, side-swept bangs, thin silver framed glasses, tareme, (dark brown eyes:1.1), quiet composed face, soft lighting,",
+  "coverOutfit": "librarian, cream knit vest, white blouse, long navy skirt, id badge on a lanyard, thin glasses,",
+  "words": {
+    "place": "市立図書館",
+    "placeShort": "貸出カウンター",
+    "uniform": "司書のベスト",
+    "item": "取り置きの本",
+    "task": "閉館後の見回り",
+    "visitor": "常連の利用者",
+    "deskItem": "貸出カード",
+    "breakFood": "差し入れのドーナツ",
+    "placeEn": "city library",
+    "placeShortEn": "lending counter",
+    "uniformEn": "librarian vest",
+    "itemEn": "a reserved book",
+    "taskEn": "closing round",
+    "visitorEn": "regular visitor",
+    "deskItemEn": "lending card",
+    "breakFoodEn": "a donut someone brought in"
+  },
+  "sceneRename": {
+    "診察": "貸出カウンター",
+    "聴診器": "取り置きの本",
+    "座って書いてる": "貸出カード"
+  },
+  "setup": "残業帰りに市立図書館へ通うようになった社会人の{{pat}}。カウンターの向こうにいるのは、いつも声をひそめて話す司書の{{docFull}}さんだった。",
+  "setupEn": "{{pat}}, an office worker, starts stopping by the city library on his way home from work. Behind the lending counter is {{docFull}}, a librarian who always speaks in a hushed voice.",
+  "story": [
+    "最初は「返却期限は二週間です」と事務的に話すだけだった{{doc}}さん。",
+    "通うたびに、頼んでいない本が取り置きされ、閉架書庫まで連れて行かれるようになる。",
+    "「ここ、声を出すと響きますから」――誰も来ない書庫で、距離が縮まっていく。",
+    "30日目、閉館後の司書室で、ふたりの関係が変わる。"
+  ],
+  "storyEn": [
+    "At first, {{doc}} only tells him the loan period is two weeks.",
+    "Visit by visit, books he never asked for are held for him, and she starts taking him into the closed stacks.",
+    "\"Sound carries in here, so keep your voice down.\" In stacks nobody else enters, the distance shrinks.",
+    "On Day 30, in the librarian's office after closing, everything changes."
+  ],
+  "appeal": [
+    "声をひそめたまま距離を詰めてくる大人の司書が、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+    "司書のベスト・ブラウス・カーディガン・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+    "閉架書庫、司書室、閉館後の館内、職員シャワー室などシチュエーションを変えながら500ページの大ボリューム",
+    "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+  ],
+  "appealEn": [
+    "Watch a grown-up librarian who closes the distance without ever raising her voice slowly get closer over 30 days, told through dated dialogue pages",
+    "Outfits galore: librarian vest, blouse, cardigan, swimsuit, maid outfit, Santa costume",
+    "500 pages across the closed stacks, the librarian's office, the library after closing, the staff shower room and more",
+    "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+  ],
+  "sections": {
+    "非エロ": "日常パート",
+    "クリニック": "閉架書庫でえろえろ",
+    "部屋": "司書室でH",
+    "自宅マイクロビキニ": "マイクロビキニでH",
+    "夜のオフィス": "閉館後の館内でH",
+    "ホテルのプール更衣室": "職員シャワー室でH",
+    "メイド服のオフィス": "夜の司書室でメイド服H",
+    "オフィスカジュアル": "司書室で私服H",
+    "サンタコスのオフィス": "おまけ（サンタコス）"
+  },
+  "sectionsEn": {
+    "非エロ": "Everyday days (with dialogue)",
+    "クリニック": "In the closed stacks",
+    "部屋": "The librarian's office",
+    "自宅マイクロビキニ": "Micro bikini at home",
+    "夜のオフィス": "The library after closing",
+    "ホテルのプール更衣室": "The staff shower room",
+    "メイド服のオフィス": "Maid outfit in the office at night",
+    "オフィスカジュアル": "Casual clothes in the office",
+    "サンタコスのオフィス": "Bonus: Santa costume"
+  },
+  "replace": [
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,partially undressed,",
+      "librarian, cream knit vest, white blouse, long navy skirt, id badge on a lanyard, thin glasses, cleavage,partially undressed,"
+    ],
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,",
+      "librarian, cream knit vest, white blouse, long navy skirt, id badge on a lanyard, thin glasses, cleavage,"
+    ],
+    [
+      "white turtleneck sweater,lab coat, open lab coat, black miniskirt, stethoscope, cleavage,",
+      "white blouse, open cream cardigan, long navy skirt, thin glasses, cleavage,"
+    ],
+    [
+      "pink camisole, black miniskirt, stethoscope, cleavage,",
+      "thin white camisole, long navy skirt, cleavage,"
+    ],
+    [
+      "office lady, glasses, fitted blazer, pencil skirt, mature and intelligent atmosphere,partially undressed,",
+      "dark green ribbed knit dress, thin glasses, id badge on a lanyard,partially undressed,"
+    ],
+    [
+      "office lady, black fitted blazer, black pencil skirt,partially undressed,",
+      "dark green ribbed knit dress, thin glasses, id badge on a lanyard,partially undressed,"
+    ],
+    [
+      "competition swimsuit,",
+      "white bath towel, towel wrap, wet hair,"
+    ],
+    [
+      "office blouse, fitted pencil skirt, pearl earrings,",
+      "loose beige cardigan, simple blouse, long pleated skirt,"
+    ],
+    [
+      "private clinic examination room, unoccupied bed near windows, sheer white curtains swaying, eye chart, health notices, metal lockers, white enamel sink, potted plant, tissue box,",
+      "city library closed stacks at night, tall metal shelving, rolling stacks with hand cranks, narrow aisle, call number labels, rolling ladder, book cart, dim work lights, dust in the air,"
+    ],
+    [
+      "private clinic, medical examination,",
+      "city library, lending counter,"
+    ],
+    [
+      "office,(night:1.5),",
+      "librarian office,(night:1.5),desk lamp,"
+    ],
+    [
+      "office,night,",
+      "library reading room,night,emergency exit sign,"
+    ],
+    [
+      "hotel pool side,",
+      "staff shower room, steam, tiled wall, wooden stool,"
+    ],
+    [
+      "office meeting room,indoor,",
+      "librarian office,indoor,worn sofa,"
+    ],
+    [
+      "erotic checkup,",
+      "erotic librarian,"
+    ],
+    [
+      "checking temperature, hand on forehead, leaning forward, concerned expression, caring, private clinic, nurse desk,",
+      "handing over a reserved book, leaning over the counter, quiet expression, caring, city library lending counter,"
+    ],
+    [
+      "stethoscope, medical examination, listening to heartbeat, professional expression, private clinic, close up,",
+      "holding a reserved book with a slip in it, checking the title, calm expression, city library lending counter, close up,"
+    ],
+    [
+      "writing medical records, sitting at desk, pen in hand, focused expression, paperwork, private clinic, side view,",
+      "writing on a lending card, sitting at the counter, pen in hand, focused expression, city library, side view,"
+    ],
+    [
+      "wearing an elegant office blouse and pencil skirt",
+      "wearing a loose cardigan and a long pleated skirt"
+    ],
+    [
+      "open lab coat,",
+      "open cardigan,"
+    ],
+    [
+      "caring for patient",
+      "caring for a regular visitor"
+    ],
+    [
+      "private clinic",
+      "city library"
+    ]
+  ],
+  "account": "B",
+  "introStoryboard": "config/intro-storyboard-shisho.json",
+  "introOutfits": {
+    "neat": "librarian, white blouse, cream knit vest, navy long skirt, thin framed glasses, hair in a low chignon,",
+    "loose": "librarian, white blouse, no vest, navy long skirt, sleeves pushed up, thin framed glasses,",
+    "off": "white blouse with collar loosened, navy long skirt, bare shoulders, glasses,",
+    "inner": "thin camisole, navy long skirt, bare shoulders, glasses,",
+    "underwear": "white bra, panties, lace, bare shoulders, glasses,"
+  },
+  "introPlaces": {
+    "outer": "public library reading room, long tables, green lamps, tall windows, indoor,",
+    "inner": "closed stacks of a library, rolling shelves, rolling ladder, dim light, indoor,",
+    "room": "librarian office, desk with stamps and cards, small sofa, dim warm light, indoor,"
+  },
+  "coverExprFrom": "イキ顔",
+  "coverBg": "dark",
+  "coverHeroH": 1.22,
+  "coverHeroX": 0.66,
+  "titleRuby": "ひみつとしょくらぶどえろいししょさんにいじめられたなつ",
+  "fanzaKeywords": [
+    "眼鏡",
+    "巨乳",
+    "おっぱい",
+    "中出し",
+    "フェラ",
+    "パイズリ",
+    "逆レイプ",
+    "オリジナル"
+  ]
+}

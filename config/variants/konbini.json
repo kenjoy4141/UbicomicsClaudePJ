@@ -1,0 +1,204 @@
+{
+  "_note": "深夜のコンビニ店員。tools/make-variant-config.mjs から生成。置き換え表は共通、値だけ作品ごと。",
+  "sourceTab": "fanza_500",
+  "tab": "fanza_500_konbini",
+  "title": "深夜のコンビニは裏〇俗　巨乳コンビニ店員の裏の顔",
+  "cover": "深夜のコンビニは<裏○俗>/{blue}巨乳コンビニ店員の裏の顔",
+  "titleEn": "The Night Shift Clerk's Other Job",
+  "coverEn": "The Night Shift/{blue}Clerk's <Other Job>",
+  "age": "28歳",
+  "job": "深夜のコンビニ店員",
+  "jobEn": "Night shift convenience store clerk",
+  "face": "(ash brown hair:1.3), long hair, low messy bun, loose strands at the nape, blunt bangs, half-lidded sleepy eyes, (gray eyes:1.1), languid face, tired but friendly, soft lighting,",
+  "coverOutfit": "convenience store uniform, short sleeve uniform shirt with blue stripes, name tag on chest, black slacks, wrist watch,",
+  "words": {
+    "place": "深夜のコンビニ",
+    "placeShort": "レジ前",
+    "uniform": "店のユニフォーム",
+    "item": "あたためた肉まん",
+    "task": "夜中の品出し",
+    "visitor": "常連さん",
+    "deskItem": "発注端末",
+    "breakFood": "廃棄のおにぎり",
+    "placeEn": "the store",
+    "placeShortEn": "the register",
+    "uniformEn": "store uniform",
+    "itemEn": "a hot steamed bun",
+    "taskEn": "night restocking",
+    "visitorEn": "regular customer",
+    "deskItemEn": "ordering tablet",
+    "breakFoodEn": "a rice ball past its time"
+  },
+  "sceneRename": {
+    "診察": "レジ前",
+    "聴診器": "あたため",
+    "座って書いてる": "発注"
+  },
+  "setup": "夜勤明けの帰り道、毎晩おなじコンビニに寄る社会人の{{pat}}。午前2時の店内でひとりレジに立っているのは、いつも眠そうな夜勤の店長代理{{docFull}}さんだった。",
+  "setupEn": "{{pat}}, an office worker coming off the night shift, stops at the same convenience store every night. The one standing alone at the register at 2am is {{docFull}}, the sleepy-eyed night manager on duty.",
+  "story": [
+    "最初は「いつもの、あたためますか」と聞いてくるだけだった{{doc}}さん。",
+    "毎晩おなじ時間に通ううち、廃棄の夜食を分けてくれ、レジ前の雑談が長くなる。",
+    "「この時間、お客さんあなただけなんですよ」――誰も来ない店内で、距離が縮まっていく。",
+    "30日目、閉まらない店のバックヤードで、ふたりの関係が変わる。"
+  ],
+  "storyEn": [
+    "At first, {{doc}} only asks whether he wants the usual heated up.",
+    "Night after night at the same hour, she shares the food pulled off the shelf and the talks at the register run longer.",
+    "\"At this hour you're the only customer, you know.\" In an empty store, the distance shrinks.",
+    "On Day 30, in the back room of a store that never closes, everything changes."
+  ],
+  "appeal": [
+    "深夜2時だけ無防備になる夜勤の店員さんが、30日かけて少しずつ距離を縮めていく過程を日付入りのセリフで楽しめます",
+    "店のユニフォーム・エプロン・パーカー・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+    "レジ前、バックヤード、深夜の売場、銭湯などシチュエーションを変えながら500ページの大ボリューム",
+    "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+  ],
+  "appealEn": [
+    "Watch a night shift clerk who only lets her guard down at 2am slowly get closer over 30 days, told through dated dialogue pages",
+    "Outfits galore: store uniform, work apron, hoodie, swimsuit, maid outfit, Santa costume",
+    "500 pages across the register, the back room, the sales floor at night, a public bath and more",
+    "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+  ],
+  "sections": {
+    "非エロ": "日常パート",
+    "クリニック": "レジ前でえろえろ",
+    "部屋": "バックヤードでH",
+    "自宅マイクロビキニ": "マイクロビキニでH",
+    "夜のオフィス": "深夜の売場でH",
+    "ホテルのプール更衣室": "銭湯でH",
+    "メイド服のオフィス": "深夜のバックヤードでメイド服H",
+    "オフィスカジュアル": "休憩室で私服H",
+    "サンタコスのオフィス": "おまけ（サンタコス）"
+  },
+  "sectionsEn": {
+    "非エロ": "Everyday days (with dialogue)",
+    "クリニック": "At the register",
+    "部屋": "The back room",
+    "自宅マイクロビキニ": "Micro bikini at home",
+    "夜のオフィス": "The sales floor at night",
+    "ホテルのプール更衣室": "The public bath",
+    "メイド服のオフィス": "Maid outfit in the back room",
+    "オフィスカジュアル": "Casual clothes in the break room",
+    "サンタコスのオフィス": "Bonus: Santa costume"
+  },
+  "replace": [
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,partially undressed,",
+      "convenience store uniform, short sleeve uniform shirt with blue stripes, name tag, black slacks, cleavage,partially undressed,"
+    ],
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,",
+      "convenience store uniform, short sleeve uniform shirt with blue stripes, name tag, black slacks, cleavage,"
+    ],
+    [
+      "white turtleneck sweater,lab coat, open lab coat, black miniskirt, stethoscope, cleavage,",
+      "white long sleeve inner shirt, open convenience store uniform shirt, name tag, cleavage,"
+    ],
+    [
+      "pink camisole, black miniskirt, stethoscope, cleavage,",
+      "thin white camisole, black slacks, cleavage,"
+    ],
+    [
+      "office lady, glasses, fitted blazer, pencil skirt, mature and intelligent atmosphere,partially undressed,",
+      "dark green work apron, short sleeve shirt, name tag on a lanyard,partially undressed,"
+    ],
+    [
+      "office lady, black fitted blazer, black pencil skirt,partially undressed,",
+      "dark green work apron, short sleeve shirt, name tag on a lanyard,partially undressed,"
+    ],
+    [
+      "competition swimsuit,",
+      "white bath towel, towel wrap, wet hair,"
+    ],
+    [
+      "office blouse, fitted pencil skirt, pearl earrings,",
+      "oversized hoodie, simple t-shirt, relaxed sweatpants,"
+    ],
+    [
+      "private clinic examination room, unoccupied bed near windows, sheer white curtains swaying, eye chart, health notices, metal lockers, white enamel sink, potted plant, tissue box,",
+      "convenience store at 2am, checkout counter, register, hot food case, fried chicken warmer, cigarette shelf behind the counter, bright fluorescent ceiling lights, glass storefront with a dark empty street outside,"
+    ],
+    [
+      "private clinic, medical examination,",
+      "convenience store, night shift,"
+    ],
+    [
+      "office,(night:1.5),",
+      "convenience store back room,(night:1.5),desk lamp,"
+    ],
+    [
+      "office,night,",
+      "convenience store sales floor,night,magazine rack,"
+    ],
+    [
+      "hotel pool side,",
+      "public bath house, steam, tiled bath, wooden stool,"
+    ],
+    [
+      "office meeting room,indoor,",
+      "convenience store break room,indoor,folding table,"
+    ],
+    [
+      "erotic checkup,",
+      "erotic night shift,"
+    ],
+    [
+      "checking temperature, hand on forehead, leaning forward, concerned expression, caring, private clinic, nurse desk,",
+      "handing over a hot steamed bun, leaning over the counter, gentle expression, caring, convenience store at night,"
+    ],
+    [
+      "stethoscope, medical examination, listening to heartbeat, professional expression, private clinic, close up,",
+      "holding a paper bag with both hands, offering it across the counter, soft expression, convenience store counter, close up,"
+    ],
+    [
+      "writing medical records, sitting at desk, pen in hand, focused expression, paperwork, private clinic, side view,",
+      "tapping an ordering tablet, sitting behind the night counter, stylus in hand, focused expression, convenience store, side view,"
+    ],
+    [
+      "wearing an elegant office blouse and pencil skirt",
+      "wearing an oversized hoodie and sweatpants"
+    ],
+    [
+      "open lab coat,",
+      "open uniform shirt,"
+    ],
+    [
+      "caring for patient",
+      "caring for a regular customer"
+    ],
+    [
+      "private clinic",
+      "convenience store"
+    ]
+  ],
+  "account": "D",
+  "introStoryboard": "config/intro-storyboard-konbini.json",
+  "introOutfits": {
+    "neat": "convenience store clerk, striped uniform shirt, name tag, dark trousers, loose bun,",
+    "loose": "convenience store clerk, uniform shirt with collar loosened, sleeves pushed up,",
+    "off": "thin inner shirt, dark trousers, bare shoulders,",
+    "inner": "thin camisole, short shorts, bare shoulders,",
+    "underwear": "dark blue bra, panties, lace, bare shoulders,"
+  },
+  "introPlaces": {
+    "outer": "convenience store front at night, glass windows, bright signage, empty parking lot,",
+    "inner": "convenience store interior at night, shelves, register counter, bright fluorescent light,",
+    "room": "convenience store back room, stacked cartons, small desk, dim light, indoor,"
+  },
+  "coverExprFrom": "イキ顔",
+  "coverBg": "dark",
+  "coverHeroH": 1.22,
+  "coverHeroX": 0.66,
+  "titleRuby": "しんやのこんびにはうらふうぞくきょにゅうこんびにてんいんのうらのかお",
+  "fanzaKeywords": [
+    "巨乳",
+    "おっぱい",
+    "中出し",
+    "フェラ",
+    "パイズリ",
+    "逆レイプ",
+    "イチャラブ",
+    "オリジナル"
+  ]
+}

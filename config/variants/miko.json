@@ -1,0 +1,185 @@
+{
+  "_note": "018 巫女。fanza_500 を元に、場所・シチュ・服装・キャラを差し替える。",
+  "sourceTab": "fanza_500",
+  "tab": "fanza_500_miko",
+  "title": "30日後にS○Xする巫女さん",
+  "cover": "30日後[に]/{blue}S⚪︎Xする巫女さん",
+  "titleEn": "30 Days Until I Sleep With My Shrine Maiden",
+  "coverEn": "30 Days Until I Sleep/{blue}With My Shrine Maiden",
+  "job": "巫女",
+  "jobEn": "Shrine maiden",
+  "face": "(black hair:1.3), very long hair, straight hair, low ponytail with red ribbon, blunt bangs, hair over shoulder, shiny hair, tareme, (dark red eyes:1.1), long eyelashes, soft lighting,",
+  "coverOutfit": "shrine maiden, white haori, red hakama, traditional miko outfit, red ribbon in hair,",
+  "words": {
+    "place": "神社",
+    "placeShort": "境内",
+    "uniform": "巫女装束",
+    "item": "お守り",
+    "task": "お参り",
+    "visitor": "参拝",
+    "deskItem": "御朱印帳",
+    "breakFood": "お茶菓子",
+    "placeEn": "shrine",
+    "placeShortEn": "shrine grounds",
+    "uniformEn": "miko outfit",
+    "itemEn": "charm",
+    "taskEn": "prayer",
+    "visitorEn": "visit",
+    "deskItemEn": "goshuin book",
+    "breakFoodEn": "tea sweets"
+  },
+  "sceneRename": {
+    "診察": "お参り",
+    "聴診器": "お守り渡し",
+    "座って書いてる": "御朱印書き"
+  },
+  "setup": "厄年の厄払いに通うことになった社会人の{{pat}}。町外れの神社で迎えてくれたのは、物静かで美人な巫女の{{docFull}}さんだった。",
+  "setupEn": "{{pat}}, an office worker, starts visiting a small shrine for a year-long blessing ritual. The one who greets him each time is {{docFull}}, a quiet and beautiful shrine maiden.",
+  "story": [
+    "最初は「作法どおりに」とそっけなかった{{doc}}さん。",
+    "通うたびに、お守りの説明が長くなり、お茶菓子を分けてくれ、装束を脱いだ素顔を見せてくれるように。",
+    "「厄払いはもう終わってるのに」――それでも{{pat}}のぶんの御朱印は、いつも最後に書かれる。",
+    "30日目、人のいない夜の境内で、ふたりの関係が変わる。"
+  ],
+  "storyEn": [
+    "At first, {{doc}} only tells him to follow the proper form.",
+    "Visit by visit, her explanations get longer. She shares her tea sweets. She lets him see her without the miko outfit.",
+    "\"The ritual is already finished, you know.\" And yet his goshuin is always the last one she writes.",
+    "On Day 30, in the empty shrine grounds at night, everything changes."
+  ],
+  "appeal": [
+    "物静かな美人巫女が、30日かけて少しずつほどけていく過程を日付入りのセリフで楽しめます",
+    "巫女装束・白衣に赤袴・浴衣・水着・メイド服・サンタコスなど衣装バリエーション豊富",
+    "社務所、自室、夜の境内、温泉などシチュエーションを変えながら500ページの大ボリューム",
+    "キス、パイズリ、フェラ、正常位・騎乗位・立ちバックなど多彩なプレイを収録"
+  ],
+  "appealEn": [
+    "Watch a quiet, beautiful shrine maiden slowly open up over 30 days, told through dated dialogue pages",
+    "Outfits galore: miko outfit, yukata, swimsuit, maid outfit, Santa costume",
+    "500 pages across the shrine office, her room, the grounds at night, a hot spring and more",
+    "Kissing, paizuri, blowjobs, missionary, cowgirl, standing doggy and more"
+  ],
+  "sections": {
+    "非エロ": "日常パート",
+    "クリニック": "社務所でえろえろ",
+    "部屋": "お部屋でH",
+    "自宅マイクロビキニ": "マイクロビキニでH",
+    "夜のオフィス": "夜の社務所で巫女装束H",
+    "ホテルのプール更衣室": "温泉宿でH",
+    "メイド服のオフィス": "夜の社務所でメイド服H",
+    "オフィスカジュアル": "客間で浴衣H",
+    "サンタコスのオフィス": "おまけ（サンタコス）"
+  },
+  "sectionsEn": {
+    "非エロ": "Everyday days (with dialogue)",
+    "クリニック": "Shrine office",
+    "部屋": "Her room",
+    "自宅マイクロビキニ": "Micro bikini at home",
+    "夜のオフィス": "Miko outfit at night",
+    "ホテルのプール更衣室": "Hot spring inn",
+    "メイド服のオフィス": "Maid outfit at night",
+    "オフィスカジュアル": "Yukata in the guest room",
+    "サンタコスのオフィス": "Bonus: Santa costume"
+  },
+  "replace": [
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,partially undressed,",
+      "shrine maiden, white haori, red hakama, traditional miko outfit, cleavage,partially undressed,"
+    ],
+    [
+      "lab coat, pink camisole, black miniskirt, stethoscope, cleavage,",
+      "shrine maiden, white haori, red hakama, traditional miko outfit, cleavage,"
+    ],
+    [
+      "white turtleneck sweater,lab coat, open lab coat, black miniskirt, stethoscope, cleavage,",
+      "white kimono robe, red hakama, open haori, traditional miko outfit, cleavage,"
+    ],
+    [
+      "pink camisole, black miniskirt, stethoscope, cleavage,",
+      "white juban undergarment, red hakama, cleavage,"
+    ],
+    [
+      "office lady, glasses, fitted blazer, pencil skirt, mature and intelligent atmosphere,partially undressed,",
+      "shrine maiden, white haori, red hakama, calm and graceful atmosphere,partially undressed,"
+    ],
+    [
+      "office lady, black fitted blazer, black pencil skirt,partially undressed,",
+      "shrine maiden, white haori, red hakama, traditional miko outfit,partially undressed,"
+    ],
+    [
+      "competition swimsuit,",
+      "white bath towel, towel wrap, wet hair,"
+    ],
+    [
+      "office blouse, fitted pencil skirt, pearl earrings,",
+      "light yukata, thin obi, bare shoulders,"
+    ],
+    [
+      "private clinic examination room, unoccupied bed near windows, sheer white curtains swaying, eye chart, health notices, metal lockers, white enamel sink, potted plant, tissue box,",
+      "shrine office room, tatami floor, low wooden desk, sliding paper doors, charms and ema plaques on the wall, incense smoke, folded cushions, wooden shelves,"
+    ],
+    [
+      "private clinic, medical examination,",
+      "shrine, blessing ritual,"
+    ],
+    [
+      "office,(night:1.5),",
+      "shrine office,(night:1.5),paper lanterns,"
+    ],
+    [
+      "office,night,",
+      "shrine grounds,night,stone lanterns,"
+    ],
+    [
+      "hotel pool side,",
+      "hot spring inn, open air bath, steam, wooden bath,"
+    ],
+    [
+      "office meeting room,indoor,",
+      "japanese guest room,indoor,tatami,"
+    ],
+    [
+      "erotic checkup,",
+      "erotic blessing ritual,"
+    ],
+    [
+      "checking temperature, hand on forehead, leaning forward, concerned expression, caring, private clinic, nurse desk,",
+      "handing over a charm, leaning forward, gentle expression, caring, shrine office desk,"
+    ],
+    [
+      "stethoscope, medical examination, listening to heartbeat, professional expression, private clinic, close up,",
+      "holding a lucky charm, offering it with both hands, serene expression, shrine, close up,"
+    ],
+    [
+      "writing medical records, sitting at desk, pen in hand, focused expression, paperwork, private clinic, side view,",
+      "writing calligraphy in a goshuin book, sitting at a low desk, brush in hand, focused expression, shrine office, side view,"
+    ],
+    [
+      "wearing an elegant office blouse and pencil skirt",
+      "wearing a light yukata"
+    ],
+    [
+      "open lab coat,",
+      "open haori,"
+    ],
+    [
+      "caring for patient",
+      "caring for visitor"
+    ],
+    [
+      "private clinic",
+      "shrine"
+    ]
+  ],
+  "titleRuby": "さんじゅうにちごにえすっくすするみこさん",
+  "fanzaKeywords": [
+    "巫女",
+    "巨乳",
+    "中出し",
+    "おっぱい",
+    "フェラ",
+    "イチャラブ",
+    "オリジナル",
+    "制服"
+  ]
+}
